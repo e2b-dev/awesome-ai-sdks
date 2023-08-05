@@ -13,7 +13,7 @@
 </h1>
 
 
-<img src="/assets/landscape-latest.png" width="100%" alt="SDKs Repo Visual" />
+<img src="/assets/visual.png" width="100%" alt="SDKs Repo Visual" />
 
 Welcome to our list of [AI agents](https://github.com/e2b-dev/awesome-ai-agents) SDKs. A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous [AI agents](https://github.com/e2b-dev/awesome-ai-agents)
 
