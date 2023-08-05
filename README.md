@@ -1,4 +1,4 @@
-# awesome-ai-agents-sdks
+# awesome-sdks-for-ai-agents
 
 <h1 align="center">
 	:gift: Awesome AI Agents SDKs
