@@ -1,7 +1,7 @@
 # awesome-ai-agents-sdks
 
 <h1 align="center">
-	🔮 Awesome AI Agents SDKs
+	:gift: Awesome AI Agents SDKs
 	<p align="center">
 		<a href="https://discord.gg/U7KEcGErtQ" target="_blank">
 			<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
@@ -90,11 +90,26 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
-## []()
+## [Fixie]()
+
+Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
+
 <details>
 
 <!-- ### Description -->
-- 
+
+### Links
+- [Web](https://docs.fixie.ai/agents/)
+
+
+
+</details>
+
+## [Helicone]()
+<details>
+
+<!-- ### Description -->
+
 
 ### Links
 - [Web]()
@@ -103,11 +118,11 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
-## []()
+## [Langchain]()
 <details>
 
 <!-- ### Description -->
-- 
+
 
 ### Links
 - [Web]()
@@ -116,11 +131,11 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
-## []()
+## [Langfuse]()
 <details>
 
 <!-- ### Description -->
-- 
+
 
 ### Links
 - [Web]()
@@ -129,11 +144,11 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
-## []()
+## [LangSmith]()
 <details>
 
 <!-- ### Description -->
-- 
+
 
 ### Links
 - [Web]()
@@ -142,78 +157,67 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
-## []()
-<details>
+## [SID](https://www.sid.ai/)
 
-<!-- ### Description -->
-- 
-
-### Links
-- [Web]()
-
-
-
-</details>
-
-## []()
-<details>
-
-<!-- ### Description -->
-- 
-
-### Links
-- [Web]()
-
-
-
-</details>
-
-## []()
-<details>
-
-<!-- ### Description -->
-- 
-
-### Links
-- [Web]()
-
-
-
-</details>
-
-## []()
-<details>
-
-<!-- ### Description -->
-- 
-
-### Links
-- [Web]()
-
-
-
-</details>
-
-
-
-
-
-
-
-Fixie
-
-Helicone
-
-Langchain
-
-Langsmith
-
-Langfuse
-
-
-
-SID
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://www.sid.ai/)
+- [Twitter](https://twitter.com/try_sid)
+
+
+
+</details>
+
+## [Steamship](https://www.steamship.com/)
+Steamship is a platform that allows to build, scale, and monitor AI agents with serverless cloud hosting, vector search, webhooks, callbacks, and more.
+<details>
+
+<!-- ### Description -->
+- 
+
+### Links
+- [Web](https://www.steamship.com/)
+- [GitHub](https://github.com/steamship-core)
+- [Twitter](https://twitter.com/GetSteamship)
+- [Discord](https://discord.com/invite/dR5fHvxSNg)
+
+
+
+</details>
+
+## [Vercel AI SDK](https://sdk.vercel.ai/docs)
+
+An open source library for building AI-powered user interfaces.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://sdk.vercel.ai/docs)
+- [GitHub](https://github.com/vercel-labs/ai)
+
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
 
 Links
 Web
