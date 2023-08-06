@@ -74,6 +74,21 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [AGiXT](https://github.com/Josh-XT/AGiXT)
+A dynamic AI Automation Platform for Interoperability & AI Agent Management
+
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/Josh-XT/AGiXT)
+- [Twitter](https://twitter.com/Josh_XT)
+- [Discord](https://discord.com/invite/d3TkHRZcjD)
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
@@ -89,7 +104,7 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
-## [Fixie]()
+## [Fixie](https://www.fixie.ai/)
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
 
@@ -103,6 +118,26 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 
 </details>
+
+
+## [Haystack by Deepset](https://haystack.deepset.ai/)
+
+Haystack is an open-source LLM framework for building production-ready applications.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://haystack.deepset.ai/)
+- [GitHub](https://github.com/deepset-ai/haystack)
+
+
+
+</details>
+
+
+
 
 ## [Helicone](https://www.helicone.ai/)
 An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
@@ -121,6 +156,22 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 
 </details>
+
+## [Hugging Face Agents](https://huggingface.co/docs/transformers/main_classes/agent)
+Platform for deploying LLM agents with tools. They provide three types of agents: HfAgent uses inference endpoints for opensource models, LocalAgent uses a model of your choice locally and OpenAiAgent uses OpenAI closed models.
+
+<details>
+
+<!-- )### Description -->
+
+### Links
+- [Web](https://huggingface.co/docs/transformers/main_classes/agent)
+
+
+
+</details>
+
+
 
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
