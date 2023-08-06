@@ -170,6 +170,21 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Rift by Morph](https://github.com/morph-labs/rift)
+Rift is an AI-native language server for AI agents. It's an open source VS Code extension that allows merging the output of code generation agents.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://morph.so/)
+- [GitHub](https://github.com/morph-labs/rift)
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
