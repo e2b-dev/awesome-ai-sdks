@@ -1,7 +1,6 @@
-# awesome-sdks-for-ai-agents
 
 <h1 align="center">
-	:gift: Awesome AI Agents SDKs
+	:gift: Awesome SDKs For AI Agents
 	<p align="center">
 		<a href="https://discord.gg/U7KEcGErtQ" target="_blank">
 			<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
@@ -105,53 +104,67 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
-## [Helicone]()
+## [Helicone](https://www.helicone.ai/)
+An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
+
+
 <details>
 
 <!-- ### Description -->
 
 
 ### Links
-- [Web]()
+- [Web](https://www.helicone.ai/)
+- [GitHub](https://github.com/Helicone/helicone)
+- [Linkedin](https://www.linkedin.com/company/helicone/)
 
 
 
 </details>
 
-## [Langchain]()
+## [Langchain](https://www.langchain.com/)
+LangChain is a framework designed to simplify the creation of applications using large language models.
+
 <details>
 
 <!-- ### Description -->
 
 
 ### Links
-- [Web]()
+- [Web](https://www.langchain.com/)
+- [GitHub](https://github.com/langchain-ai/langchain)
 
 
 
 </details>
 
-## [Langfuse]()
+## [Langfuse](https://langfuse.com/)
+Langfuse is an open-source analytics for LLM apps. The analytics is currently in a closed alph
+
 <details>
 
 <!-- ### Description -->
 
 
 ### Links
-- [Web]()
+- [Web](https://langfuse.com/)
+- [GitHub](https://github.com/langfuse/langfuse)
 
 
 
 </details>
 
-## [LangSmith]()
+## [LangSmith](https://smith.langchain.com/)
+A unified platform for debugging, testing, evaluating, and monitoring LLM applications. LangSmith is now in closed beta. 
+
+
 <details>
 
 <!-- ### Description -->
 
 
 ### Links
-- [Web]()
+- [Web](https://smith.langchain.com/)
 
 
 
