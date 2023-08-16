@@ -89,6 +89,24 @@ A dynamic AI Automation Platform for Interoperability & AI Agent Management
 
 </details>
 
+## [Axilla](https://www.axilla.io/)
+Axilla is a comprehensive end-to-end open-source LLM framework for TypeScript. It provides a family of modular libraries, which can be incrementally adopted, and together form an end-to-end opinionated framework for AI development.
+Axilla targets enterprises and allows them develop AI applications. They provide toolkit to orchestrate, monitor, and continuously improve AI applications in production.
+
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/axilla-io/ax)
+- [Twitter](https://twitter.com/axilla_io)
+- [YCombinator](https://www.ycombinator.com/companies/axilla)
+
+</details>
+
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
