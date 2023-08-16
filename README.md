@@ -256,7 +256,7 @@ Rift is an AI-native language server for AI agents. It's an open source VS Code 
 
 ## [SID](https://www.sid.ai/)
 
-SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
+SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API. It is a fully-hosted retrieval pipeline that makes it easy to connect services like Google Mail, Notion, GDrive, or fully custom data. In one afternoon, you can connect to any data source you'd like and instantly scale to millions of users.
 
 <details>
 
