@@ -239,6 +239,26 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [LlamaIndex](https://www.llamaindex.ai/)
+LlamaIndex (formerly GPT Index) is a data framework for LLM applications to ingest, structure, and access private or domain-specific data. 
+
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Twitter](https://twitter.com/llama_index)
+- [Discord](https://discord.com/invite/eN6D2HQ4aX)
+- [Docs](https://gpt-index.readthedocs.io/en/latest/)
+
+
+
+</details>
+
+
+
 ## [Rift by Morph](https://github.com/morph-labs/rift)
 Rift is an AI-native language server for AI agents. It's an open source VS Code extension that allows merging the output of code generation agents.
 
