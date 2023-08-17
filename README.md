@@ -1,5 +1,3 @@
-<! --  TBD - Add to visual: Rift by Morph -->
-
 
 <h1 align="center">
 	:gift: Awesome SDKs For AI Agents
