@@ -14,25 +14,13 @@
 
 <img src="/assets/visual.png" width="100%" alt="SDKs Repo Visual" />
 
-Welcome to our list of [AI agents](https://github.com/e2b-dev/awesome-ai-agents) SDKs. A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous [AI agents](https://github.com/e2b-dev/awesome-ai-agents)
+Welcome to our list of [AI agents](https://github.com/e2b-dev/awesome-ai-agents) SDKs. A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous [AI agents](https://github.com/e2b-dev/awesome-ai-agents).
 
 The list is done according to our best knowledge, although definitely not comprehensive.
 Discussion and feedback appreciated! :heart:
 
 ## Have anything to add?
 You have something to add or improve about our list? Do it via pull request.
-
-## Who's behind this?
-This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b is building an operation system of AI agents - that is, a set of tools, environments, SDKs and APIs. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
-
-## Join the community
-- Follow us on [Twitter](https://twitter.com/e2b_dev)
-- [Join Twitter community](https://twitter.com/i/communities/1670204079619055616) for AI agents
-- [Join our Discord](https://discord.gg/U7KEcGErtQ)
-- Want to discuss anything about AI agents? [Schedule a call with us](https://calendly.com/tereza-tizkova/30min)
-
-Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
-Check out also our database of [AI agents](https://github.com/e2b-dev/awesome-ai-agents).
 
 
 ## [E2b](https://www.e2b.dev/)
@@ -322,6 +310,17 @@ An open source library for building AI-powered user interfaces.
 - [Web](https://sdk.vercel.ai/docs)
 - [GitHub](https://github.com/vercel-labs/ai)
 
+## Who's behind this?
+This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b is building an operation system of AI agents - that is, a set of tools, environments, SDKs and APIs. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
+
+## Join the community
+- Follow us on [Twitter](https://twitter.com/e2b_dev)
+- [Join Twitter community](https://twitter.com/i/communities/1670204079619055616) for AI agents
+- [Join our Discord](https://discord.gg/U7KEcGErtQ)
+- Want to discuss anything about AI agents? [Schedule a call with us](https://calendly.com/tereza-tizkova/30min)
+
+Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
+Check out also our database of [AI agents](https://github.com/e2b-dev/awesome-ai-agents).
 
 </details>
 
