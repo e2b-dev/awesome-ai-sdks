@@ -252,6 +252,7 @@ LlamaIndex (formerly GPT Index) is a data framework for LLM applications to inge
 - [Twitter](https://twitter.com/llama_index)
 - [Discord](https://discord.com/invite/eN6D2HQ4aX)
 - [Docs](https://gpt-index.readthedocs.io/en/latest/)
+- [Linkedin](https://www.linkedin.com/company/llamaindex/)
 
 
 
