@@ -1,9 +1,4 @@
-<! -- 
-
-TBD - Add to visual:
-- Rift by Morph
-
--->
+<! --  TBD - Add to visual: Rift by Morph -->
 
 
 <h1 align="center">
