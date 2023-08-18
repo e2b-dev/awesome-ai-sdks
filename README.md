@@ -308,6 +308,13 @@ An open source library for building AI-powered user interfaces.
 
 <details>
 
+</details>
+
+## [WunderGraph Agent SDK](https://docs.wundergraph.com/docs/openai)
+
+An open source library that helps you to integrate OpenAI into your existing API infrastructure. You can use it to validate user input, enhance existing APIs with AI capabilities and build APIs on top of AI Agents.
+<details>
+
 <!-- ### Description -->
 
 
