@@ -308,6 +308,13 @@ An open source library for building AI-powered user interfaces.
 
 <details>
 
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://sdk.vercel.ai/docs)
+- [GitHub](https://github.com/vercel-labs/ai)
+
 </details>
 
 ## [WunderGraph Agent SDK](https://docs.wundergraph.com/docs/openai)
@@ -315,12 +322,12 @@ An open source library for building AI-powered user interfaces.
 An open source library that helps you to integrate OpenAI into your existing API infrastructure. You can use it to validate user input, enhance existing APIs with AI capabilities and build APIs on top of AI Agents.
 <details>
 
-<!-- ### Description -->
-
-
 ### Links
-- [Web](https://sdk.vercel.ai/docs)
-- [GitHub](https://github.com/vercel-labs/ai)
+- [Web](https://wundergraph.com/)
+- [GitHub](https://github.com/wundergraph/wundergraph)
+- [Founders Twitter](https://twitter.com/jensneuse_de)
+- [Founders Twitter](https://twitter.com/StefanTMD)
+- [Company Twitter](https://twitter.com/wundergraphcom)
 
 ## Who's behind this?
 This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b is building an operation system of AI agents - that is, a set of tools, environments, SDKs and APIs. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
