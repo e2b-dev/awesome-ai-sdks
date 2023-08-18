@@ -28,6 +28,8 @@ Discussion and feedback appreciated! :heart:
 ## Have anything to add?
 You have something to add or improve about our list? Do it via pull request.
 
+ :star: For any new project, please also include a suggestion for a category in the visual, where it fits the most, or suggest new category.  :star:
+
 
 ## [E2b](https://www.e2b.dev/)
 E2b is an operating system for AI agents, that is, a set of tools, APIs, and cloud environments for  agents.
