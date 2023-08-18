@@ -329,8 +329,10 @@ An open source library that helps you to integrate OpenAI into your existing API
 - [Founders Twitter](https://twitter.com/jensneuse_de)
 - [Founders Twitter](https://twitter.com/StefanTMD)
 - [Company Twitter](https://twitter.com/wundergraphcom)
+  
+</details>
 
-## Who's behind this?
+# Who's behind this?
 This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b is building an operation system of AI agents - that is, a set of tools, environments, SDKs and APIs. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
 
 ## Join the community
@@ -342,7 +344,7 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
 Check out also our database of [AI agents](https://github.com/e2b-dev/awesome-ai-agents).
 
-</details>
+
 
 
 
