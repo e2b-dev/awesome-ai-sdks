@@ -31,30 +31,7 @@ You have something to add or improve about our list? Do it via pull request.
  :star: For any new project, please also include a suggestion for a category in the visual, where it fits the most, or suggest new category.  :star:
 
 
-## [E2b](https://www.e2b.dev/)
-E2b is an operating system for AI agents, that is, a set of tools, APIs, and cloud environments for  agents.
-
-
-<details>
-
-<!-- ### Description -->
-
-
-### Links
-- [Web](https://www.e2b.dev/)
-- [GitHub](https://github.com/e2b-dev)
-    - [e2b Dashboard](https://github.com/e2b-dev/e2b)
-    - [The Agent Protocol](https://github.com/e2b-dev/agent-protocol)
-    - [ChatGPT Pluhin](https://github.com/e2b-dev/chatgpt-plugin)
-- [Twitter](https://twitter.com/e2b_dev)
-    - [Vasek Mlejnsky](https://twitter.com/mlejva) (CEO, founder)
-    - [Tomas Valenta](https://twitter.com/co_valenta) (CEO, founder)
-    - [Tereza Tizkova](https://twitter.com/tereza_tizkova) (Growth & Community)
-    - [Jakub Novak](https://twitter.com/_jcube) (Software Engineer)
-- [Discord](https://discord.com/invite/U7KEcGErtQ)
-
-</details>
-
+# :mag_right: Monitoring, Observability, Analytics
 
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
@@ -66,8 +43,76 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 ### Links
 - [Web](https://www.agentops.ai/)
 
+</details>
+
+
+## [Context](https://context.ai/)
+Context is the product analytics platform for chat interfaces
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://context.ai/)
+- [Twitter](https://twitter.com/getcontextai)
 
 </details>
+
+
+## [Helicone](https://www.helicone.ai/)
+An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
+
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://www.helicone.ai/)
+- [GitHub](https://github.com/Helicone/helicone)
+- [Linkedin](https://www.linkedin.com/company/helicone/)
+
+
+</details>
+
+
+
+## [Langfuse](https://langfuse.com/)
+Langfuse is an open-source analytics for LLM apps. The analytics is currently in a closed alph
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://langfuse.com/)
+- [GitHub](https://github.com/langfuse/langfuse)
+
+
+
+</details>
+
+## [LangSmith](https://smith.langchain.com/)
+A unified platform for debugging, testing, evaluating, and monitoring LLM applications. LangSmith is now in closed beta. 
+
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://smith.langchain.com/)
+
+
+
+</details>
+
+
+# :performing_arts: Orchestration
 
 
 ## [AGiXT](https://github.com/Josh-XT/AGiXT)
@@ -84,6 +129,10 @@ A dynamic AI Automation Platform for Interoperability & AI Agent Management
 - [Discord](https://discord.com/invite/d3TkHRZcjD)
 
 </details>
+
+
+# :construction: Frameworks for Building Agents
+
 
 ## [Axilla](https://www.axilla.io/)
 Axilla is a comprehensive end-to-end open-source LLM framework for TypeScript. It provides a family of modular libraries, which can be incrementally adopted, and together form an end-to-end opinionated framework for AI development.
@@ -152,25 +201,6 @@ Haystack is an open-source LLM framework for building production-ready applicati
 
 
 
-
-## [Helicone](https://www.helicone.ai/)
-An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
-
-
-<details>
-
-<!-- ### Description -->
-
-
-### Links
-- [Web](https://www.helicone.ai/)
-- [GitHub](https://github.com/Helicone/helicone)
-- [Linkedin](https://www.linkedin.com/company/helicone/)
-
-
-
-</details>
-
 ## [Hugging Face Agents](https://huggingface.co/docs/transformers/main_classes/agent)
 Platform for deploying LLM agents with tools. They provide three types of agents: HfAgent uses inference endpoints for opensource models, LocalAgent uses a model of your choice locally and OpenAiAgent uses OpenAI closed models.
 
@@ -203,56 +233,6 @@ LangChain is a framework designed to simplify the creation of applications using
 
 </details>
 
-## [Langfuse](https://langfuse.com/)
-Langfuse is an open-source analytics for LLM apps. The analytics is currently in a closed alph
-
-<details>
-
-<!-- ### Description -->
-
-
-### Links
-- [Web](https://langfuse.com/)
-- [GitHub](https://github.com/langfuse/langfuse)
-
-
-
-</details>
-
-## [LangSmith](https://smith.langchain.com/)
-A unified platform for debugging, testing, evaluating, and monitoring LLM applications. LangSmith is now in closed beta. 
-
-
-<details>
-
-<!-- ### Description -->
-
-
-### Links
-- [Web](https://smith.langchain.com/)
-
-
-
-</details>
-
-## [LlamaIndex](https://www.llamaindex.ai/)
-LlamaIndex (formerly GPT Index) is a data framework for LLM applications to ingest, structure, and access private or domain-specific data. 
-
-
-<details>
-
-<!-- ### Description -->
-
-
-### Links
-- [Twitter](https://twitter.com/llama_index)
-- [Discord](https://discord.com/invite/eN6D2HQ4aX)
-- [Docs](https://gpt-index.readthedocs.io/en/latest/)
-- [Linkedin](https://www.linkedin.com/company/llamaindex/)
-
-
-
-</details>
 
 
 
@@ -267,26 +247,12 @@ Rift is an AI-native language server for AI agents. It's an open source VS Code 
 ### Links
 - [Web](https://morph.so/)
 - [GitHub](https://github.com/morph-labs/rift)
+- [Twitter](https://twitter.com/morph_labs)
+- [Discord](https://discord.com/invite/wa5sgWMfqv)
 
 
 </details>
 
-## [SID](https://www.sid.ai/)
-
-SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API. It is a fully-hosted retrieval pipeline that makes it easy to connect services like Google Mail, Notion, GDrive, or fully custom data. In one afternoon, you can connect to any data source you'd like and instantly scale to millions of users.
-
-<details>
-
-<!-- ### Description -->
-
-
-### Links
-- [Web](https://www.sid.ai/)
-- [Twitter](https://twitter.com/try_sid)
-
-
-
-</details>
 
 ## [Steamship](https://www.steamship.com/)
 Steamship is a platform that allows to build, scale, and monitor AI agents with serverless cloud hosting, vector search, webhooks, callbacks, and more.
@@ -333,6 +299,76 @@ An open source library that helps you to integrate OpenAI into your existing API
 - [Company Twitter](https://twitter.com/wundergraphcom)
   
 </details>
+
+
+# :cloud: Agents Cloud
+
+
+## [E2b](https://www.e2b.dev/)
+E2b is an operating system for AI agents, that is, a set of tools, APIs, and cloud environments for  agents.
+
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://www.e2b.dev/)
+- [GitHub](https://github.com/e2b-dev)
+    - [e2b Dashboard](https://github.com/e2b-dev/e2b)
+    - [The Agent Protocol](https://github.com/e2b-dev/agent-protocol)
+    - [ChatGPT Pluhin](https://github.com/e2b-dev/chatgpt-plugin)
+- [Twitter](https://twitter.com/e2b_dev)
+    - [Vasek Mlejnsky](https://twitter.com/mlejva) (CEO, founder)
+    - [Tomas Valenta](https://twitter.com/co_valenta) (CEO, founder)
+    - [Tereza Tizkova](https://twitter.com/tereza_tizkova) (Growth & Community)
+    - [Jakub Novak](https://twitter.com/_jcube) (Software Engineer)
+- [Discord](https://discord.com/invite/U7KEcGErtQ)
+
+</details>
+
+
+# :chart_with_upwards_trend: Data Integration
+
+
+## [LlamaIndex](https://www.llamaindex.ai/)
+LlamaIndex (formerly GPT Index) is a data framework for LLM applications to ingest, structure, and access private or domain-specific data. 
+
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Twitter](https://twitter.com/llama_index)
+- [Discord](https://discord.com/invite/eN6D2HQ4aX)
+- [Docs](https://gpt-index.readthedocs.io/en/latest/)
+- [Linkedin](https://www.linkedin.com/company/llamaindex/)
+
+
+</details>
+
+## [SID](https://www.sid.ai/)
+
+SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API. It is a fully-hosted retrieval pipeline that makes it easy to connect services like Google Mail, Notion, GDrive, or fully custom data. In one afternoon, you can connect to any data source you'd like and instantly scale to millions of users.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://www.sid.ai/)
+- [Twitter](https://twitter.com/try_sid)
+
+
+
+</details>
+
+
+
 
 # Who's behind this?
 This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b is building an operation system of AI agents - that is, a set of tools, environments, SDKs and APIs. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
