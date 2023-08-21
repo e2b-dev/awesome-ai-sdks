@@ -112,7 +112,7 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 </details>
 
 
-# :performing_arts: Orchestration
+# :circus_tent: Orchestration
 
 
 ## [AGiXT](https://github.com/Josh-XT/AGiXT)
