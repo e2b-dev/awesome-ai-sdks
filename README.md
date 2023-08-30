@@ -17,6 +17,10 @@ TBD Add to visual:
 	</p>
 </h1>
 
+<h3 align="center">
+  Try out E2B's <a href="https://e2b.dev/docs">AI Playgrounds</a> for agents, copilots, and AI apps
+</h3>
+
 
 <img src="/assets/visual.png" width="100%" alt="SDKs Repo Visual" />
 
