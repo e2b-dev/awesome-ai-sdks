@@ -18,7 +18,7 @@ TBD Add to visual:
 </h1>
 
 <h3 align="center">
-  Try out E2B's <a href="https://e2b.dev/docs">AI Playgrounds</a> for agents, copilots, and AI apps
+  Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-sdks">AI Playgrounds</a> for agents, copilots, and AI apps
 </h3>
 
 
