@@ -178,13 +178,12 @@ Axilla targets enterprises and allows them to develop AI applications. They prov
 
 
 ## [AutoGen](https://github.com/microsoft/autogen)
-
+AutoGen is a framework by [Microsoft](https://microsoft.github.io/autogen/docs/Use-Cases/agent_chat/) that enables development of LLM applications using multiple agents that can converse with each other to solve task
 
 
 <details>
 
 ### Description
--  AutoGen is a framework that enables development of LLM applications using multiple agents that can converse with each other to solve task
 -  AutoGen agents are customizable, conversable, and seamlessly allow human participation
 -  They can operate in various modes that employ combinations of LLMs, human inputs, and tools
 -  AutoGen's design offers multiple advantages:
