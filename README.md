@@ -1,7 +1,7 @@
 <!--- 
 TBD Add to visual:
-1. Rift by Morph, 
-2. WunderGraph Agent SDK
+1. AutoGen
+2. ChatDev
 --->
 
 
@@ -174,6 +174,29 @@ Axilla targets enterprises and allows them to develop AI applications. They prov
 - [Twitter](https://twitter.com/axilla_io)
 - [YCombinator](https://www.ycombinator.com/companies/axilla)
 
+</details>
+
+
+## [AutoGen](https://github.com/microsoft/autogen)
+
+
+
+<details>
+
+### Description
+-  AutoGen is a framework that enables development of LLM applications using multiple agents that can converse with each other to solve task
+-  AutoGen agents are customizable, conversable, and seamlessly allow human participation
+-  They can operate in various modes that employ combinations of LLMs, human inputs, and tools
+-  AutoGen's design offers multiple advantages:
+	- it gracefully navigates the strong but imperfect generation and reasoning abilities of these LLMs
+  	- it leverages human understanding and intelligence, while providing valuable automation through conversations between agents
+     	- it simplifies and unifies the implementation of complex LLM workflows as automated agent chats
+
+### Links
+- [Blog post](https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/)
+- [Paper](https://arxiv.org/abs/2308.08155)
+- [GitHub](https://github.com/microsoft/autogen)
+- [Discord](https://discord.gg/pAbnFJrkgZ)
 </details>
 
 
