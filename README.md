@@ -2,6 +2,7 @@
 TBD Add to visual:
 1. AutoGen
 2. ChatDev
+3. AgentLabs
 --->
 
 
@@ -117,7 +118,7 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 </details>
 
 
-# 🌻: Frontend for AI apps
+# 🌻: Frontend & UI
 
 
 ## [AgentLabs](https://www.agentlabs.dev/)
