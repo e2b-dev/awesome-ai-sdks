@@ -3,6 +3,7 @@ TBD Add to visual:
 1. AutoGen
 2. ChatDev
 3. AgentLabs
+4. BondAI
 --->
 
 
@@ -223,6 +224,25 @@ AutoGen is a framework by [Microsoft](https://microsoft.github.io/autogen/docs/U
 
 ### Guides and examples
 - [A guide to code-executing agents with AutoGen](https://e2b.dev/blog/microsoft-s-autogen)
+</details>
+
+
+## [BondAI](https://github.com/krohling/bondai)
+BondAI is an open-source framework tailored for integrating and customizing Conversational AI Agents.
+
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/krohling/bondai)
+- [Docs](https://bondai.dev/docs/intro)
+- [Discord](https://discord.com/invite/docusaurus)
+
+<!-- ### Guides and examples -->
+
+  
 </details>
 
 
