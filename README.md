@@ -196,6 +196,9 @@ AutoGen is a framework by [Microsoft](https://microsoft.github.io/autogen/docs/U
 - [Paper](https://arxiv.org/abs/2308.08155)
 - [GitHub](https://github.com/microsoft/autogen)
 - [Discord](https://discord.gg/pAbnFJrkgZ)
+
+### Guides and examples
+- [A guide to code-executing agents with AutoGen](https://e2b.dev/blog/microsoft-s-autogen)
 </details>
 
 
