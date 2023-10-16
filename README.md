@@ -117,6 +117,29 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 </details>
 
 
+# :dizzly: Frontend for AI apps
+
+
+## [AgentLabs](https://www.agentlabs.dev/)
+A dynamic AI Automation Platform for Interoperability & AI Agent Management
+
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://www.agentlabs.dev/)
+- [GitHub](https://github.com/agentlabs-inc/agentlabs)
+- [X ](https://twitter.com/agentlabs_)
+
+### Guides and examples
+- [Building a Code Interpreter with AgentLabs and E2B](https://docs.agentlabs.dev/recipes/code-interpreter)
+
+</details>
+
+
+
 # :circus_tent: Orchestration
 
 
