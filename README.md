@@ -117,7 +117,7 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 </details>
 
 
-# :dizzly: Frontend for AI apps
+# 🌻: Frontend for AI apps
 
 
 ## [AgentLabs](https://www.agentlabs.dev/)
