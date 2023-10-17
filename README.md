@@ -503,9 +503,14 @@ SID is a YC S23 company that creates personal data infrastructure for AI
 </details>
 
 
-<img src="/assets/footer.png" width="100%" alt="SDKs Repo Visual" />
+
 
 # Who's behind this?
+
+<img src="/assets/footer.png" width="100%" alt="SDKs Repo Visual" />
+
+<br/><br/>
+
 This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b is building an operation system of AI agents - that is, a set of tools, environments, SDKs and APIs. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
 
 ## Join the community
