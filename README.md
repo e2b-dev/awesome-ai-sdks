@@ -1,8 +1,7 @@
 <!--- 
 TBD Add to visual:
-1. AutoGen
-2. ChatDev
-3. AgentLabs
+
+
 4. BondAI
 --->
 
@@ -424,7 +423,7 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
-# :chart_with_upwards_trend: Data Integration
+# :chart_with_upwards_trend: Data Integration, memory management
 
 
 ## [LlamaIndex](https://www.llamaindex.ai/)
@@ -445,13 +444,54 @@ LlamaIndex (formerly GPT Index) is a data framework for LLM applications to inge
 
 </details>
 
-## [SID](https://www.sid.ai/)
 
-SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customers' data with a single button and API. It is a fully-hosted retrieval pipeline that makes it easy to connect services like Google Mail, Notion, GDrive, or fully custom data. In one afternoon, you can connect to any data source you'd like and instantly scale to millions of users.
+## [MemGPT](https://memgpt.ai/)
+MemGPT is teaching LLMs memory management for unbounded context 
+
+<details>
+
+### Description
+- MemGPT manages a virtual context (inspired by virtual memory in operating systems) to create unbounded LLM context
+- MemGPT allows to create perpetual chatbots 🤖 with self-editing memory
+
+
+### Links
+- [Web](https://memgpt.ai/)
+- [Paper](https://arxiv.org/abs/2310.08560)
+- [GitHub](https://github.com/cpacker/MemGPT)
+- [Discord](https://discord.com/invite/9GEQrxmVyE)
+
+</details>
+
+## [PromethAI](https://github.com/topoteretes/PromethAI-Memory)
+
+About
+Memory management for the AI Applications and AI Agents
 
 <details>
 
 <!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/topoteretes/PromethAI-Memory)
+- [Notion](https://topoteretes.notion.site/Going-beyond-Langchain-Weaviate-and-towards-a-production-ready-modern-data-platform-7351d77a1eba40aab4394c24bef3a278)
+
+</details>
+
+
+
+## [SID](https://www.sid.ai/)
+
+SID is a YC S23 company that creates personal data infrastructure for AI
+
+
+<details>
+
+
+### Description
+- SID makes data infrastructure for AI easy by letting AI devs connect to all of their customers' data with a single button and API
+- It is a fully-hosted retrieval pipeline that makes it easy to connect services like Google Mail, Notion, GDrive, or fully custom data. In one afternoon, you can connect to any data source you'd like and instantly scale to millions of users.
 
 
 ### Links
@@ -464,6 +504,8 @@ SID is a YC S23 company that makes data infrastructure for AI easy by letting AI
 
 
 
+<p>
+	</p>
 
 # Who's behind this?
 This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b is building an operation system of AI agents - that is, a set of tools, environments, SDKs and APIs. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
