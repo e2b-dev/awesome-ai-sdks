@@ -395,7 +395,7 @@ An open-source library that helps you to integrate OpenAI into your existing API
 </details>
 
 
-# :cloud: Agents Cloud
+# :cloud: Cloud and Sandbox runtime
 
 
 ## [E2b](https://www.e2b.dev/)
@@ -424,6 +424,41 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 
 
 # :chart_with_upwards_trend: Data Integration, memory management
+
+## [AgentMemory](https://github.com/autonomousresearchgroup/agentmemory)
+
+Easy-to-use agent memory, powered by chromadb and postgres
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/autonomousresearchgroup/agentmemory)
+
+
+</details>
+
+## [Cadea](https://www.cadea.ai/)
+Cadea is a platform that helps you create, manage, and monitor chatbots that can answer questions about your internal documents
+
+<details>
+
+### Description
+- Cadea allows you to deploy AI tools in your organization with strict security protocols, encryption, and monitoring
+- Still in waitlist version
+
+
+
+### Links
+- [Web](https://www.cadea.ai/)
+- [Linkedin](https://www.linkedin.com/company/cadea/about/)
+- [X ](https://twitter.com/cadea_ai)
+
+
+</details>
+
 
 
 ## [LlamaIndex](https://www.llamaindex.ai/)
@@ -480,7 +515,6 @@ Memory management for the AI Applications and AI Agents
 </details>
 
 
-
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that creates personal data infrastructure for AI
@@ -498,9 +532,52 @@ SID is a YC S23 company that creates personal data infrastructure for AI
 - [Web](https://www.sid.ai/)
 - [Twitter](https://twitter.com/try_sid)
 
+</details>
 
+
+## [Turbopuffer](https://turbopuffer.com/)
+
+A truly serverless vector database
+
+
+<details>
+
+
+### Description
+- Cheap. $1/month per million vectors. That's 10-70x cheaper than other vector databases. $4 per million queries.
+- Serverless. Pay only for what you use. Don't worry about manual scaling.
+Reasonably
+- Fast. ~100ms latency on 1m vectors. Much faster soon.
+
+
+### Links
+- [Web](https://turbopuffer.com/)
 
 </details>
+
+
+## [Vectara](https://vectara.com/)
+Vectara is a cloud-native, API-driven LLM-powered search app platform 
+
+
+
+<details>
+
+
+### Description
+- Purpose of Vectara is to serve the world’s largest sites and applications at blazing fast speeds
+
+### Links
+- [Web](https://vectara.com/)
+- [Discord](https://discord.com/invite/GFb8gMz6UH)
+- [X ](https://twitter.com/vectara)
+- [Linkedin](https://www.linkedin.com/company/vectara/)
+
+</details>
+
+
+
+
 
 <br/><br/>
 
