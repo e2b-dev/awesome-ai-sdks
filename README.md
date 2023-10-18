@@ -19,7 +19,7 @@ TBD Add to visual:
 </h1>
 
 <h3 align="center">
-  Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-sdks">AI Playgrounds</a> for agents, copilots, and AI apps
+  Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-sdks">sandbox runtime </a> for agents, copilots, and AI apps
 </h3>
 <h5 align="center">👉 <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h5>
 
@@ -238,6 +238,24 @@ BondAI is an open-source framework tailored for integrating and customizing Conv
 - [GitHub](https://github.com/krohling/bondai)
 - [Docs](https://bondai.dev/docs/intro)
 - [Discord](https://discord.com/invite/docusaurus)
+
+<!-- ### Guides and examples -->
+
+  
+</details>
+
+## [ChatDev](https://github.com/OpenBMB/ChatDev)
+ChatDev is a framework for building communicative agents for software development
+
+<details>
+
+### Description
+- ChatDev is a cutting-edge AI NPC gaming research platform that seamlessly blends numerous advanced model interfaces, allowing for intricate manipulation of NPC interactions within meticulously crafted simulated social settings.
+- ChatDev stands as a virtual software company that operates through various intelligent agents holding different roles, including Chief Executive Officer, Chief Product Officer, Chief Technology Officer, programmer, reviewer, tester, art designer .
+
+### Links
+- [GitHub](https://github.com/OpenBMB/ChatDev)
+- [Web](https://chatdev.toscl.com/)
 
 <!-- ### Guides and examples -->
 
@@ -587,13 +605,11 @@ Vectara is a cloud-native, API-driven LLM-powered search app platform
 <img src="/assets/footer.png" width="100%" alt="SDKs Repo Visual" />
 
 
-This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b is building an operation system of AI agents - that is, a set of tools, environments, SDKs and APIs. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
+This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b?ref=awesome-sdks). E2b is building a Sandbox Runtime for LLM apps and agents  - that is, a set of custom sandboxed cloud environments for AI-powered apps and agentic workflows. Get started [here](https://e2b.dev/docs?ref=awesome-sdks).
 
 ## Join the community
-- Follow us on [Twitter](https://twitter.com/e2b_dev)
-- [Join Twitter community](https://twitter.com/i/communities/1670204079619055616) for AI agents
+- Follow us on [X ](https://twitter.com/e2b_dev)
 - [Join our Discord](https://discord.gg/U7KEcGErtQ)
-- Want to discuss anything about AI agents? [Schedule a call with us](https://calendly.com/tereza-tizkova/30min)
 
 Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
 Check out also our database of [AI agents](https://github.com/e2b-dev/awesome-ai-agents).
