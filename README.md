@@ -1,8 +1,6 @@
 <!--- 
 TBD Add to visual:
-
-
-4. BondAI
+Langroid
 --->
 
 
