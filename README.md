@@ -605,7 +605,7 @@ Vectara is a cloud-native, API-driven LLM-powered search app platform
 <img src="/assets/footer.png" width="100%" alt="SDKs Repo Visual" />
 
 
-This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b?ref=awesome-sdks). E2b is building a Sandbox Runtime for LLM apps and agents  - that is, a set of custom sandboxed cloud environments for AI-powered apps and agentic workflows. Get started [here](https://e2b.dev/docs?ref=awesome-sdks).
+This list is made by the team behind [E2B](https://github.com/e2b-dev/e2b?ref=awesome-sdks). E2b is building a Sandbox Runtime for LLM apps and agents  - that is, a set of custom sandboxed cloud environments for AI-powered apps and agentic workflows. Get started [here](https://e2b.dev/docs?ref=awesome-sdks).
 
 ## Join the community
 - Follow us on [X ](https://twitter.com/e2b_dev)
