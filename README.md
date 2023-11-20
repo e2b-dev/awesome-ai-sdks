@@ -292,6 +292,33 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [GenWorlds](https://genworlds.com/)
+
+GenWorlds is an event-based communication framework enabling developers to seamlessly blend deterministic and non-deterministic processes in building interactive multi-agent systems.
+
+<details>
+
+<!-- ### Description -->
+
+### Main Advantage
+
+Flexibility in Process Management: GenWorlds excels in letting developers choose how to balance deterministic (predictable) and non-deterministic (AI-driven) processes. This is crucial for tailoring system reliability and intelligence to specific needs.
+
+### Key Features
+
+- **Customizable Systems:** GenWorlds emphasizes flexibility, allowing users to tailor systems according to their specific needs.
+- **Intuitive Abstraction Layer:** Offers a basic interface with primitives to build agents, objects, and worlds without predefined constraints, supporting both deterministic and non-deterministic processes.
+- **Pre-Built Elements for Rapid Development:** Comes equipped with a variety of ready-made agents, objects, and worlds, speeding up the setup process while still allowing extensive customization.
+- **Smooth Deployment Mechanisms:** GenWorlds is built around a FastAPI web-socket server, facilitating easy dockerization and deployment, and providing versatile connectivity options suitable for various web systems.
+
+### Links
+
+- [Quickstart](https://genworlds.com/docs/get-started/quickstart)
+- [GitHub](https://github.com/yeagerai/genworlds)
+- [Discord](https://discord.gg/22eCYpb3w2)
+- [Twitter](https://twitter.com/yeagerai)
+
+</details>
 
 ## [Haystack by Deepset](https://haystack.deepset.ai/)
 
