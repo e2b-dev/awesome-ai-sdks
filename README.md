@@ -1,8 +1,6 @@
 <!--- 
 TBD Add to visual:
-
-
-4. BondAI
+Langroid
 --->
 
 
@@ -294,6 +292,33 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [GenWorlds](https://genworlds.com/)
+
+GenWorlds is an event-based communication framework enabling developers to seamlessly blend deterministic and non-deterministic processes in building interactive multi-agent systems.
+
+<details>
+
+<!-- ### Description -->
+
+### Main Advantage
+
+Flexibility in Process Management: GenWorlds excels in letting developers choose how to balance deterministic (predictable) and non-deterministic (AI-driven) processes. This is crucial for tailoring system reliability and intelligence to specific needs.
+
+### Key Features
+
+- **Customizable Systems:** GenWorlds emphasizes flexibility, allowing users to tailor systems according to their specific needs.
+- **Intuitive Abstraction Layer:** Offers a basic interface with primitives to build agents, objects, and worlds without predefined constraints, supporting both deterministic and non-deterministic processes.
+- **Pre-Built Elements for Rapid Development:** Comes equipped with a variety of ready-made agents, objects, and worlds, speeding up the setup process while still allowing extensive customization.
+- **Smooth Deployment Mechanisms:** GenWorlds is built around a FastAPI web-socket server, facilitating easy dockerization and deployment, and providing versatile connectivity options suitable for various web systems.
+
+### Links
+
+- [Quickstart](https://genworlds.com/docs/get-started/quickstart)
+- [GitHub](https://github.com/yeagerai/genworlds)
+- [Discord](https://discord.gg/22eCYpb3w2)
+- [Twitter](https://twitter.com/yeagerai)
+
+</details>
 
 ## [Haystack by Deepset](https://haystack.deepset.ai/)
 
@@ -345,6 +370,37 @@ LangChain is a framework designed to simplify the creation of applications using
 
 </details>
 
+## [Langroid](https://github.com/langroid/langroid)
+
+Multi-Agent framework for building LLM Applications.
+
+<details>
+
+### Description
+
+
+`Langroid` is an intuitive, lightweight, extensible and principled
+Python framework to easily build LLM-powered applications.
+You set up Agents, equip them with optional components (LLM,
+vector-store and methods), assign them tasks, and have them
+collaboratively solve a problem by exchanging messages.
+This Multi-Agent paradigm is inspired by the
+[Actor Framework](https://en.wikipedia.org/wiki/Actor_model)
+(but you do not need to know anything about this!).
+
+`Langroid` is a fresh take on LLM app-development, where considerable thought has gone
+into simplifying the developer experience; it does not use `Langchain`.
+
+- Works with most commercial/remote and open/local LLMs.
+- Set up Multi-agent, multi-LLM system: use stronger LLMs for agents requiring strong reasoning and instruction-following, and delegate simpler tasks to weaker/local LLMs. 
+- Supports OpenAI function-calling as well as native equivalent called `ToolMessage`, which works with LLMs that 
+  do not have built-in function-calling. Simply specify structure as a (nested) Pydantic object.
+- Batteries-included: vector-databases for RAG (Retrieval-Augmented Generation), caching, logging/observability.
+- Specialized agents available: `DocChatAgent`, `SQLChatAgent`, `TableChatAgent` (for tabular data, e.g. csv/dataframes).
+- `DocChatAgent` handles text, PDF, Docx files/URLS, and has state-of-the art techniques 
+   for retrieval combining lexical and semantic search.
+- Documentation: https://langroid.github.io/langroid/
+</details>
 
 
 
