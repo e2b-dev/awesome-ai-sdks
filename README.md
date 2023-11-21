@@ -634,7 +634,7 @@ BondAI is an open-source framework tailored for integrating and customizing Conv
 
 
 
-## [OpenAI Assistant API](https://platform.openai.com/docs/assistants/overview)
+## [OpenAI Assistants API](https://platform.openai.com/docs/assistants/overview)
 The Assistants API allows you to build AI assistants within your own applications, leveraging models, tools, and knowledge to respond to user queries. 
 
 <details>
