@@ -49,6 +49,30 @@ Do you have something to add or improve about our list? Do it via pull request.
 
 # :mag_right: Products allowing to choose your own LLM
 
+## [AutoGen](https://github.com/microsoft/autogen)
+AutoGen is a framework by [Microsoft](https://microsoft.github.io/autogen/docs/Use-Cases/agent_chat/) that enables development of LLM applications using multiple agents that can converse with each other to solve task
+
+
+<details>
+
+### Description
+-  AutoGen agents are customizable, conversable, and seamlessly allow human participation
+-  They can operate in various modes that employ combinations of LLMs, human inputs, and tools
+-  AutoGen's design offers multiple advantages:
+	- it gracefully navigates the strong but imperfect generation and reasoning abilities of these LLMs
+  	- it leverages human understanding and intelligence, while providing valuable automation through conversations between agents
+     	- it simplifies and unifies the implementation of complex LLM workflows as automated agent chats
+
+### Links
+- [Blog post](https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/)
+- [Paper](https://arxiv.org/abs/2308.08155)
+- [GitHub](https://github.com/microsoft/autogen)
+- [Discord](https://discord.gg/pAbnFJrkgZ)
+
+### Guides and examples
+- [A guide to code-executing agents with AutoGen](https://e2b.dev/blog/microsoft-s-autogen)
+</details>
+
 
 ## [Context](https://context.ai/)
 Context is the product analytics platform for chat interfaces
@@ -590,29 +614,6 @@ AgentOps creates tools to make agents actually work, e.g., graphs, monitoring, a
 
 </details> -->
 
-## [AutoGen](https://github.com/microsoft/autogen)
-AutoGen is a framework by [Microsoft](https://microsoft.github.io/autogen/docs/Use-Cases/agent_chat/) that enables development of LLM applications using multiple agents that can converse with each other to solve task
-
-
-<details>
-
-### Description
--  AutoGen agents are customizable, conversable, and seamlessly allow human participation
--  They can operate in various modes that employ combinations of LLMs, human inputs, and tools
--  AutoGen's design offers multiple advantages:
-	- it gracefully navigates the strong but imperfect generation and reasoning abilities of these LLMs
-  	- it leverages human understanding and intelligence, while providing valuable automation through conversations between agents
-     	- it simplifies and unifies the implementation of complex LLM workflows as automated agent chats
-
-### Links
-- [Blog post](https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/)
-- [Paper](https://arxiv.org/abs/2308.08155)
-- [GitHub](https://github.com/microsoft/autogen)
-- [Discord](https://discord.gg/pAbnFJrkgZ)
-
-### Guides and examples
-- [A guide to code-executing agents with AutoGen](https://e2b.dev/blog/microsoft-s-autogen)
-</details>
 
 ## [BondAI](https://github.com/krohling/bondai)
 BondAI is an open-source framework tailored for integrating and customizing Conversational AI Agents.
