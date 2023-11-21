@@ -175,9 +175,9 @@ A dynamic AI Automation Platform for Interoperability & AI Agent Management
 </details>
 
 
-## [Axilla](https://www.axilla.io/)
-Axilla is a comprehensive end-to-end open-source LLM framework for TypeScript. It provides a family of modular libraries, which can be incrementally adopted, and together form an end-to-end opinionated framework for AI development.
-Axilla targets enterprises and allows them to develop AI applications. They provide a toolkit to orchestrate, monitor, and continuously improve AI applications in production.
+## [Axflow](https://axflow.dev/)
+Axflow is a comprehensive end-to-end open-source LLM framework for TypeScript. It provides a family of modular libraries, which can be incrementally adopted, and together form an end-to-end opinionated framework for AI development.
+Axflow targets enterprises and allows them to develop AI applications. They provide a toolkit to orchestrate, monitor, and continuously improve AI applications in production.
 
 
 <details>
@@ -240,6 +240,34 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 - [Web](https://docs.fixie.ai/agents/)
 
 
+
+</details>
+
+## [GenWorlds](https://genworlds.com/)
+
+GenWorlds is an event-based communication framework enabling developers to seamlessly blend deterministic and non-deterministic processes in building interactive multi-agent systems.
+
+<details>
+
+<!-- ### Description -->
+
+### Main Advantage
+
+Flexibility in Process Management: GenWorlds excels in letting developers choose how to balance deterministic (predictable) and non-deterministic (AI-driven) processes. This is crucial for tailoring system reliability and intelligence to specific needs.
+
+### Key Features
+
+- **Customizable Systems:** GenWorlds emphasizes flexibility, allowing users to tailor systems according to their specific needs.
+- **Intuitive Abstraction Layer:** Offers a basic interface with primitives to build agents, objects, and worlds without predefined constraints, supporting both deterministic and non-deterministic processes.
+- **Pre-Built Elements for Rapid Development:** Comes equipped with a variety of ready-made agents, objects, and worlds, speeding up the setup process while still allowing extensive customization.
+- **Smooth Deployment Mechanisms:** GenWorlds is built around a FastAPI web-socket server, facilitating easy dockerization and deployment, and providing versatile connectivity options suitable for various web systems.
+
+### Links
+
+- [Quickstart](https://genworlds.com/docs/get-started/quickstart)
+- [GitHub](https://github.com/yeagerai/genworlds)
+- [Discord](https://discord.gg/22eCYpb3w2)
+- [Twitter](https://twitter.com/yeagerai)
 
 </details>
 
@@ -547,19 +575,20 @@ Vectara is a cloud-native, API-driven LLM-powered search app platform
 
 </details>
 
-# :mag_right: Products with liimited choice of LLM
+# :mag_right: Products with LLM lock-in
+
+<!-- 
 
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps creates tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
 <details>
 
-<!-- ### Description -->
 
 ### Links
 - [Web](https://www.agentops.ai/)
 
-</details>
+</details> -->
 
 ## [AutoGen](https://github.com/microsoft/autogen)
 AutoGen is a framework by [Microsoft](https://microsoft.github.io/autogen/docs/Use-Cases/agent_chat/) that enables development of LLM applications using multiple agents that can converse with each other to solve task
@@ -603,34 +632,6 @@ BondAI is an open-source framework tailored for integrating and customizing Conv
   
 </details>
 
-
-## [GenWorlds](https://genworlds.com/)
-
-GenWorlds is an event-based communication framework enabling developers to seamlessly blend deterministic and non-deterministic processes in building interactive multi-agent systems.
-
-<details>
-
-<!-- ### Description -->
-
-### Main Advantage
-
-Flexibility in Process Management: GenWorlds excels in letting developers choose how to balance deterministic (predictable) and non-deterministic (AI-driven) processes. This is crucial for tailoring system reliability and intelligence to specific needs.
-
-### Key Features
-
-- **Customizable Systems:** GenWorlds emphasizes flexibility, allowing users to tailor systems according to their specific needs.
-- **Intuitive Abstraction Layer:** Offers a basic interface with primitives to build agents, objects, and worlds without predefined constraints, supporting both deterministic and non-deterministic processes.
-- **Pre-Built Elements for Rapid Development:** Comes equipped with a variety of ready-made agents, objects, and worlds, speeding up the setup process while still allowing extensive customization.
-- **Smooth Deployment Mechanisms:** GenWorlds is built around a FastAPI web-socket server, facilitating easy dockerization and deployment, and providing versatile connectivity options suitable for various web systems.
-
-### Links
-
-- [Quickstart](https://genworlds.com/docs/get-started/quickstart)
-- [GitHub](https://github.com/yeagerai/genworlds)
-- [Discord](https://discord.gg/22eCYpb3w2)
-- [Twitter](https://twitter.com/yeagerai)
-
-</details>
 
 
 ## [OpenAI Assistant API](https://platform.openai.com/docs/assistants/overview)
