@@ -1,6 +1,18 @@
 <!--- 
 TBD Add to visual:
 Langroid
+
+
+TBD Add to list
+LiteLLM
+Martian
+Genoss GPT
+OpenRouter
+Poe
+ChatterBot
+Bannana AI
+CAMEL
+Abacus AI
 --->
 
 
@@ -17,17 +29,17 @@ Langroid
 </h1>
 
 <h3 align="center">
-  Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-sdks">sandbox runtime </a> for agents, copilots, and AI apps
+  Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-sdks">sandbox </a> for AI apps and agents
 </h3>
 <h5 align="center">👉 <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h5>
 
 
 <img src="/assets/visual.png" width="100%" alt="SDKs Repo Visual" />
 
-Welcome to our list of [AI agents](https://github.com/e2b-dev/awesome-ai-agents) SDKs. A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous [AI agents](https://github.com/e2b-dev/awesome-ai-agents).
+Welcome to our list of products for [AI apps and agents](https://github.com/e2b-dev/awesome-ai-agents). A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying of AI apps.
 
 The list is done according to our best knowledge, although definitely not comprehensive.
-Discussion and feedback are appreciated! :heart:
+Discussion, corrections, and feedback are appreciated! :heart:
 
 ## Have anything to add?
 Do you have something to add or improve about our list? Do it via pull request.
@@ -35,19 +47,7 @@ Do you have something to add or improve about our list? Do it via pull request.
  :star: For any new project, please also include a suggestion for a category in the visual, where it fits the most, or suggest a new category.  :star:
 
 
-# :mag_right: Monitoring, Observability, Analytics
-
-## [AgentOps](https://www.agentops.ai/)
-AgentOps creates tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
-
-<details>
-
-<!-- ### Description -->
-
-### Links
-- [Web](https://www.agentops.ai/)
-
-</details>
+# :mag_right: Products allowing to choose your own LLM
 
 
 ## [Context](https://context.ai/)
@@ -75,6 +75,7 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 ### Links
 - [Web](https://www.helicone.ai/)
+- [Support for custom models](https://docs.helicone.ai/getting-started/integration-method/custom)
 - [GitHub](https://github.com/Helicone/helicone)
 - [Linkedin](https://www.linkedin.com/company/helicone/)
 
@@ -116,9 +117,6 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 </details>
 
 
-# 🌻: Frontend & UI
-
-
 ## [AgentLabs](https://www.agentlabs.dev/)
 A dynamic AI Automation Platform for Interoperability & AI Agent Management
 
@@ -139,9 +137,6 @@ A dynamic AI Automation Platform for Interoperability & AI Agent Management
 
 
 
-# :circus_tent: Orchestration
-
-
 ## [AGiXT](https://github.com/Josh-XT/AGiXT)
 A dynamic AI Automation Platform for Interoperability & AI Agent Management
 
@@ -157,8 +152,6 @@ A dynamic AI Automation Platform for Interoperability & AI Agent Management
 
 </details>
 
-
-# :construction: Frameworks for Building Agents
 
 ## [Agents](https://github.com/aiwaves-cn/agents)
 
@@ -199,48 +192,6 @@ Axilla targets enterprises and allows them to develop AI applications. They prov
 </details>
 
 
-## [AutoGen](https://github.com/microsoft/autogen)
-AutoGen is a framework by [Microsoft](https://microsoft.github.io/autogen/docs/Use-Cases/agent_chat/) that enables development of LLM applications using multiple agents that can converse with each other to solve task
-
-
-<details>
-
-### Description
--  AutoGen agents are customizable, conversable, and seamlessly allow human participation
--  They can operate in various modes that employ combinations of LLMs, human inputs, and tools
--  AutoGen's design offers multiple advantages:
-	- it gracefully navigates the strong but imperfect generation and reasoning abilities of these LLMs
-  	- it leverages human understanding and intelligence, while providing valuable automation through conversations between agents
-     	- it simplifies and unifies the implementation of complex LLM workflows as automated agent chats
-
-### Links
-- [Blog post](https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/)
-- [Paper](https://arxiv.org/abs/2308.08155)
-- [GitHub](https://github.com/microsoft/autogen)
-- [Discord](https://discord.gg/pAbnFJrkgZ)
-
-### Guides and examples
-- [A guide to code-executing agents with AutoGen](https://e2b.dev/blog/microsoft-s-autogen)
-</details>
-
-
-## [BondAI](https://github.com/krohling/bondai)
-BondAI is an open-source framework tailored for integrating and customizing Conversational AI Agents.
-
-
-<details>
-
-<!-- ### Description -->
-
-### Links
-- [GitHub](https://github.com/krohling/bondai)
-- [Docs](https://bondai.dev/docs/intro)
-- [Discord](https://discord.com/invite/docusaurus)
-
-<!-- ### Guides and examples -->
-
-  
-</details>
 
 ## [ChatDev](https://github.com/OpenBMB/ChatDev)
 ChatDev is a framework for building communicative agents for software development
@@ -292,33 +243,6 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
-## [GenWorlds](https://genworlds.com/)
-
-GenWorlds is an event-based communication framework enabling developers to seamlessly blend deterministic and non-deterministic processes in building interactive multi-agent systems.
-
-<details>
-
-<!-- ### Description -->
-
-### Main Advantage
-
-Flexibility in Process Management: GenWorlds excels in letting developers choose how to balance deterministic (predictable) and non-deterministic (AI-driven) processes. This is crucial for tailoring system reliability and intelligence to specific needs.
-
-### Key Features
-
-- **Customizable Systems:** GenWorlds emphasizes flexibility, allowing users to tailor systems according to their specific needs.
-- **Intuitive Abstraction Layer:** Offers a basic interface with primitives to build agents, objects, and worlds without predefined constraints, supporting both deterministic and non-deterministic processes.
-- **Pre-Built Elements for Rapid Development:** Comes equipped with a variety of ready-made agents, objects, and worlds, speeding up the setup process while still allowing extensive customization.
-- **Smooth Deployment Mechanisms:** GenWorlds is built around a FastAPI web-socket server, facilitating easy dockerization and deployment, and providing versatile connectivity options suitable for various web systems.
-
-### Links
-
-- [Quickstart](https://genworlds.com/docs/get-started/quickstart)
-- [GitHub](https://github.com/yeagerai/genworlds)
-- [Discord](https://discord.gg/22eCYpb3w2)
-- [Twitter](https://twitter.com/yeagerai)
-
-</details>
 
 ## [Haystack by Deepset](https://haystack.deepset.ai/)
 
@@ -469,9 +393,6 @@ An open-source library that helps you to integrate OpenAI into your existing API
 </details>
 
 
-# :cloud: Cloud and Sandbox runtime
-
-
 ## [E2b](https://www.e2b.dev/)
 E2b is an operating system for AI agents, that is, a set of tools, APIs, and cloud environments for  agents.
 
@@ -496,8 +417,6 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 
 </details>
 
-
-# :chart_with_upwards_trend: Data Integration, memory management
 
 ## [AgentMemory](https://github.com/autonomousresearchgroup/agentmemory)
 
@@ -588,27 +507,6 @@ Memory management for the AI Applications and AI Agents
 
 </details>
 
-
-## [SID](https://www.sid.ai/)
-
-SID is a YC S23 company that creates personal data infrastructure for AI
-
-
-<details>
-
-
-### Description
-- SID makes data infrastructure for AI easy by letting AI devs connect to all of their customers' data with a single button and API
-- It is a fully-hosted retrieval pipeline that makes it easy to connect services like Google Mail, Notion, GDrive, or fully custom data. In one afternoon, you can connect to any data source you'd like and instantly scale to millions of users.
-
-
-### Links
-- [Web](https://www.sid.ai/)
-- [Twitter](https://twitter.com/try_sid)
-
-</details>
-
-
 ## [Turbopuffer](https://turbopuffer.com/)
 
 A truly serverless vector database
@@ -649,6 +547,123 @@ Vectara is a cloud-native, API-driven LLM-powered search app platform
 
 </details>
 
+# :mag_right: Products with liimited choice of LLM
+
+## [AgentOps](https://www.agentops.ai/)
+AgentOps creates tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://www.agentops.ai/)
+
+</details>
+
+## [AutoGen](https://github.com/microsoft/autogen)
+AutoGen is a framework by [Microsoft](https://microsoft.github.io/autogen/docs/Use-Cases/agent_chat/) that enables development of LLM applications using multiple agents that can converse with each other to solve task
+
+
+<details>
+
+### Description
+-  AutoGen agents are customizable, conversable, and seamlessly allow human participation
+-  They can operate in various modes that employ combinations of LLMs, human inputs, and tools
+-  AutoGen's design offers multiple advantages:
+	- it gracefully navigates the strong but imperfect generation and reasoning abilities of these LLMs
+  	- it leverages human understanding and intelligence, while providing valuable automation through conversations between agents
+     	- it simplifies and unifies the implementation of complex LLM workflows as automated agent chats
+
+### Links
+- [Blog post](https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/)
+- [Paper](https://arxiv.org/abs/2308.08155)
+- [GitHub](https://github.com/microsoft/autogen)
+- [Discord](https://discord.gg/pAbnFJrkgZ)
+
+### Guides and examples
+- [A guide to code-executing agents with AutoGen](https://e2b.dev/blog/microsoft-s-autogen)
+</details>
+
+## [BondAI](https://github.com/krohling/bondai)
+BondAI is an open-source framework tailored for integrating and customizing Conversational AI Agents.
+
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/krohling/bondai)
+- [Docs](https://bondai.dev/docs/intro)
+- [Discord](https://discord.com/invite/docusaurus)
+
+<!-- ### Guides and examples -->
+
+  
+</details>
+
+
+## [GenWorlds](https://genworlds.com/)
+
+GenWorlds is an event-based communication framework enabling developers to seamlessly blend deterministic and non-deterministic processes in building interactive multi-agent systems.
+
+<details>
+
+<!-- ### Description -->
+
+### Main Advantage
+
+Flexibility in Process Management: GenWorlds excels in letting developers choose how to balance deterministic (predictable) and non-deterministic (AI-driven) processes. This is crucial for tailoring system reliability and intelligence to specific needs.
+
+### Key Features
+
+- **Customizable Systems:** GenWorlds emphasizes flexibility, allowing users to tailor systems according to their specific needs.
+- **Intuitive Abstraction Layer:** Offers a basic interface with primitives to build agents, objects, and worlds without predefined constraints, supporting both deterministic and non-deterministic processes.
+- **Pre-Built Elements for Rapid Development:** Comes equipped with a variety of ready-made agents, objects, and worlds, speeding up the setup process while still allowing extensive customization.
+- **Smooth Deployment Mechanisms:** GenWorlds is built around a FastAPI web-socket server, facilitating easy dockerization and deployment, and providing versatile connectivity options suitable for various web systems.
+
+### Links
+
+- [Quickstart](https://genworlds.com/docs/get-started/quickstart)
+- [GitHub](https://github.com/yeagerai/genworlds)
+- [Discord](https://discord.gg/22eCYpb3w2)
+- [Twitter](https://twitter.com/yeagerai)
+
+</details>
+
+
+## [OpenAI Assistant API](https://platform.openai.com/docs/assistants/overview)
+The Assistants API allows you to build AI assistants within your own applications, leveraging models, tools, and knowledge to respond to user queries. 
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://platform.openai.com/docs/assistants/overview)
+
+</details>
+
+
+## [SID](https://www.sid.ai/)
+
+SID is a YC S23 company that creates personal data infrastructure for AI
+
+
+<details>
+
+
+### Description
+- SID makes data infrastructure for AI easy by letting AI devs connect to all of their customers' data with a single button and API
+- It is a fully-hosted retrieval pipeline that makes it easy to connect services like Google Mail, Notion, GDrive, or fully custom data. In one afternoon, you can connect to any data source you'd like and instantly scale to millions of users.
+
+
+### Links
+- [Web](https://www.sid.ai/)
+- [Twitter](https://twitter.com/try_sid)
+
+</details>
 
 
 
