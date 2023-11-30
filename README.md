@@ -17,7 +17,7 @@ Abacus AI
 
 
 <h1 align="center">
-	:gift: Awesome SDKs For AI Agents
+	:gift: Awesome SDKs for AI Apps and Agents
 	<p align="center">
 		<a href="https://discord.gg/U7KEcGErtQ" target="_blank">
 			<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
