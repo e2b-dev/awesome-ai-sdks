@@ -397,6 +397,18 @@ Rift is an AI-native language server for AI agents. It's an open-source VS Code 
 
 </details>
 
+## [Self-Operating Computer Framework](https://github.com/OthersideAI/self-operating-computer)
+A framework to enable multimodal models to operate a computer.
+<details>
+
+## Description
+Using the same inputs and outputs of a human operator, the model views the screen and decides on a series of mouse and keyboard actions to reach an objective.
+
+## Links
+- [X](https://twitter.com/HyperWriteAI)
+- [Contact](https://twitter.com/josh_bickett)
+
+</details>
 
 ## [Steamship](https://www.steamship.com/)
 Steamship is a platform that allows to build, scale, and monitor AI agents with serverless cloud hosting, vector search, webhooks, callbacks, and more.
