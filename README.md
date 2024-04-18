@@ -35,7 +35,7 @@ Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
 Check out also our database of [AI agents](https://github.com/e2b-dev/awesome-ai-agents).
 
 
-## [E2b](https://www.e2b.dev/)
+## [E2B](https://www.e2b.dev/)
 E2b is an operating system for AI agents, that is, a set of tools, APIs, and cloud environments for  agents.
 
 
