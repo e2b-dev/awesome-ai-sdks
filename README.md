@@ -122,6 +122,19 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [Julep](https://julep.ai)
+Julep is a platform for building stateful AI apps.
+It simplifies AI app development by managing conversation history, supporting 200+ LLMs, 90+ tools like Slack & providing agentic workflows.
+<details>
+	
+<!-- ### Description -->
+
+### Links
+- [Web](https://julep.ai)
+- [GitHub](https://github.com/julep-ai/julep)
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
