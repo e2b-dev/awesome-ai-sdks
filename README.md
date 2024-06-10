@@ -49,7 +49,7 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 - [GitHub](https://github.com/e2b-dev)
     - [e2b Dashboard](https://github.com/e2b-dev/e2b)
     - [The Agent Protocol](https://github.com/e2b-dev/agent-protocol)
-    - [ChatGPT Pluhin](https://github.com/e2b-dev/chatgpt-plugin)
+    - [ChatGPT Plugin](https://github.com/e2b-dev/chatgpt-plugin)
 - [Twitter](https://twitter.com/e2b_dev)
     - [Vasek Mlejnsky](https://twitter.com/mlejva) (CEO, founder)
     - [Tomas Valenta](https://twitter.com/co_valenta) (CEO, founder)
