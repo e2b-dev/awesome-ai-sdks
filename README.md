@@ -162,13 +162,26 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 <!-- ### Description -->
 
+</details>
 
 ### Links
 - [Web](https://smith.langchain.com/)
 
 
+## [Wordware](https://www.wordware.ai)
+A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.
+
+
+<details>
+
+<!-- ### Description -->
 
 </details>
+
+### Links
+- [Try all the models for a single question](https://app.wordware.ai/r/7c82f38c-4f88-484d-8d93-5c55f7863ff2)
+- [Bsic ReAct Agent](https://app.wordware.ai/r/73fd941f-7127-47d3-a6a2-05d283274ea6)
+
 
 ## [SID](https://www.sid.ai/)
 
