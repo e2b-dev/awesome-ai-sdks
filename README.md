@@ -1,4 +1,3 @@
-
 <h1 align="center">
 	:gift: Awesome SDKs For AI Agents
 	<p align="center">
@@ -56,6 +55,20 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
     - [Tereza Tizkova](https://twitter.com/tereza_tizkova) (Growth & Community)
     - [Jakub Novak](https://twitter.com/_jcube) (Software Engineer)
 - [Discord](https://discord.com/invite/U7KEcGErtQ)
+
+</details>
+
+
+## [Agent symbolic learning](https://github.com/aiwaves-cn/agents)
+Agent symbolic learning is a systematic framework for training language agents, which is inspired by the connectionist learning procedure used for training neural nets.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://github.com/aiwaves-cn/agents)
+
 
 </details>
 
