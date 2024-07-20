@@ -59,7 +59,7 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
-## [Agent symbolic learning](https://github.com/aiwaves-cn/agents)
+## [Agent Symbolic Learning](https://github.com/aiwaves-cn/agents)
 Agent symbolic learning is a systematic framework for training language agents, which is inspired by the connectionist learning procedure used for training neural nets.
 
 <details>
