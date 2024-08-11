@@ -1,4 +1,3 @@
-
 <h1 align="center">
 	:gift: Awesome SDKs For AI Agents
 	<p align="center">
@@ -56,6 +55,21 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
     - [Tereza Tizkova](https://twitter.com/tereza_tizkova) (Growth & Community)
     - [Jakub Novak](https://twitter.com/_jcube) (Software Engineer)
 - [Discord](https://discord.com/invite/U7KEcGErtQ)
+
+</details>
+
+
+## [AgentScope](https://github.com/modelscope/agentscope)
+
+AgentScope is a comprehensive framework designed to streamline the development, deployment, and monitoring of AI agents. Built by ModelScope, it offers a robust set of tools and SDKs for creating autonomous agents that can operate across various domains. AgentScope supports integration with popular machine learning libraries and provides detailed observability features, ensuring that AI agents are not only effective but also transparent and accountable.
+
+<details>
+
+### Links
+- [Web](https://www.modelscope.ai/)
+- [GitHub](https://github.com/modelscope/agentscope)
+- [Documentation](https://docs.modelscope.ai/agentscope)
+- [Discord](https://discord.gg/modelscope)
 
 </details>
 
