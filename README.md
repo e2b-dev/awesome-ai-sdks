@@ -166,7 +166,19 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 ### Links
 - [Web](https://smith.langchain.com/)
 
+## [Saplings](https://github.com/shobrook/saplings)
 
+A framework for building AI agents that use search algorithms to solve problems.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://github.com/shobrook/saplings)
+
+
+</details>
 
 </details>
 
@@ -219,5 +231,3 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
-
