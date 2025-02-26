@@ -26,7 +26,7 @@ You have something to add or improve about our list? Do it via pull request.
 This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b is building an operation system of AI agents - that is, a set of tools, environments, SDKs and APIs. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
 
 ## Join the community
-- Follow us on [Twitter](https://twitter.com/e2b_dev)
+- Follow us on [Twitter](https://twitter.com/e2b)
 - [Join Twitter community](https://twitter.com/i/communities/1670204079619055616) for AI agents
 - [Join our Discord](https://discord.gg/U7KEcGErtQ)
 - Want to discuss anything about AI agents? [Schedule a call with us](https://calendly.com/tereza-tizkova/30min)
@@ -50,7 +50,7 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
     - [e2b Dashboard](https://github.com/e2b-dev/e2b)
     - [The Agent Protocol](https://github.com/e2b-dev/agent-protocol)
     - [ChatGPT Pluhin](https://github.com/e2b-dev/chatgpt-plugin)
-- [Twitter](https://twitter.com/e2b_dev)
+- [Twitter](https://twitter.com/e2b)
     - [Vasek Mlejnsky](https://twitter.com/mlejva) (CEO, founder)
     - [Tomas Valenta](https://twitter.com/co_valenta) (CEO, founder)
     - [Tereza Tizkova](https://twitter.com/tereza_tizkova) (Growth & Community)
