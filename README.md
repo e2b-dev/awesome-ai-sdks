@@ -60,6 +60,20 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [Abso](https://github.com/lunary-ai/abso)
+Abso is a TypeScript library for easily calling 100+ LLMs using OpenAI's format.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://abso.ai)
+- [GitHub](https://github.com/lunary-ai/abso)
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
@@ -169,6 +183,22 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 
 </details>
+
+## [Lunary](https://lunary.ai/)
+Lunary is an open-source platform for LLM chatbots and agents with tools for observability, managing prompts and testing LLMs.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://lunary.ai/)
+- [GitHub](https://github.com/lunary-ai/lunary)
+
+
+</details>
+
 
 ## [SID](https://www.sid.ai/)
 
