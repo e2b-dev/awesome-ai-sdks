@@ -5,7 +5,7 @@
 		<a href="https://discord.gg/U7KEcGErtQ" target="_blank">
 			<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
 		</a>
-		<a href="https://twitter.com/e2b_dev" target="_blank">
+		<a href="https://twitter.com/e2b" target="_blank">
 			<img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
 		</a>
 	</p>
