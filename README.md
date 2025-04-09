@@ -220,4 +220,20 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [MastraAI](https://mastra.ai/docs)
+
+Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. It gives you the set of primitives you need: workflows, agents, RAG, integrations and evals. You can run Mastra on your local machine, or deploy to a serverless cloud.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://mastra.ai/docs)
+- [GitHub](https://github.com/mastra-ai/mastra)
+
+
+</details>
+
 
