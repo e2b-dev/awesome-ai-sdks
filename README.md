@@ -122,6 +122,40 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [Llama-github](https://github.com/JetXu-LLM/llama-github)
+Llama-github is a python library that helps you retrieve the most relevant code snippets, issues, and repository information from GitHub based on your queries, transforming them into valuable knowledge context. It empowers LLM Chatbots, AI Agents, and Auto-dev Agents to solve complex coding tasks. Whether you're a developer looking for quick solutions or an engineer implementing advanced Auto Dev AI Agents, llama-github makes it easy and efficient.
+
+<details>
+Here's a simple example of how to use llama-github:
+
+```
+pip install llama-github
+```
+
+```python
+from llama_github import GithubRAG
+
+# Initialize GithubRAG with your credentials
+github_rag = GithubRAG(
+    github_access_token="your_github_access_token", 
+    openai_api_key="your_openai_api_key", # Optional in Simple Mode
+    jina_api_key="your_jina_api_key" # Optional - unless you want high concurrency production deployment (s.jina.ai API will be used in llama-github)
+)
+
+# Retrieve context for a coding question (simple_mode is default set to False)
+query = "How to create a NumPy array in Python?"
+context = github_rag.retrieve_context(
+    query, # In professional mode, one query will take nearly 1 min to generate final contexts. You could set log level to INFO to monitor the retrieval progress
+    # simple_mode = True
+)
+
+print(context)
+```
+
+### Links
+- [GitHub](https://github.com/JetXu-LLM/llama-github)
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
