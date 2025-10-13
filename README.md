@@ -154,6 +154,28 @@ Langfuse is an open-source analytics for LLM apps. The analytics is currently in
 
 </details>
 
+## [Neurolink](https://github.com/juspay/neurolink)
+Neurolink is a multi-provider AI agent framework that unifies 12+ AI providers (OpenAI, Google, Anthropic, AWS, Azure, Groq, Together AI, Mistral, Cohere, Fireworks, Cloudflare, Ollama) with workflow orchestration capabilities. Production-grade platform with edge-first architecture enabling deployment anywhere - cloud, edge, local, or browser. Features include multi-agent development, streaming, tool calling, Redis caching, proxy support, and enterprise features. Built by Juspay and handling 15M+ requests/month in production.
+
+<details>
+
+### Key Features
+
+- **Multi-Agent Framework**: Multi-agent development with workflow orchestration
+- **Multi-Provider Support**: Unified interface for 12+ AI providers
+- **Edge-First Architecture**: Deploy anywhere - cloud, edge, local, browser
+- **Production-Ready**: Streaming, tool calling, Redis caching, proxy support
+- **Developer Experience**: TypeScript SDK + CLI for any workflow
+- **Enterprise Features**: Telemetry, failover, load balancing
+
+### Links
+
+- [GitHub](https://github.com/juspay/neurolink)
+- [Documentation](https://github.com/juspay/neurolink/tree/main/neurolink/docs)
+- [Quick Start](https://github.com/juspay/neurolink/blob/main/neurolink/docs/getting-started/quick-start.md)
+
+</details>
+
 ## [LangSmith](https://smith.langchain.com/)
 A unified platform for debugging, testing, evaluating, and monitoring LLM applications. LangSmith is now in closed beta. 
 
