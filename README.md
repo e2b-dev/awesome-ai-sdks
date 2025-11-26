@@ -74,6 +74,18 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Agentfield](https://github.com/Agent-Field/agentfield)
+Agentfield is an open-source Kubernetes-style control plane for deploying AI agents as distributed microservices, with built-in service discovery, durable workflows, and observability.
+
+<details>
+
+### Links
+- [Web](https://agentfield.ai)
+- [GitHub](https://github.com/Agent-Field/agentfield)
+- [Documentation](https://agentfield.ai/docs)
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
