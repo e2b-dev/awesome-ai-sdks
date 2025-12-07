@@ -187,6 +187,21 @@ SID is a YC S23 company that makes data infrastructure for AI easy by letting AI
 
 </details>
 
+## [Synapse Agent Kit](https://github.com/Synapse-Founder/synapse-agent-kit)
+
+TypeScript SDK for Web Bot Auth standard. Lightweight, zero-dependency implementation that adds cryptographic authentication to AI agent requests, preventing anti-bot blocking with HMAC-SHA256 signatures.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/Synapse-Founder/synapse-agent-kit)
+- [npm](https://www.npmjs.com/package/synapse-agent-kit)
+- [Web](https://synapse-arch.com)
+
+</details>
+
 ## [Steamship](https://www.steamship.com/)
 Steamship is a platform that allows to build, scale, and monitor AI agents with serverless cloud hosting, vector search, webhooks, callbacks, and more.
 <details>
