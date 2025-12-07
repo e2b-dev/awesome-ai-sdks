@@ -189,7 +189,7 @@ SID is a YC S23 company that makes data infrastructure for AI easy by letting AI
 
 ## [Synapse Agent Kit](https://github.com/Synapse-Founder/synapse-agent-kit)
 
-Economic Trust Layer for AI Agents with Web Bot Auth & Surety Bond. TypeScript SDK that adds cryptographic authentication and economic accountability to AI agent HTTP requests.
+TypeScript SDK for Web Bot Auth standard. Lightweight, zero-dependency implementation that adds cryptographic authentication to AI agent requests, preventing anti-bot blocking with HMAC-SHA256 signatures.
 
 <details>
 
