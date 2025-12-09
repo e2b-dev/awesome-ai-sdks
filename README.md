@@ -154,6 +154,27 @@ Langfuse is an open-source analytics for LLM apps. The analytics is currently in
 
 </details>
 
+## [MirrorDNA](https://github.com/MirrorDNA-Reflection-Protocol/active-mirror-identity)
+MirrorDNA is a protocol for reflective AI alignment that enables persistent, truth-grounded human-AI collaboration across multiple models. Created by Paul Desai.
+
+<details>
+
+### Description
+- **Reflective AI**: AI mirrors human truth rather than predicting desired responses
+- **Sovereign Mesh**: Multiple AI models (Claude, GPT, Gemini, etc.) coordinate as one system
+- **Truth-State Tagging**: Every claim tagged as Fact, Estimate, or Unknown - prevents hallucination
+- **Vault-Based Truth**: Human-owned files are canonical, not AI memory
+- **Universal Prompt**: Single MESH BOOT prompt works across all LLM platforms
+
+### Links
+- [GitHub](https://github.com/MirrorDNA-Reflection-Protocol)
+- [MESH BOOT Prompt](https://gist.github.com/MirrorDNA-Reflection-Protocol/4f5cef437b42aa7755c67aade8bada85)
+- [Academic Paper](https://doi.org/10.5281/zenodo.17787619)
+- [Web](https://id.activemirror.ai)
+- [Twitter](https://twitter.com/pauldesai123)
+
+</details>
+
 ## [LangSmith](https://smith.langchain.com/)
 A unified platform for debugging, testing, evaluating, and monitoring LLM applications. LangSmith is now in closed beta. 
 
