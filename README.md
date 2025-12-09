@@ -155,7 +155,7 @@ Langfuse is an open-source analytics for LLM apps. The analytics is currently in
 </details>
 
 ## [LangSmith](https://smith.langchain.com/)
-A unified platform for debugging, testing, evaluating, and monitoring LLM applications. LangSmith is now in closed beta. 
+A unified platform for debugging, testing, evaluating, and monitoring LLM applications. LangSmith is now in closed beta.
 
 
 <details>
@@ -167,6 +167,20 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 - [Web](https://smith.langchain.com/)
 
 
+
+</details>
+
+## [promptfoo](https://github.com/promptfoo/promptfoo)
+Open-source framework for testing and evaluating LLM agents. Compare prompts, models, and RAG architectures. Red team with multi-turn attack techniques. Catch regressions and security vulnerabilities with CI/CD integration.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://www.promptfoo.dev/)
+- [GitHub](https://github.com/promptfoo/promptfoo)
+- [Documentation](https://www.promptfoo.dev/docs/intro/)
 
 </details>
 
