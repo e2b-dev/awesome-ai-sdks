@@ -89,6 +89,19 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+<details>
+<!-- ### Description -->
+
+## [EvalView](https://github.com/hidai25/eval-view)
+
+Pytest-style testing framework for AI agents. Write YAML tests to assert tool calls, score outputs with an LLM judge, and gate cost/latency in CI.
+
+### Links
+- [Web](https://evalview.com)
+- [GitHub](https://github.com/hidai25/eval-view)
+- [PyPI](https://pypi.org/project/evalview/)
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
