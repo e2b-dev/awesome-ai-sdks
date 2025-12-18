@@ -204,6 +204,21 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [PraisonAI](https://github.com/MervinPraison/PraisonAI)
+
+Production-ready Multi-AI Agents framework with Python & JavaScript SDKs. Features 100+ LLM support via LiteLLM, MCP integration, agentic workflows, and built-in memory.
+
+<details>
+
+### Links
+- [Web](https://docs.praison.ai)
+- [GitHub](https://github.com/MervinPraison/PraisonAI)
+- [PyPI](https://pypi.org/project/praisonaiagents/)
+- [NPM](https://www.npmjs.com/package/praisonai)
+
+</details>
+
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
