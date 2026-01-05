@@ -154,6 +154,19 @@ Langfuse is an open-source analytics for LLM apps. The analytics is currently in
 
 </details>
 
+## [PolicyLayer](https://policylayer.com)
+Non-custodial spending controls for AI agents with crypto wallets. Enforces daily spending limits, per-transaction caps, recipient whitelists, and rate limiting — all without holding private keys. Prevents wallet drains from bugs, prompt injection attacks, or infinite loops.
+
+<details>
+
+### Links
+- [Web](https://policylayer.com)
+- [GitHub](https://github.com/PolicyLayer/PolicyLayer)
+- [npm](https://www.npmjs.com/package/@policylayer/sdk)
+- [Twitter](https://twitter.com/PolicyLayer)
+
+</details>
+
 ## [LangSmith](https://smith.langchain.com/)
 A unified platform for debugging, testing, evaluating, and monitoring LLM applications. LangSmith is now in closed beta. 
 
