@@ -170,6 +170,22 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Protolink](https://github.com/nMaroulis/protolink)
+Protolink is a lightweight python framework for agent-to-agent (A2A) communication, built on and extending Google's A2A protocol.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://nmaroulis.github.io/protolink/)
+- [GitHub](https://github.com/nMaroulis/protolink)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
