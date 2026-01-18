@@ -122,6 +122,22 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [KodeAgent](https://github.com/barun-saha/kodeagent)
+KodeAgent is the minimal engine for building AI agents. It supports ReAct and CodeAct agents, with E2B sandbox for codde execution.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://kodeagent.readthedocs.io/en/latest/)
+- [GitHub](https://github.com/barun-saha/kodeagent)
+
+
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
