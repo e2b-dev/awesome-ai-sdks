@@ -220,4 +220,20 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [Agentset](https://agentset.ai)
+
+Open-source production-ready RAG platform with built-in agentic reasoning, hybrid search, and multimodal support.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://agentset.ai)
+- [GitHub](https://github.com/agentset-ai/agentset)
+
+
+</details>
+
 
