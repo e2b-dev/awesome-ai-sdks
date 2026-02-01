@@ -60,6 +60,21 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [AgentNS](https://agentns.xyz)
+First ICANN-accredited domain registrar built for autonomous AI agents. Register and manage domains (.com, .io, .ai, 400+ TLDs) with USDC payments on Base blockchain, x402 payment protocol, ERC-8004 identity standard, and full DNS management.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://agentns.xyz)
+- [Docs](https://agentns.xyz/docs)
+- [Agent Guide](https://agentns.xyz/howtoagents.md)
+- [Twitter](https://x.com/AgentNSxyz)
+
+</details>
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
