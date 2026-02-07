@@ -155,7 +155,7 @@ Langfuse is an open-source analytics for LLM apps. The analytics is currently in
 </details>
 
 ## [LangSmith](https://smith.langchain.com/)
-A unified platform for debugging, testing, evaluating, and monitoring LLM applications. LangSmith is now in closed beta. 
+A unified platform for debugging, testing, evaluating, and monitoring LLM applications. LangSmith is now in closed beta.
 
 
 <details>
@@ -167,6 +167,28 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 - [Web](https://smith.langchain.com/)
 
 
+
+</details>
+
+## [Nory x402](https://noryx402.com/)
+Nory provides payment infrastructure for AI agents using the x402 protocol (HTTP 402). Enables agents to autonomously pay for APIs and services using USDC on Solana with ~400ms settlement.
+
+<details>
+
+### Description
+Complete x402 payment stack:
+- **nory-x402-payer**: Auto-pay SDK for agents encountering paid APIs
+- **nory-x402-middleware**: Add paywalls to Express/Next.js APIs in one line
+- **nory-mcp-server**: MCP server for Claude and MCP-compatible agents
+
+### Links
+- [Web](https://noryx402.com/)
+- [Documentation](https://noryx402.com/docs)
+- [GitHub](https://github.com/TheMemeBanker)
+- [npm: nory-x402-payer](https://www.npmjs.com/package/nory-x402-payer)
+- [npm: nory-x402-middleware](https://www.npmjs.com/package/nory-x402-middleware)
+- [npm: nory-mcp-server](https://www.npmjs.com/package/nory-mcp-server)
+- [Twitter](https://twitter.com/NoryPay)
 
 </details>
 
