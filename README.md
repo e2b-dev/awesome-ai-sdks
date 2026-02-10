@@ -170,6 +170,20 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [OpenSink](https://opensink.com/)
+The memory and control layer for AI agents. OpenSink provides persistent searchable memory, session management, activity logging, and human-in-the-loop input requests via a simple REST API. Framework-agnostic — works with any agent.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://opensink.com/)
+- [Docs](https://docs.opensink.com/)
+- [GitHub](https://github.com/opensinkai)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
