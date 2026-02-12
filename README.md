@@ -170,6 +170,17 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [OpenClaw Rate Limit Manager](https://github.com/AtlasPA/openclaw-rate-limit-manager)
+Proactive rate limit management for AI agents. Prevents 429 errors with sliding windows (per-minute, per-hour, per-day), request queuing, and pattern learning across multiple LLM providers.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/AtlasPA/openclaw-rate-limit-manager)
+- [Documentation](https://github.com/AtlasPA/openclaw-rate-limit-manager#readme)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
