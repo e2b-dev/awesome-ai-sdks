@@ -221,3 +221,5 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+
+- [AgentIndex](https://agentcrawl.dev) - AI agent discovery platform. Search 39,000+ agents across GitHub, npm, PyPI, HuggingFace, and MCP registries. MCP server, A2A protocol, semantic search. [GitHub](https://github.com/agentidx/agentindex)
