@@ -74,6 +74,19 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Anima](https://getanima.net/)
+Anima is a TypeScript SDK for adding identity persistence to AI agents — memory hierarchy, opinion evolution, drift detection, and relationship tracking. Lightweight, file-based, zero infrastructure required.
+
+<details>
+
+### Links
+- [Web](https://getanima.net/)
+- [GitHub](https://github.com/notmemoo/anima)
+- [npm](https://www.npmjs.com/package/@getanima/core)
+- [Twitter](https://twitter.com/KiptheAI)
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
