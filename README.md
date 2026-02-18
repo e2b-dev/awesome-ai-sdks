@@ -89,6 +89,23 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [doubleagent](https://github.com/islo-labs/doubleagent)
+High-fidelity fake servers for third-party APIs (GitHub, Slack, Stripe, Auth0). Test your AI agents without rate limits, state pollution, or costs.
+
+<details>
+
+### Description
+- Stateful fakes that behave like real APIs — create a PR, it exists; merge it, state updates
+- Contract-tested against real APIs to prevent drift
+- Works with official SDKs unchanged (PyGithub, slack_sdk, stripe, etc.)
+- Instant reset between test runs
+- Local webhooks without ngrok
+
+### Links
+- [GitHub](https://github.com/islo-labs/doubleagent)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
