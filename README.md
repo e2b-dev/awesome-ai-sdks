@@ -74,6 +74,19 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Agorio](https://github.com/Nolpak14/agorio)
+An open-source TypeScript SDK for building AI commerce agents using UCP (Google/Shopify) and ACP (OpenAI/Stripe) protocols. Features an LLM-agnostic adapter interface, plan-act-observe agent loop, and a mock merchant test server.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [npm](https://www.npmjs.com/package/@agorio/sdk)
+- [GitHub](https://github.com/Nolpak14/agorio)
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
