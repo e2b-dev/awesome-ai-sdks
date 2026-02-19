@@ -235,12 +235,11 @@ MOSS (Message-Origin Signing System) provides cryptographic signing for AI agent
 
 ### Links
 - [Web](https://mosscomputing.com)
-- [GitHub](https://github.com/mosscomputing)
-  - [moss-sdk (Python)](https://github.com/mosscomputing/moss)
-  - [moss-langchain](https://github.com/mosscomputing/moss-langchain)
-  - [moss-crewai](https://github.com/mosscomputing/moss-crewai)
-  - [moss-autogen](https://github.com/mosscomputing/moss-autogen)
 - [PyPI](https://pypi.org/project/moss-sdk/)
+  - [moss-sdk (Python)](https://pypi.org/project/moss-sdk/)
+  - [moss-langchain](https://pypi.org/project/moss-langchain/)
+  - [moss-crewai](https://pypi.org/project/moss-crewai/)
+  - [moss-autogen](https://pypi.org/project/moss-autogen/)
 
 </details>
 
