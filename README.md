@@ -170,6 +170,20 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [PolicyLayer](https://policylayer.com/)
+PolicyLayer is a non-custodial spending controls SDK for AI agents. It wraps any EVM wallet with deterministic spending policies — daily limits, per-transaction caps, recipient whitelists, and kill switches — without touching private keys. Uses SHA-256 intent fingerprinting and single-use JWT tokens to enforce controls cryptographically.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://policylayer.com/)
+- [GitHub](https://github.com/PolicyLayer/PolicyLayer)
+- [Docs](https://policylayer.com/docs)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
