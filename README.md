@@ -220,4 +220,6 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## AI Safety & Guardrails
 
+- [ODEI](https://api.odei.ai) - Constitutional world model API for AI agents. Persistent Neo4j knowledge graph (91 nodes), 7-layer AI safety guardrails, smart contract audit. REST API + MCP server. [GitHub](https://github.com/odei-ai/web)
