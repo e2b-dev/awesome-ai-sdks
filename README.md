@@ -170,6 +170,25 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [ODEI](https://api.odei.ai)
+ODEI provides a constitutional world model SDK for AI agents — persistent memory, safety guardrails, and structured world knowledge via Neo4j knowledge graph.
+
+<details>
+
+### Description
+- **World model as a service**: 91-node Neo4j knowledge graph across 6 semantic domains for long-term agent memory
+- **Constitutional safety**: 7-layer AI safety guardrails for every agent action
+- **MCP server**: Native Model Context Protocol integration for AI assistants
+- **Smart contract audit**: On-chain verification and safety analysis
+- **Production since January 2026**: ACP Agent #3082 on Virtuals Protocol
+
+### Links
+- [Web](https://api.odei.ai)
+- [GitHub](https://github.com/odei-ai/web)
+- [MCP Server](https://github.com/odei-ai/mcp-odei)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
