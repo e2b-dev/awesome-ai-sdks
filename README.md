@@ -35,6 +35,26 @@ Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
 Check out also our database of [AI agents](https://github.com/e2b-dev/awesome-ai-agents).
 
 
+## [Agent Reach](https://github.com/Panniantong/Agent-Reach)
+Internet access scaffolding for AI agents
+
+<details>
+
+### Category
+Tools, Internet Access, Multi-platform
+
+### Description
+- Give any AI coding agent full internet capabilities with a single command
+- Supports 9+ platforms: Twitter/X, YouTube, Reddit, Bilibili, Xiaohongshu, GitHub, RSS, Web, Exa search
+- Zero cost, privacy-first, fully open source
+- Modular architecture — each platform is a single Python file
+- Built-in diagnostics via `agent-reach doctor`
+- Compatible with Claude Code, OpenClaw, Cursor, Windsurf
+
+### Links
+- [GitHub](https://github.com/Panniantong/Agent-Reach)
+
+</details>
 ## [E2B](https://www.e2b.dev/)
 E2b is an operating system for AI agents, that is, a set of tools, APIs, and cloud environments for  agents.
 
