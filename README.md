@@ -73,6 +73,17 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 
 </details>
 
+## [Agent-Flow](https://github.com/anmoldhingra1/agent-flow)
+A lightweight multi-agent orchestration framework for composing AI workflows. Define agents with specific roles, wire them into sequential or parallel pipelines, and route dynamically based on content or conditions. Pluggable LLM providers, typed configuration, and immutable state management across handoffs.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/anmoldhingra1/agent-flow)
+
+</details>
+
+
 
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
