@@ -74,6 +74,28 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [APIClaw](https://github.com/nordsym/apiclaw)
+The API layer for AI agents — 22,000+ APIs via MCP
+
+<details>
+
+### Category
+API Gateway, MCP Server, Tool Infrastructure
+
+### Description
+- **22,000+ APIs indexed** — Semantic discovery by capability, not keywords
+- **18 Direct Call providers** — Execute without managing API keys
+- **MCP native** — Works with any MCP-compatible agent
+- **Sub-200ms responses** — Built for the agentic era
+
+### Links
+- [GitHub](https://github.com/nordsym/apiclaw)
+- [npm](https://www.npmjs.com/package/@nordsym/apiclaw)
+- [Website](https://apiclaw.nordsym.com)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
