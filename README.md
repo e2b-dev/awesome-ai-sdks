@@ -78,6 +78,9 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
 
+## [Aetheris](https://github.com/Colin4k1024/Aetheris)
+Aetheris is an agent hosting runtime (think "Temporal for Agents") that provides durable, replayable, and observable execution for AI agents. It features event-sourced execution, crash recovery, human-in-the-loop checkpoints, and native adapters for LangGraph, AutoGen, and CrewAI.
+
 <details>
 
 <!-- ### Description -->
