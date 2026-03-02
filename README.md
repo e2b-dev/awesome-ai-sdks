@@ -89,6 +89,17 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [context-engine-ai](https://github.com/Quinnod345/context-engine)
+Real-time context engine for AI agents. Ingest events from any source (app switches, messages, alerts, webhooks), query with natural language, get ranked results weighted by relevance and recency. Zero-config default with SQLite and local TF-IDF embeddings — no API keys or vector database needed to start. Scales to PostgreSQL + OpenAI embeddings for production.
+
+<details>
+
+### Links
+- [npm](https://www.npmjs.com/package/context-engine-ai)
+- [GitHub](https://github.com/Quinnod345/context-engine)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
