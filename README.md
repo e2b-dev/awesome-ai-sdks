@@ -74,6 +74,18 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+
+## [agent-wallet-sdk](https://github.com/up2itnow0822/AgentNexus2)
+Non-custodial wallet SDK for AI agents. Agents hold their own private keys and sign every transaction locally — no custodial proxy, no vendor API dependency. Supports x402 (HTTP 402 micropayments), CCTP cross-chain USDC bridge, Uniswap V3 + Jupiter swaps, and per-transaction spend limits.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/up2itnow0822/AgentNexus2)
+- [npm](https://www.npmjs.com/package/elizaos-plugin-agentwallet)
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
