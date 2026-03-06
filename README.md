@@ -74,6 +74,27 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [TRINITY](https://github.com/rsv413-EG/trinity)
+A cognitive AI operating system — seven agents, one heartbeat, one maker.
+
+<details>
+<summary>More information</summary>
+
+### Category
+Multi-agent framework, Self-hosted AI OS
+
+### Description
+TRINITY is a self-hosted cognitive AI operating system built around seven specialized agents: ARCHITECT (orchestrator), CORE (developer), FAULT (adversarial inspector), SCOUT (watcher), KEEPER (memory), FORGE (toolsmith), HERALD (comms). Runs on Raspberry Pi + local GPU. Features a full 5-layer memory vault, mandatory code review pipeline, Ralph Loop iterative builds, and autonomous Sentry bug-fix pipeline (detect → triage → fix → PR in under 5 minutes).
+
+- **Platform**: OpenClaw
+- **Models**: Claude Sonnet + local LLMs via LiteLLM/Ollama
+- **Infrastructure**: Raspberry Pi 4, Ubuntu Server, RTX 4090
+
+### Links
+- [GitHub](https://github.com/rsv413-EG/trinity)
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
