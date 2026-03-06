@@ -74,6 +74,24 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Agentic Engineering Framework](https://github.com/DimitriGeelen/agentic-engineering-framework)
+A governance framework for systematizing how AI agents work within engineering projects — task enforcement, context management, healing loops, and audit compliance via a CLI (`fw`).
+
+<details>
+
+<!-- ### Description -->
+- Provider-neutral governance framework for agentic workflows (not an SDK or runtime)
+- Structural enforcement: task gates, commit traceability, budget management, tier-based approval
+- CLI entry point (`fw`) with agents for task creation, git, audit, healing, handover, and context
+- Supports any file-based, CLI-capable AI agent (Claude Code, Aider, Cursor, etc.)
+- Built-in antifragile healing loop, episodic memory, and Component Fabric for impact analysis
+
+### Links
+- [GitHub](https://github.com/DimitriGeelen/agentic-engineering-framework)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
