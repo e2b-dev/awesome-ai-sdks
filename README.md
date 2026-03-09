@@ -204,6 +204,21 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [unified-channel](https://github.com/gambletan/unified-channel)
+
+The messaging layer for AI agents — one API for 19 channels (Telegram, Discord, Slack, WhatsApp, iMessage, Matrix, MS Teams, and more). Middleware pipeline with access control, command routing, rate limiting, conversation memory, and streaming. Write your agent once, deploy to every messaging platform.
+
+<details>
+
+### Links
+- [GitHub (Python)](https://github.com/gambletan/unified-channel)
+- [GitHub (TypeScript)](https://github.com/gambletan/unified-channel-js)
+- [GitHub (Java)](https://github.com/gambletan/unified-channel-java)
+- [PyPI](https://pypi.org/project/unified-channel/)
+- [npm](https://www.npmjs.com/package/unified-channel)
+
+</details>
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
