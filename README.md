@@ -220,4 +220,21 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [Bifrost](https://www.getmaxim.ai/bifrost)
+The fastest LLM gateway, with just 11μs overhead at 5,000 RPS that unifies 20+ providers through a single OpenAI-compatible API.
+
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/maximhq/bifrost)
+- [Linkedin](https://www.linkedin.com/company/maxim-ai)
+
+
+
+</details>
+
 
