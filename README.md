@@ -122,6 +122,21 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [Hive](https://github.com/aden-hive/hive)
+Open-source AI agent framework by Aden (YC-backed) for building goal-driven, self-improving autonomous agents. Define outcomes in natural language and auto-generate agent graphs with built-in evolution loops, MCP integration with 100+ tools, human-in-the-loop support, real-time observability, cost controls, and 20+ pre-built agent templates.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/aden-hive/hive)
+
+
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
