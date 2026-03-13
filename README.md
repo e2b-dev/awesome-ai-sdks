@@ -204,6 +204,21 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [widemem-ai](https://widemem.ai)
+
+A lightweight Python memory layer for LLM agents with importance scoring, temporal decay, hierarchical memory, and YMYL prioritization. Local-first with SQLite + FAISS.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://widemem.ai)
+- [GitHub](https://github.com/remete618/widemem-ai)
+- [PyPI](https://pypi.org/project/widemem-ai/)
+
+</details>
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
