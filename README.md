@@ -35,6 +35,33 @@ Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
 Check out also our database of [AI agents](https://github.com/e2b-dev/awesome-ai-agents).
 
 
+## [AIP - Agent Identity Protocol](https://github.com/The-Nexus-Guard/aip)
+AIP provides cryptographic identity infrastructure for AI agents — Ed25519 keypairs, DID-based identifiers, vouch-chain trust, encrypted messaging, and cross-protocol DID resolution.
+
+<details>
+
+### Category
+Identity, Trust, Security, Cryptography
+
+### Description
+
+- **One-liner identity**: `ensure_identity("my-agent")` — registers or loads credentials automatically
+- **Cryptographic DIDs**: Every agent gets a globally unique, verifiable decentralized identifier
+- **Vouch-chain trust**: Social trust scoring with configurable decay — agents vouch for agents
+- **Behavioral trust**: PDR (Probabilistic Delegation Reliability) scoring from observation data
+- **Encrypted messaging**: E2E encrypted agent-to-agent communication (X25519)
+- **Framework integrations**: LangChain tools, CrewAI support, FastAPI middleware
+- **Cross-protocol**: Resolves did:aip, did:key, did:web, and did:aps identifiers
+- **523 tests**, 39 API endpoints, W3C Verifiable Credentials support
+
+### Links
+- [GitHub](https://github.com/The-Nexus-Guard/aip)
+- [PyPI](https://pypi.org/project/aip-identity/)
+- [API Docs](https://aip-service.fly.dev/docs)
+- [Trust Observatory](https://the-nexus-guard.github.io/aip/observatory.html)
+</details>
+
+
 ## [E2B](https://www.e2b.dev/)
 E2b is an operating system for AI agents, that is, a set of tools, APIs, and cloud environments for  agents.
 
