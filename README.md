@@ -204,6 +204,24 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [shekel](https://github.com/arieradle/shekel)
+
+Runtime budget guardrails for AI agents. Prevents runaway LLM spend caused by retries, tool loops, and long-running agents.
+
+<details>
+
+### Description
+
+- Set hard USD spending limits for AI agents with one line of code
+- Automatically raises `BudgetExceeded` when the limit is hit
+- Supports OpenAI, Anthropic, Gemini, HuggingFace, LiteLLM, LangChain, LangGraph, CrewAI, MCP, OpenAI Agents SDK, AutoGen, and LlamaIndex
+
+### Links
+- [GitHub](https://github.com/arieradle/shekel)
+- [PyPI](https://pypi.org/project/shekel/)
+
+</details>
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
