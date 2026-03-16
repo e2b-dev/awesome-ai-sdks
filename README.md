@@ -204,6 +204,22 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [TITAN](https://github.com/Djtony707/TITAN)
+Autonomous AI agent framework with 149 tools, 34 LLM providers (including local Ollama), mesh networking, WebRTC voice, and React dashboard. Built with TypeScript, pure ESM, MIT licensed.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/Djtony707/TITAN)
+- [npm](https://www.npmjs.com/package/titan-agent)
+
+
+
+</details>
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
