@@ -74,6 +74,18 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [APort](https://aport.io)
+APort is an authorization infrastructure for the AI Agent Economy. It enforces policy before the API call — not after the damage. Verify permissions before every tool runs. Open source, self-hostable, and framework agnostic.
+
+<details>
+
+### Links
+- [Web](https://aport.io/)
+- [GitHub](https://github.com/aporthq/aport)
+
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
