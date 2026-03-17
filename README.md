@@ -60,6 +60,22 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [Agent2Agent (A2A) Protocol](https://google.github.io/A2A/)
+
+An open protocol enabling communication and interoperability between opaque agentic applications across diverse frameworks.
+
+<details>
+
+<!-- ### Description -->
+A2A provides a common language for agents to discover capabilities, negotiate interaction modalities, and securely collaborate on long-running tasks without exposing internal state.
+
+### Links
+- [Web](https://google.github.io/A2A/)
+- [GitHub](https://github.com/a2aproject/A2A)
+- [Specification](https://google.github.io/A2A/specification/)
+
+</details>
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
