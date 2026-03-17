@@ -60,6 +60,14 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [a2a-client-hub](https://github.com/liujuanjuan1984/a2a-client-hub)
+A self-hosted A2A client hub to manage, invoke, and operate multiple A2A agents across web and mobile with unified session history and governance.
+
+<details>
+### Links
+- [GitHub](https://github.com/liujuanjuan1984/a2a-client-hub)
+</details>
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
@@ -87,6 +95,14 @@ It is currently in alpha, and is not yet ready for production use.
 - [GitHub](https://github.com/ThousandBirdsInc/chidori)
 - [Discord](https://discord.com/invite/CJwKsPSgew)
 
+</details>
+
+## [codex-a2a-server](https://github.com/liujuanjuan1984/codex-a2a-server)
+Turn Codex CLI into a stateful, production-oriented A2A agent service with standardized transport, auth, and session continuity.
+
+<details>
+### Links
+- [GitHub](https://github.com/liujuanjuan1984/codex-a2a-server)
 </details>
 
 ## [Fixie]()
@@ -168,6 +184,14 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 
 
+</details>
+
+## [opencode-a2a-server](https://github.com/Intelligent-Internet/opencode-a2a-server)
+Turn OpenCode into a stateful A2A service with production-friendly deployment, auth, session continuity, and explicit runtime boundaries.
+
+<details>
+### Links
+- [GitHub](https://github.com/Intelligent-Internet/opencode-a2a-server)
 </details>
 
 ## [SID](https://www.sid.ai/)
