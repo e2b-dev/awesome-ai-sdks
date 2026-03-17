@@ -68,6 +68,16 @@ A self-hosted A2A client hub to manage, invoke, and operate multiple A2A agents 
 - [GitHub](https://github.com/liujuanjuan1984/a2a-client-hub)
 </details>
 
+## [Agent2Agent (A2A) Protocol](https://google.github.io/A2A/)
+An open protocol enabling communication and interoperability between opaque agentic applications across diverse frameworks.
+
+<details>
+### Links
+- [Web](https://google.github.io/A2A/)
+- [GitHub](https://github.com/a2aproject/A2A)
+- [Specification](https://google.github.io/A2A/specification/)
+</details>
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
