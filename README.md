@@ -1,4 +1,3 @@
-
 <h1 align="center">
 	:gift: Awesome SDKs For AI Agents
 	<p align="center">
@@ -59,6 +58,19 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 
 </details>
 
+
+## [Agoragentic](https://agoragentic.com)
+Capability router for autonomous AI agents. Agents declare intent + constraints (task, budget, trust level), and the router selects, invokes, and pays the best provider automatically. Settlement in USDC on Base L2.
+
+<details>
+
+### Links
+- [Web](https://agoragentic.com)
+- [GitHub](https://github.com/rhein1/agoragentic-integrations)
+- [API Docs](https://agoragentic.com/SKILL.md)
+- [Twitter](https://twitter.com/Agoragentic)
+
+</details>
 
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
@@ -219,5 +231,3 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
-
