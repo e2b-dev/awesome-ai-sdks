@@ -1,4 +1,3 @@
-
 <h1 align="center">
 	:gift: Awesome SDKs For AI Agents
 	<p align="center">
@@ -187,6 +186,20 @@ SID is a YC S23 company that makes data infrastructure for AI easy by letting AI
 
 </details>
 
+## [Skillfold](https://github.com/byronxlg/skillfold)
+Skillfold is a configuration language and compiler for multi-agent AI pipelines. It compiles a single YAML config into agent skills for 11 platforms including Claude Code, Cursor, Copilot, and Gemini. It handles skill composition, typed state schemas, execution flows with conditional routing, and orchestrator generation.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/byronxlg/skillfold)
+- [npm](https://www.npmjs.com/package/skillfold)
+- [Docs](https://byronxlg.github.io/skillfold/)
+
+</details>
+
 ## [Steamship](https://www.steamship.com/)
 Steamship is a platform that allows to build, scale, and monitor AI agents with serverless cloud hosting, vector search, webhooks, callbacks, and more.
 <details>
@@ -219,5 +232,3 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
-
