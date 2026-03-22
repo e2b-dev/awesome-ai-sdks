@@ -187,6 +187,21 @@ SID is a YC S23 company that makes data infrastructure for AI easy by letting AI
 
 </details>
 
+## [TokenFence](https://tokenfence.dev/)
+Cost circuit breaker and runtime guardrails SDK for AI agents. Adds per-workflow budget caps, automatic model downgrade, and kill switches to any OpenAI or Anthropic client. Includes a policy engine for least-privilege tool enforcement. Python and Node.js SDKs, MIT licensed.
+
+<details>
+
+### Links
+- [Web](https://tokenfence.dev/)
+- [GitHub (Python)](https://github.com/u4ma-kev/tokenfence-python)
+- [GitHub (Node.js)](https://github.com/u4ma-kev/tokenfence-node)
+- [PyPI](https://pypi.org/project/tokenfence/)
+- [npm](https://www.npmjs.com/package/tokenfence)
+- [Docs](https://tokenfence.dev/docs)
+
+</details>
+
 ## [Steamship](https://www.steamship.com/)
 Steamship is a platform that allows to build, scale, and monitor AI agents with serverless cloud hosting, vector search, webhooks, callbacks, and more.
 <details>
