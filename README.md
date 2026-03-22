@@ -108,11 +108,19 @@ It is currently in alpha, and is not yet ready for production use.
 </details>
 
 ## [codex-a2a](https://github.com/liujuanjuan1984/codex-a2a)
-Turn Codex CLI into a stateful, production-oriented A2A agent service with standardized transport, auth, and session continuity.
+Full A2A Protocol implementation for Codex CLI, providing a stateful, production-oriented agent service with standardized transport, auth, and session continuity.
 
 <details>
 ### Links
 - [GitHub](https://github.com/liujuanjuan1984/codex-a2a)
+</details>
+
+## [opencode-a2a](https://github.com/Intelligent-Internet/opencode-a2a)
+Full A2A Protocol implementation for OpenCode, providing a stateful A2A service with production-friendly deployment, auth, session continuity, and explicit runtime boundaries.
+
+<details>
+### Links
+- [GitHub](https://github.com/Intelligent-Internet/opencode-a2a)
 </details>
 
 ## [Fixie]()
