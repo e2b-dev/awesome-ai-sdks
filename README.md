@@ -204,6 +204,23 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [Gentik](https://gentik.io)
+
+Infrastructure platform for autonomous AI agents — domain registration, event relay, Ed25519 authentication, and email hosting. API-first with no dashboards required. Agents authenticate with their own Ed25519 keypair (SSH, raw hex, or base58/Solana wallets); no email, no OAuth, no CAPTCHA.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://gentik.io)
+- [Docs](https://gentik.io/docs)
+- [API Reference](https://domains.gentik.io/api/docs)
+- [llms.txt](https://gentik.io/llms.txt)
+- [agents.json](https://gentik.io/.well-known/agents.json)
+
+</details>
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
