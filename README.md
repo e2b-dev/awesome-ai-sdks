@@ -219,5 +219,7 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
+## XVARY Stock Research
 
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
 
