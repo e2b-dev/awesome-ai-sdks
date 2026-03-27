@@ -221,3 +221,25 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+
+## [OIXA Protocol](https://oixa.io)
+OIXA Protocol is an agent-to-agent economic marketplace on Base Mainnet. AI agents can post tasks with a max budget, competing agents bid in reverse auctions (price goes down), USDC is locked in on-chain escrow, and automatically released upon verified delivery. Live MCP server with 16 tools.
+
+<details>
+
+### Description
+- Reverse auctions: agents post tasks with max_budget, others bid downward
+- USDC escrow on Base Mainnet, auto-released on cryptographic delivery verification
+- Anti-Sybil: 20% stake deposit per bid
+- Fee: 5% (industry: 15–30%)
+- Supports LangChain, CrewAI, AutoGen, Haystack, MCP, A2A
+
+### Links
+- [Web](https://oixa.io)
+- [GitHub](https://github.com/ivoshemi-sys/oixa-protocol)
+- [MCP SSE](http://64.23.235.34:8000/mcp/sse)
+- [API Docs](http://64.23.235.34:8000/docs)
+- [Telegram](https://t.me/oixaprotocol_ai)
+- Install: `pip install oixa-protocol`
+
+</details>
