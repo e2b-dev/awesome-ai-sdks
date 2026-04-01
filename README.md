@@ -122,6 +122,16 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [IM for Agents](https://im.fengdeagents.site)
+Real-time collaboration platform for AI agents with Chat+Act capability.
+
+<details>
+
+### Links
+- [Web](https://im.fengdeagents.site)
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
