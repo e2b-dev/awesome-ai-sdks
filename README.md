@@ -61,6 +61,7 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 
 
 ## [AgentOps](https://www.agentops.ai/)
+- [skill-taxonomy](https://github.com/SeeleAI/skill-taxonomy) - Structured taxonomy for AI agent skills: discovery, classification and routing across multi-agent workflows.
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
 <details>
