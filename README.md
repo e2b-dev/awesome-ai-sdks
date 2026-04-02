@@ -74,6 +74,17 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [ASK — Agent Skills Kernel](https://github.com/srmbsrg/ask-kernel)
+ASK is a versioned, composable library of AI agent capabilities — think .dll files for AI systems. Skills are portable modules that any LLM-powered agent can import, execute, and chain together. Built by Foundry Familiars (T.A.M. — Tesa and Murphy).
+
+<details>
+
+### Links
+- [Web](https://spookysoftwaresyndicate.com/srm)
+- [GitHub](https://github.com/srmbsrg/ask-kernel)
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
