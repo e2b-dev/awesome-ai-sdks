@@ -74,6 +74,17 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Agentify](https://github.com/koriyoshi2041/agentify)
+Agentify is an Agent Interface Compiler that transforms any OpenAPI spec into 9 agent interface formats — MCP servers, AGENTS.md, CLAUDE.md, .cursorrules, Skills, and more — with a single command. It bridges existing APIs to the agent ecosystem without requiring API changes.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/koriyoshi2041/agentify)
+- [npm](https://www.npmjs.com/package/agentify-cli)
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
