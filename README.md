@@ -74,6 +74,19 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Agent IAM Ratchet](https://github.com/mattyopon/agent-iam-ratchet)
+Sensitivity Ratchet SDK — irreversible permission narrowing for AI agents. Once an agent accesses sensitive data, its write/delete/execute permissions are permanently removed for the session. Enforces two mathematical invariants: high-water mark only increases, permission set only shrinks. Integrates with LangChain, CrewAI, and OpenAI Agents SDK.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/mattyopon/agent-iam-ratchet)
+- [PyPI](https://pypi.org/project/agent-iam-ratchet/)
+- [Demo](https://agent-iam-ratchet-demo.vercel.app)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
