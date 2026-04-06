@@ -74,6 +74,23 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [asqav](https://github.com/jagmarques/asqav-sdk)
+Quantum-safe AI agent governance SDK. Provides ML-DSA-65 signed audit trails, policy enforcement, and threat detection for autonomous AI agents. Works with any agent framework.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://asqav.com)
+- [GitHub](https://github.com/jagmarques/asqav-sdk)
+- [Docs](https://asqav.com/docs/)
+- [PyPI](https://pypi.org/project/asqav/)
+- [MCP Server](https://github.com/jagmarques/asqav-mcp)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
