@@ -122,6 +122,20 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [Kitaru](https://github.com/zenml-io/kitaru)
+Kitaru is a durable execution layer for AI agents. It provides primitives (checkpoints, replay, resume, wait, memory) that make agent workflows persistent, replayable, and observable — without requiring a graph DSL.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://kitaru.ai)
+- [GitHub](https://github.com/zenml-io/kitaru)
+- [Docs](https://kitaru.ai/docs)
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
