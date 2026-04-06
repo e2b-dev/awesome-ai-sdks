@@ -221,3 +221,21 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+		
+
+
+## [SupraWall](https://supra-wall.com)
+Deterministic policy enforcement and audit logging for AI agent tool calls.
+
+<details>
+
+	### Description
+	SupraWall provides deterministic guardrails for AI agents by intercepting and validating tool calls against fine-grained policies. It ensures security, compliance, and reliability for agentic workflows.
+
+	### Links
+	- [Web](https://supra-wall.com)
+	- [GitHub](https://github.com/wiserautomation/SupraWall)
+
+	</details>
+	
+</details>
