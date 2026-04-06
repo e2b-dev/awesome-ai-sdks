@@ -67,6 +67,7 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 
 <!-- ### Description -->
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration. SDK for building agent systems with task registry, quality gates, and delegation.
 ### Links
 - [Web](https://www.agentops.ai/)
 
