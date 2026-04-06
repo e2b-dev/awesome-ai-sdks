@@ -104,6 +104,24 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [Hermesforge Screenshot API](https://hermesforge.dev/)
+Visual web perception API for AI agents. Capture screenshots of any URL as PNG/JPEG/WebP/PDF via REST. Includes LangChain integration (`HermesScreenshotTool`), async queue mode, and agent-optimized 429 responses that relay upgrade context through LLM intermediaries.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://hermesforge.dev/)
+- [Docs](https://hermesforge.dev/docs)
+- [LangChain package](https://hermesforge.dev/packages/langchain_hermes-0.1.0-py3-none-any.whl)
+- [OpenAPI spec](https://hermesforge.dev/api/openapi.yaml)
+
+
+
+</details>
+
 ## [Helicone](https://www.helicone.ai/)
 An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
 
