@@ -187,6 +187,20 @@ SID is a YC S23 company that makes data infrastructure for AI easy by letting AI
 
 </details>
 
+
+## [RemoteOpenClaw](https://remoteopenclaw.com)
+RemoteOpenClaw is an open marketplace for discovering, sharing, and distributing AI skills and personas built on OpenClaw.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://remoteopenclaw.com)
+- [GitHub](https://github.com/openclaw)
+
+</details>
+
 ## [Steamship](https://www.steamship.com/)
 Steamship is a platform that allows to build, scale, and monitor AI agents with serverless cloud hosting, vector search, webhooks, callbacks, and more.
 <details>
@@ -219,5 +233,3 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
-
