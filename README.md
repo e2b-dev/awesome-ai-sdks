@@ -204,6 +204,16 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [TraceCC](https://github.com/lludlow/TraceCC)
+CLI-native long-term memory for AI agents. Compiles session traces (Claude, Codex) into searchable SQLite bundles with BM25 and regex search, giving agents token-efficient recall over their own history without summarization loss.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/lludlow/TraceCC)
+
+</details>
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
