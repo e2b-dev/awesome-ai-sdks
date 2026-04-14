@@ -220,4 +220,18 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [Yagura](https://github.com/sk-kouta-dev/yagura)
+
+Safety-native AI agent framework. Every tool invocation passes through a 3-layer DangerAssessor (rule-based → LLM → fallback) before execution. 26 ecosystem packages, 188+ pre-built tools, 5 safety presets from `development()` to `maximum_security()`. Apache 2.0.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/sk-kouta-dev/yagura)
+- [PyPI](https://pypi.org/project/yagura-agent/)
+
+</details>
+
 
