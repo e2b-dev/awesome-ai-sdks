@@ -105,19 +105,15 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 </details>
 
 ## [Graflow](https://github.com/GraflowAI/graflow)
-Orchestration engine for production-grade agentic workflows
+A Python-based agent orchestration framework with a workflow-first, defined-by-run approach focused on simplicity and developer experience.
 
 <details>
 
-### Category
-General purpose, Build your own, Multi-agent
-
 ### Description
-- A Python orchestration engine for building reliable, explainable, and scalable agentic workflows in production.
 - **Pythonic DSL**: Define workflows with intuitive operators (`>>` for sequential, `|` for parallel) — no `add_node`/`add_edge` boilerplate.
 - **DAG × State Machine hybrid**: Static DAG skeleton with runtime dynamic transitions (`next_task()`, `next_iteration()`) for cycles and conditional branching that pure DAGs cannot express.
-- **Fat Node design**: Wrap existing agent frameworks (Google ADK, PydanticAI) as self-contained tasks — keep workflow definitions clean while using best-in-class agent reasoning internally.
-- **Production-grade features**: User-controlled checkpoints, Human-in-the-Loop with timeout and auto-checkpoint, parallel group error policies (BestEffort, AtLeastN, Critical), and Redis-based distributed execution with horizontal scaling.
+- **Pluggable agents**: works with frameworks like PydanticAI, Google ADK, or other ReAct-style agents, wrapping them as self-contained workflow tasks.
+- **Production-ready**: User-controlled checkpoints, Human-in-the-Loop with timeout, parallel group error policies (BestEffort, AtLeastN, Critical), and Redis-based distributed execution.
 - **Full observability**: OpenTelemetry + LangFuse integration for distributed tracing across workers.
 - Provider-independent LLM integration via LiteLLM — supports OpenAI, Anthropic, Google, AWS Bedrock, and more.
 
