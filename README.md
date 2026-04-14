@@ -122,6 +122,21 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [Helium](https://heliumtrades.com/mcp-page/)
+Helium is a data and tool layer for AI agents: real-time news across 3.2M+ articles with bias scoring, market data for stocks, ETFs, and crypto with AI-driven analysis, and machine-learning options pricing. Access it through MCP or the REST API.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://heliumtrades.com/mcp-page/)
+- [GitHub](https://github.com/connerlambden/helium-mcp)
+
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
