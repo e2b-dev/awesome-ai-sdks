@@ -187,6 +187,23 @@ SID is a YC S23 company that makes data infrastructure for AI easy by letting AI
 
 </details>
 
+## [Simplehook](https://simplehook.dev/)
+Simplehook gives AI agents access to real-time webhook events from Stripe, GitHub, Twilio, and any provider. Agents can pull events via a simple HTTP API, the CLI (`npx @simplehook/cli pull`), or through the dedicated Mastra tools package — no server required.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://simplehook.dev/)
+- [GitHub](https://github.com/bnbarak/antiwebhook)
+- [Mastra SDK](https://www.npmjs.com/package/@simplehook/mastra)
+
+
+
+</details>
+
 ## [Steamship](https://www.steamship.com/)
 Steamship is a platform that allows to build, scale, and monitor AI agents with serverless cloud hosting, vector search, webhooks, callbacks, and more.
 <details>
