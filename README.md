@@ -220,4 +220,21 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [ZettelForge](https://github.com/rolandpg/zettelforge)
+
+Agentic memory SDK for AI agents — knowledge-graph retrieval, blended vector+graph search, intent classification, and domain entity extraction. Offline-first (no API keys, no cloud). Ships an MCP server. Python, MIT.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/rolandpg/zettelforge)
+- [PyPI](https://pypi.org/project/zettelforge/)
+- [Docs](https://docs.threatrecall.ai/)
+
+
+</details>
+
 
