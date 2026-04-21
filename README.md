@@ -221,3 +221,17 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+
+## [WACP](https://github.com/AAkil98/wacp-platform)
+WACP (Workspace Agent Coordination Protocol) is a coordination protocol and operator workbench for multi-agent systems. The workbench — wacp-console — gives humans a real seat at the table: observe agent activity, approve or reject gates, inject directives, and audit what happened. Rust + React implementation, Apache-2.0. Currently v0.1, active development.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub — implementation](https://github.com/AAkil98/wacp-platform)
+- [GitHub — protocol spec (CC BY-SA 4.0)](https://github.com/AAkil98/wacp-protocol)
+
+</details>
