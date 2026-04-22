@@ -221,3 +221,19 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+
+## [AgentWrit Python SDK](https://github.com/devonartis/agentwrit-python)
+
+Python SDK for AgentWrit — gives each AI agent its own temporary API key instead of sharing one across all agents. Keys are task-scoped and automatically revoked when the task ends. Prevents the "one compromised agent = all agents broken" problem.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/devonartis/agentwrit-python)
+- [PyPI](https://pypi.org/project/agentwrit/)
+- [Documentation](https://github.com/devonartis/agentwrit-python#readme)
+
+</details>
