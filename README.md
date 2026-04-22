@@ -60,6 +60,21 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [adk-database-memory](https://github.com/anmolg1997/adk-database-memory)
+Persistent memory service for Google's Agent Development Kit (ADK). A drop-in `BaseMemoryService` backed by async SQLAlchemy, supporting SQLite, PostgreSQL, and MySQL/MariaDB. Listed in the official ADK integrations catalog.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/anmolg1997/adk-database-memory)
+- [PyPI](https://pypi.org/project/adk-database-memory/)
+- [Official ADK docs listing](https://google.github.io/adk-docs/integrations/database-memory/)
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
