@@ -170,6 +170,27 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Shirabe](https://shirabe.dev)
+Japan-specific AI-native API platform by Techwell Inc. Provides structured JSON endpoints that AI agents (ChatGPT GPTs Actions, Claude Tool Use, Gemini Function Calling, LangChain, Dify, MCP) can call directly — Japanese calendar (六曜 rokuyo, 暦注 rekichu auspicious days, 24 solar terms) and Japanese address normalization (ABR-backed, all 47 prefectures, CC BY 4.0). OpenAPI 3.1 with bilingual descriptions, anonymous free tier, Stripe Billing metered pricing for scale.
+
+<details>
+
+### Description
+Eliminates the need for AI agents to maintain their own Japanese calendar lookup tables or call multiple geocoding services. Calendar API is MCP-compatible; Address API is standard REST with an `attribution` field for CC BY 4.0 propagation. Both run on Cloudflare Workers at the edge.
+
+### Links
+- [Web](https://shirabe.dev)
+- [GitHub org](https://github.com/techwell-inc-jp)
+    - [Calendar API repo](https://github.com/techwell-inc-jp/shirabe-calendar-api)
+    - [Address API repo](https://github.com/techwell-inc-jp/shirabe-address-api)
+- [OpenAPI spec (Calendar)](https://shirabe.dev/openapi.yaml)
+- [OpenAPI spec (Address)](https://shirabe.dev/api/v1/address/openapi.yaml)
+- [MCP registry (Glama.ai)](https://glama.ai/mcp/servers/techwell-inc-jp/shirabe-calendar-api)
+- [GPT Store — Shirabe Calendar](https://chatgpt.com/g/g-69e98031b5b8819185ae196a9f219090-shirabe-ri-ben-noli-japanese-calendar)
+- [GPT Store — Shirabe Address](https://chatgpt.com/g/g-69e96000b5c08191b21f4d6570ead788-shirabe-ri-ben-nozhu-suo-japanese-address)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
