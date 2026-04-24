@@ -220,4 +220,27 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [EnigmAgent](https://github.com/Agnuxo1/EnigmAgent)
+
+AES-256-GCM + Argon2id encrypted local vault for AI agents. Use `{{PLACEHOLDER}}` syntax in prompts — real secrets resolve at runtime, never in LLM context.
+
+<details>
+
+### Description
+
+EnigmAgent solves the credentials-in-prompts problem. Instead of pasting real API keys into agent prompts (where they land in LLM context windows, logs, and completions), developers use `{{MY_SECRET}}` placeholders. EnigmAgent resolves them from a local encrypted vault at execution time.
+
+- **AES-256-GCM** symmetric encryption (authenticated, tamper-evident)
+- **Argon2id** key derivation (memory-hard, GPU-resistant brute-force protection)
+- **Zero cloud** — vault never leaves the machine
+- **MCP server** — native integration with Claude Desktop, Cursor, Continue.dev, Open WebUI
+- **npm/Python SDK** — drop-in for LangChain, CrewAI, AutoGen, SmolAgents, n8n, LlamaIndex
+
+### Links
+- [GitHub](https://github.com/Agnuxo1/EnigmAgent)
+- [MCP Server (npm)](https://www.npmjs.com/package/enigmagent-mcp)
+- [Chrome Extension](https://chromewebstore.google.com/detail/enigmagent/kjelbdaphngolbjfgaahljhpkhknjank)
+
+</details>
+
 
