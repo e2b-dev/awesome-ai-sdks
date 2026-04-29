@@ -74,6 +74,22 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Atlas](https://github.com/RichSchefren/atlas)
+Atlas is an open-source local-first cognitive memory layer for AI agents. AGM-compliant belief revision (49/49 postulate scenarios pass at 100%) plus automatic downstream reassessment — when a fact changes, every dependent belief is re-evaluated, not just flagged. Ships with Hermes / OpenClaw / Claude Code MCP adapters. Apache 2.0.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/RichSchefren/atlas)
+- [Paper draft](https://github.com/RichSchefren/atlas/blob/master/paper/atlas.md)
+- [BusinessMemBench (MIT benchmark)](https://github.com/RichSchefren/businessmembench)
+
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
