@@ -74,6 +74,22 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Bernstein](https://github.com/sipyourdrink-ltd/bernstein)
+Bernstein is an open-source multi-agent orchestrator for autonomous AI coding workflows. It coordinates 37 CLI coding agents (Claude Code, Codex CLI, Gemini CLI, OpenHands, Cursor, Aider, Amp, OpenCode, Goose, Qwen, Ollama, and more) running in parallel git worktrees, with a deterministic Python scheduler — zero LLM tokens for coordination. Ships an MCP server, file-based state, quality gates, cost tracking, and plan files. Apache 2.0, Python 3.12+.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://bernstein.run)
+- [GitHub](https://github.com/sipyourdrink-ltd/bernstein)
+
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
