@@ -204,6 +204,24 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [Vaultfire](https://theloopbreaker.com/)
+Vaultfire is the trust infrastructure for AI agents — onchain identity (ERC-8004), reputation, accountability bonds, and partnership rotation across Base, Avalanche, Arbitrum, and Polygon. Includes SDKs for LangChain, CrewAI, Google A2A, and MCP.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://theloopbreaker.com/)
+- [GitHub](https://github.com/Ghostkey316/vaultfire-langchain)
+- [Docs](https://docs.theloopbreaker.com/)
+- [Twitter](https://x.com/theloopbreaker_)
+
+
+
+</details>
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
