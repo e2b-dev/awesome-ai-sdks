@@ -204,6 +204,25 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [Voidly Pay](https://voidly.ai/pay)
+Voidly Pay is an x402 facilitator and agent payment rail — transfers, escrow, paywalls, streams, subscriptions, and batch payouts settled in USDC on Base via a Sourcify-verified vault. Open marketplace of 17 paid endpoints (signed scrape, country-fetch via 37 probes, PDF extract, etc).
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://voidly.ai/pay)
+- [GitHub](https://github.com/voidly-ai/voidly-pay)
+- [TypeScript SDK (`@voidly/pay`)](https://www.npmjs.com/package/@voidly/pay)
+- [Python SDK (`voidly-pay`)](https://pypi.org/project/voidly-pay/)
+- [LangChain (`voidly-pay-langchain`)](https://pypi.org/project/voidly-pay-langchain/)
+- [Vercel AI (`@voidly/pay-vercel-ai`)](https://www.npmjs.com/package/@voidly/pay-vercel-ai)
+- [MCP server (`@voidly/pay-mcp`)](https://www.npmjs.com/package/@voidly/pay-mcp)
+
+</details>
+
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
