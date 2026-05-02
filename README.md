@@ -60,6 +60,31 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+
+## [AgentZone](https://agentzone.fun/)
+AgentZone is a unified explorer for trustless AI agents, combining ERC-8004 identity, x402 payment history, reputation signals, and live service status across Base and Arbitrum.
+
+<details>
+
+### Links
+- [Web](https://agentzone.fun/)
+- [Pyrimid](https://pyrimid.ai/)
+
+</details>
+
+
+## [Pyrimid](https://pyrimid.ai/)
+Pyrimid is agent-to-agent commerce infrastructure for x402 and ERC-8004, with MCP-native service discovery and onchain USDC payment splitting for vendors, affiliates, and protocol fees.
+
+<details>
+
+### Links
+- [Web](https://pyrimid.ai/)
+- [Docs](https://pyrimid.ai/docs)
+- [Transaction proof](https://pyrimid.ai/proof)
+
+</details>
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
