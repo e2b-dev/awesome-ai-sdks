@@ -60,6 +60,17 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [agenteval](https://github.com/jashshah999/agenteval)
+A testing framework for AI agents. Record execution traces, assert tool call behavior, snapshot test for regressions, and use LLM-as-judge for subjective quality checks. Framework-agnostic (works with LangChain, CrewAI, pydantic-ai, or custom agents). Ships as a pytest plugin.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/jashshah999/agenteval)
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
