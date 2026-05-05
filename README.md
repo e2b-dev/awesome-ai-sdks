@@ -60,6 +60,20 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [Agents Shipgate](https://github.com/ThreeMoonsLab/agents-shipgate)
+Agents Shipgate is a static release-readiness gate for AI agent tool surfaces, with local scans for MCP exports, OpenAPI specs, OpenAI Agents SDK files, Anthropic Messages API artifacts, Google ADK, LangChain/LangGraph, and CrewAI.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/ThreeMoonsLab/agents-shipgate)
+- [PyPI](https://pypi.org/project/agents-shipgate/)
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
@@ -219,5 +233,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
