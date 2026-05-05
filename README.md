@@ -204,6 +204,19 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [APM](https://github.com/philippepascal/apm)
+
+Git-native project manager for running autonomous coding agents in parallel, isolated by design. Every ticket is a branch, every worker runs in its own worktree — two agents can't claim the same ticket or collide on the same code. Built-in dispatcher loop runs N workers concurrently.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/philippepascal/apm)
+- [Crates.io](https://crates.io/crates/apm-cli)
+
+
+</details>
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
