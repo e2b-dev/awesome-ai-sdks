@@ -35,6 +35,36 @@ Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
 Check out also our database of [AI agents](https://github.com/e2b-dev/awesome-ai-agents).
 
 
+## [Agent Skills Eval](https://github.com/darkrishabh/agent-skills-eval)
+A TypeScript SDK and CLI for evaluating [agentskills.io](https://agentskills.io)-style skills with with-skill vs baseline runs, judge grading, JSONL logs, and static HTML reports.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Docs](https://darkrishabh.github.io/agent-skills-eval/)
+- [GitHub](https://github.com/darkrishabh/agent-skills-eval)
+- [npm](https://www.npmjs.com/package/agent-skills-eval)
+
+</details>
+
+
+## [Bench AI](https://github.com/darkrishabh/bench-ai)
+Bench AI runs one prompt against many LLMs and compares answers, latency, tokens, and cost from a CLI, web UI, and TypeScript API.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Demo](https://bench-ai-web.vercel.app/)
+- [GitHub](https://github.com/darkrishabh/bench-ai)
+- [npm](https://www.npmjs.com/package/@darkrishabh/bench-ai)
+
+</details>
+
+
 ## [E2B](https://www.e2b.dev/)
 E2b is an operating system for AI agents, that is, a set of tools, APIs, and cloud environments for  agents.
 
@@ -219,5 +249,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
