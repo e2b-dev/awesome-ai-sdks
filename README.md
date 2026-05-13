@@ -104,6 +104,18 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [FastAPI Agent Blueprint](https://github.com/Mr-DooSun/fastapi-agent-blueprint)
+FastAPI backend blueprint for AI agent applications with DDD domains, reusable RAG pipeline patterns, Taskiq workers, admin UI, and optional LLM/embedding infrastructure.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/Mr-DooSun/fastapi-agent-blueprint)
+
+</details>
+
 ## [Helicone](https://www.helicone.ai/)
 An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
 
@@ -219,5 +231,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
