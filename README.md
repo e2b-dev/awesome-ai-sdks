@@ -89,6 +89,23 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [Ethora](https://ethora.com/)
+Ethora is an open-source chat & messaging platform with a built-in AI agent / chatbot framework. The `@ethora/mcp-server` MCP server (Model Context Protocol) exposes 80 tools so AI agents can manage chat apps, deploy AI bots with RAG sources, broadcast messages, and run B2B workflows from any MCP client (Claude, Cursor, VS Code, Cline, Windsurf).
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://ethora.com/)
+- [GitHub](https://github.com/dappros/ethora)
+- [MCP server](https://github.com/dappros/ethora-mcp-server) — `@ethora/mcp-server` on [npm](https://www.npmjs.com/package/@ethora/mcp-server) and in the [official MCP Registry](https://registry.modelcontextprotocol.io/)
+- [Live demo / playground](https://playground.chat.ethora.com/)
+- [Discord](https://discord.gg/Sm6bAHA3ZC)
+- [Twitter](https://twitter.com/dappros)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
