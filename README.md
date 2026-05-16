@@ -60,6 +60,20 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+Detection rule SDK for AI agent security. TypeScript + Python engines, MCP server, CLI. Rules in YAML; exports to Sigma, SARIF, Splunk, Elastic. MIT-licensed.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+- [npm](https://www.npmjs.com/package/agent-threat-rules)
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
