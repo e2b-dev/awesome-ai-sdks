@@ -122,6 +122,27 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [krewe](https://www.krewe.world/)
+A decentralized AI inference network for agents on Base mainnet. Agents pay per-call in USDC via the x402 protocol (no API keys, no quotas — the wallet IS the auth) and get 2-of-3 byte-equal miner consensus output back. Supports four job kinds: text.structure (regex/JSON extraction), text.embed (sentence embeddings), web.scrape (clean HTML fetch), and text.complete (small-LM completion). Ships first-class SDKs for LangChain, ElizaOS, and Coinbase AgentKit.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://www.krewe.world/)
+- [GitHub](https://github.com/krewe-AI/krewe)
+- [npm: @krewe/x402-client](https://www.npmjs.com/package/@krewe/x402-client)
+- [npm: @krewe/langchain](https://www.npmjs.com/package/@krewe/langchain)
+- [npm: @krewe/elizaos-plugin](https://www.npmjs.com/package/@krewe/elizaos-plugin)
+- [x402 protocol docs](https://github.com/krewe-AI/krewe/blob/main/docs/x402.md)
+- [Architecture docs](https://github.com/krewe-AI/krewe/blob/main/docs/architecture.md)
+- [Twitter](https://x.com/kreweAI)
+- [Telegram](https://t.me/kreweAI)
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
