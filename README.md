@@ -220,4 +220,23 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [weave](https://github.com/polymatx/weave)
+
+TypeScript-native multi-agent orchestrator. MCP-native (consumes any MCP server as a tool source), with graph-based flows, typed state, SQLite checkpoints, USD budget guardrails, streaming agents, and a local trace UI bundled in.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://polymatx.dev/weave/)
+- [GitHub](https://github.com/polymatx/weave)
+- [npm — @polymatx/weave](https://www.npmjs.com/package/@polymatx/weave)
+- [npm — @polymatx/weave-mcp](https://www.npmjs.com/package/@polymatx/weave-mcp)
+- [npm — @polymatx/weave-ui](https://www.npmjs.com/package/@polymatx/weave-ui)
+
+
+</details>
+
 
