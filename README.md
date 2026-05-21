@@ -74,6 +74,21 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Bilig WorkPaper](https://github.com/proompteng/bilig)
+
+Bilig WorkPaper is a TypeScript workbook runtime for agent tools: write cells through an API, recalculate formulas, persist JSON, and verify readback without driving Excel through UI automation.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/proompteng/bilig)
+- [Docs](https://proompteng.github.io/bilig/)
+- [NPM](https://www.npmjs.com/package/@bilig/headless)
+- [MCP Registry](https://registry.modelcontextprotocol.io/servers/io.github.proompteng/bilig-workpaper)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
