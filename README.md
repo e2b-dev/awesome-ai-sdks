@@ -74,6 +74,22 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [awaithumans](https://github.com/awaithumans/awaithumans)
+The human layer for AI agents. One function call (`await_human` / `awaitHuman`) blocks an agent like any Promise; a human reviews via Slack, email, or a built-in dashboard; the agent resumes with the typed Pydantic / Zod response. Stripe-style idempotency makes the await durable across agent restarts. Ships adapters for Temporal and LangGraph. Apache 2.0.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://awaithumans.dev)
+- [Documentation](https://docs.awaithumans.dev)
+- [GitHub](https://github.com/awaithumans/awaithumans)
+- [Discord](https://discord.gg/Kewdh7vjdc)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
