@@ -220,4 +220,22 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [Voight](https://voight.xyz)
+
+Real-time LLM observability for production apps and coding agents. Drop-in wrappers for OpenAI, Anthropic, and Vercel AI SDK + hooks for Claude Code and Cursor capture prompts, tokens, cache reads, tool calls, cost, latency, and errors.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://voight.xyz)
+- [Docs](https://docs.voight.xyz)
+- [GitHub](https://github.com/Voightxyz)
+- [npm @voightxyz/sdk](https://www.npmjs.com/package/@voightxyz/sdk)
+
+
+</details>
+
 
