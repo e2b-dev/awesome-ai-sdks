@@ -89,6 +89,21 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [ClawLink](https://claw-link.dev)
+Hosted OAuth and tool execution runtime that connects AI agents (OpenClaw, Hermes, and others) to 100+ providers — Gmail, Notion, Slack, GitHub, Shopify, Stripe — with one-click connections. No API keys, no OAuth client setup, first integration free.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://claw-link.dev)
+- [Docs](https://docs.claw-link.dev)
+- [npm](https://www.npmjs.com/package/@useclawlink/openclaw-plugin)
+- [GitHub](https://github.com/hith3sh/clawlink)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
