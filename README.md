@@ -73,6 +73,19 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 
 </details>
 
+## [AIGEN SafeAgent Shield](https://github.com/Aigen-Protocol/erc-token-safety-score)
+AIGEN SafeAgent Shield provides token-safety scoring and MCP/API tools for AI agents to check ERC-20 risk before wallet or DeFi actions.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/Aigen-Protocol/erc-token-safety-score)
+- [Protocol](https://github.com/Aigen-Protocol/aigen-protocol)
+
+</details>
+
 
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
@@ -219,5 +232,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
