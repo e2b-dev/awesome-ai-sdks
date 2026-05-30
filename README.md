@@ -204,6 +204,23 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [Tuning Engines](https://www.tuningengines.com/)
+Tuning Engines is a governed AI runtime for model, agent, skill, and MCP workflows. It provides one OpenAI-compatible endpoint with RBAC, traffic policies, approvals, traces, usage analytics, and LangGraph and Temporal integrations.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://www.tuningengines.com/)
+- [GitHub](https://github.com/cerebrixos-org/tuning-engines-cli)
+- [Docs](https://app.tuningengines.com/docs/)
+
+
+
+</details>
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
@@ -219,5 +236,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
