@@ -206,12 +206,15 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 ## [tsm](https://github.com/ahmedsaid47/tsm)
 tsm is a lightweight, SSH-first tmux session manager and dashboard tailored specifically for monitoring remote AI coding agents (Claude Code, aider, Codex, Gemini CLI) running in background sessions.
+
 <details>
+
 <!-- ### Description -->
--
+
 
 ### Links
 - [GitHub](https://github.com/ahmedsaid47/tsm)
+
 </details>
 
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
