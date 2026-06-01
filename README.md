@@ -74,6 +74,21 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Anahata ASI](https://asi.anahata.uno)
+Stateful, air-gapped JVM agent container and SDK featuring metabolic memory (CwGC), Kryo state passivation, and JIT-compiled dynamic tool generation.
+
+<details>
+
+### Links
+- [Web](https://asi.anahata.uno)
+- [GitHub](https://github.com/anahata-os/anahata-asi)
+- [Discord](https://discord.gg/gwGWWxPUXE)
+- [Anahata TV (YouTube)](https://www.youtube.com/@anahata108)
+- [Twitter / X](https://x.com/AnahataASI)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
