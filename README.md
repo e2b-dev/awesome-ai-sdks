@@ -221,3 +221,21 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+
+## [Vertex](https://www.vertex.blue/)
+
+A zero-trust proxy between AI agents and the production APIs they call. A human vaults a provider key once; the agent gets a scoped, revocable session keychain it can never read, with per-service/method policy, operator-set spend caps, prompt-injection blocking, a tamper-evident audit log, and instant kill switches.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://www.vertex.blue/)
+- [npm (vertex-blue-client)](https://www.npmjs.com/package/vertex-blue-client)
+- [OpenAPI](https://www.vertex.blue/api/v1/openapi.json)
+- [LLM docs](https://www.vertex.blue/llms.txt)
+
+
+</details>
