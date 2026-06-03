@@ -60,6 +60,13 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [Agent Trust](https://github.com/tigrohvost/rain)
+Agent Trust is a local pre-action trust gate for AI agents before tools, MCP servers, browser actions, wallets, x402/payment flows, or outreach. It emits inspectable `proceed` / `review` / `deny` receipts and includes a two-minute local proof path. Details
+
+### Links
+- [GitHub](https://github.com/tigrohvost/rain)
+- [Two-minute local proof](https://github.com/tigrohvost/rain/blob/ouroboros/docs/AGENT_TRUST_FIRST_RUN.md)
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
