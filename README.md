@@ -170,6 +170,23 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Tuning Engines](https://www.tuningengines.com/)
+Tuning Engines is a compliance, control, and cost action plane for production AI traffic. It provides governed OpenAI-compatible inference, policy/guardrail enforcement, approvals, traces, usage reporting, and registry support for agents, MCP servers, and skills.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://www.tuningengines.com/)
+- [Docs](https://app.tuningengines.com/docs)
+- [CLI](https://github.com/cerebrixos-org/tuning-engines-cli)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
@@ -219,5 +236,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
