@@ -122,6 +122,18 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [iwant.fyi](https://iwant.fyi)
+SDK + open protocol for agent commerce: agents express structured purchase intent and receive ranked supply matches across connected commerce sources. MCP-native with an HTTP fallback.
+
+<details>
+
+### Links
+- [Web](https://iwant.fyi)
+- [Developer docs](https://iwant.fyi/developers)
+- [GitHub](https://github.com/staugs/iwantfyi-spec)
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
