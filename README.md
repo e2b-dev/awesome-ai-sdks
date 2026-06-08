@@ -221,3 +221,15 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+
+## [OMK](https://github.com/dmae97/open-multi-agent-kit)
+
+Provider-neutral multi-agent control plane for coding workflows. Routes agent runtimes, scopes MCP tools, runs DAG-based workers, verifies evidence, and preserves replayable run artifacts.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/dmae97/open-multi-agent-kit)
+- [npm](https://www.npmjs.com/package/open-multi-agent-kit)
+
+</details>
