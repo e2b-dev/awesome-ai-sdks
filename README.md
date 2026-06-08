@@ -170,6 +170,22 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [mosoo-agent-driver](https://github.com/langgenius/mosoo-agent-driver)
+
+A runtime-neutral driver that boots and drives a single coding-agent session inside a sandbox. Claude Code, Codex, and ACP sit behind one unified command/event protocol, so the same harness can host any of them. Bun-native TypeScript, Apache-2.0.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/langgenius/mosoo-agent-driver)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
