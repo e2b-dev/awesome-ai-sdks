@@ -220,4 +220,23 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [TWZRD Agent Intel](https://intel.twzrd.xyz)
+Trust scoring and x402 micropayment verification for AI agents on Solana.
 
+<details>
+
+### Description
+TWZRD Agent Intel is a remote MCP server that lets autonomous agents verify the on-chain identity and trust score of any Solana wallet before executing x402 micropayments. Built for agent-to-agent transactions on Solana.
+
+**Free tools (4)**: `resolve_agent`, `score_agent`, `preflight_check`, `verify_trust_receipt`
+
+**Paid tool (1)**: `get_trust_receipt` — returns a signed `twzrd.receipt.v5` via HTTP 402 + on-chain USDC micropayment.
+
+**Transport**: Remote streamable-http (zero local install).
+
+### Links
+- [Web](https://intel.twzrd.xyz)
+- [PyPI](https://pypi.org/project/twzrd-agent-intel/)
+- [MCP Config](https://intel.twzrd.xyz): `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
+</details>
