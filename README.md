@@ -73,6 +73,20 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 
 </details>
 
+## [Ariadne Loop](https://github.com/zhangzeyu99-web/ariadne-loop)
+Ariadne Loop is a local-first Python CLI and browser builder for turning rough project context into verifiable loop specs, agent packets, stop rules, and JSON reports.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/zhangzeyu99-web/ariadne-loop)
+- [Docs](https://zhangzeyu99-web.github.io/ariadne-loop/)
+- [Browser Builder](https://zhangzeyu99-web.github.io/ariadne-loop/playground.html)
+
+</details>
+
 
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
