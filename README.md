@@ -72,7 +72,18 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 
 
 </details>
+## [Velobase Harness](https://github.com/velobase/velobase-harness)
+Velobase Harness is an open-source framework for turning AI prototypes and agent products into production-ready AI SaaS, including usage billing, payments, attribution, anti-abuse, deployment, auth, multi-LLM chat, workers, lifecycle email, and admin tools.
 
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/velobase/velobase-harness)
+- [Launchpad](https://velobase.cloud/launchpad)
+
+</details>
 
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
