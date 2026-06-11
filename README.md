@@ -89,6 +89,21 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [Eidentic](https://eidentic.dev/)
+Eidentic is an open-source (Apache-2.0) TypeScript SDK for AI agents with self-improving memory — a temporal knowledge graph, self-editing blocks, and sleep-time consolidation — plus the production fundamentals built in: durable checkpoint/resume, enforced cost ceilings, multi-tenant isolation, sandboxed tools, and an eval harness that gates CI. Ports-and-adapters for the store, vector backend, and model. Runs on Node, Bun, Deno, and the edge.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://eidentic.dev/)
+- [GitHub](https://github.com/eidentic/eidentic)
+- [Docs](https://docs.eidentic.dev/)
+- [npm](https://www.npmjs.com/package/eidentic)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
