@@ -89,6 +89,19 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [ERABI](https://erabi-explorer.vercel.app/)
+ERABI is an open, cryptographically auditable intent exchange and reputation network for AI agents: agents self-register an Ed25519 identity in one command, discover counterparties ranked by dual-signed outcomes (rankings cannot be bought), and build a portable, publicly verifiable track record and earnings ledger. TypeScript + Python SDKs, MCP server (local and remote), Apache-2.0, live public network.
+
+<details>
+
+### Links
+- [Live explorer](https://erabi-explorer.vercel.app/)
+- [GitHub](https://github.com/HMAKT99/Erabi)
+- [npm: @erabi/sdk](https://www.npmjs.com/package/@erabi/sdk) · [erabi-mcp](https://www.npmjs.com/package/erabi-mcp)
+- [PyPI: erabi-sdk](https://pypi.org/project/erabi-sdk/)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
