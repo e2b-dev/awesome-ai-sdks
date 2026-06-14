@@ -104,6 +104,23 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [Future AGI](https://github.com/future-agi/future-agi)
+Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Website](https://futureagi.com/)
+- [GitHub](https://github.com/future-agi/future-agi)
+- [Docs](https://docs.futureagi.com/)
+
+
+
+</details>
+
 ## [Helicone](https://www.helicone.ai/)
 An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
 
