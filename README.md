@@ -104,6 +104,26 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [ForestHub](https://foresthub.ai)
+Open-source runtime for AI agents on the edge
+
+<details>
+
+### Category
+Edge/embedded agents, Build your own, Self-hostable
+
+### Description
+- ForestHub's open-source runtime, [edge-agents](https://github.com/ForestHubAI/edge-agents), runs AI agents offline on Linux edge devices (Raspberry Pi, Jetson, industrial gateways).
+- ~30 MB container, offline by default, no cloud round trip required.
+- Local SLMs (llama.cpp / Ollama / vLLM) alongside cloud LLMs in one workflow graph.
+- Hardware I/O (GPIO, UART, MQTT) as first-class workflow nodes, plus a visual builder.
+
+### Links
+- [GitHub](https://github.com/ForestHubAI/edge-agents)
+- [Web](https://foresthub.ai)
+
+</details>
+
 ## [Helicone](https://www.helicone.ai/)
 An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
 
