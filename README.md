@@ -60,6 +60,23 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [AccInt](https://github.com/maxbaluev/accreted-intelligence)
+AccInt is a local-first Work Model and MCP server for agents. It records commitments, retrieves scored memory, acts with receipts, and gives stronger credit only after real outcomes such as tests, owner approval, or replies.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://accint.xyz/)
+- [GitHub](https://github.com/maxbaluev/accreted-intelligence)
+- [MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.maxbaluev%2Faccint/versions/latest)
+
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
@@ -219,5 +236,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
