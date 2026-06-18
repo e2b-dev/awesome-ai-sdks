@@ -122,6 +122,22 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [Hermes Tweet](https://github.com/Xquik-dev/hermes-tweet)
+Hermes Agent plugin for X/Twitter read, search, and optional posting workflows.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/Xquik-dev/hermes-tweet)
+- [PyPI](https://pypi.org/project/hermes-tweet/)
+
+
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
