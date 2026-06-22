@@ -74,6 +74,21 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard)
+Armorer Guard is a local Rust scanner and MCP proxy for AI-agent prompt injection, credential leakage, exfiltration, and risky tool-call arguments.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/ArmorerLabs/Armorer-Guard)
+- [Hugging Face demo](https://huggingface.co/spaces/armorer-labs/armorer-guard-demo)
+- [Crates.io](https://crates.io/crates/armorer-guard)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
@@ -219,5 +234,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
