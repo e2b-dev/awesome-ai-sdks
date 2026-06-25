@@ -170,6 +170,20 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [rust-norion](https://github.com/yanghao1143/rust-norion)
+Rust research-engineering prototype for AI inference control: routing, memory gates, runtime adapter boundaries, rollback, and auditable self-evolution around model runtimes.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/yanghao1143/rust-norion)
+- [Gitee mirror](https://gitee.com/babalibaba/rust-norion)
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
