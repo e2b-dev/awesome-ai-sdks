@@ -104,6 +104,23 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [gui-agent](https://github.com/aralroca/gui-agent)
+
+gui-agent is an open-source, WebMCP-powered library for building GUI agents that live inside your web app. It exposes your app's own actions as WebMCP tools and lets a natural-language agent operate the UI — click, fill, navigate, and call those actions — driven by any LLM you bring (with a ready-made Vercel AI SDK adapter) and with a text-based DOM fallback for anything not exposed. Headless core with React bindings and an optional visualizer; non-read-only tools are gated behind a human-in-the-loop confirmation.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/aralroca/gui-agent)
+- [npm](https://www.npmjs.com/package/@aralroca/gui-agent)
+
+
+</details>
+
+
 ## [Helicone](https://www.helicone.ai/)
 An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
 
@@ -219,5 +236,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
