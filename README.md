@@ -35,6 +35,19 @@ Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
 Check out also our database of [AI agents](https://github.com/e2b-dev/awesome-ai-agents).
 
 
+## [AI Agent Safety Starter Pack](https://github.com/el-zachariah/ai-agent-safety-starter-pack)
+Free lite preflight scanner and checklist for reviewing AI-agent repo runs before tool access.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/el-zachariah/ai-agent-safety-starter-pack)
+- [Demo page](https://el-zachariah.github.io/ai-agent-safety-starter-pack/)
+
+</details>
+
 ## [E2B](https://www.e2b.dev/)
 E2b is an operating system for AI agents, that is, a set of tools, APIs, and cloud environments for  agents.
 
