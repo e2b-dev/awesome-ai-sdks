@@ -60,6 +60,20 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [AgentLine](https://agentline.cloud)
+Give your AI agent a real phone number — voice calls, SMS, and phone number management for AI agents. Open-source telephony API with MCP server, LangChain integration, and skill-based installation. Works with OpenClaw, Hermes, Claude Code, and any LLM.
+
+<details>
+
+### Links
+- [Web](https://agentline.cloud)
+- [GitHub](https://github.com/AgentLineHQ/AgentLine)
+- [MCP Server](https://github.com/AgentLineHQ/agentline-mcp)
+- [LangChain Integration](https://github.com/AgentLineHQ/langchain-agentline)
+- [Discord](https://discord.gg/69SVE2jWNr)
+
+</details>
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
