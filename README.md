@@ -204,6 +204,23 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [Tree Ring Memory](https://terminallylazy.github.io/Tree-Ring-Memory/)
+
+Tree Ring Memory is a framework-agnostic, local-first memory lifecycle layer for AI agents. It provides a Rust CLI with SQLite/FTS recall, explicit writes, audit, redaction, forgetting, deterministic consolidation, and no required hosted service.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://terminallylazy.github.io/Tree-Ring-Memory/)
+- [GitHub](https://github.com/TerminallyLazy/Tree-Ring-Memory)
+- [Documentation](https://terminallylazy.github.io/Tree-Ring-Memory/llms.txt)
+
+
+</details>
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
@@ -219,5 +236,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
