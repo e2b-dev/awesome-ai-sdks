@@ -221,3 +221,18 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+## [Zoom Search](https://github.com/goofrey/zoom-search)
+
+Python library for AI web search with query rewriting, source-domain zoom-in, evidence formatting, and sourced LLM answer synthesis.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/goofrey/zoom-search)
+- [PyPI](https://pypi.org/project/zoom-search/)
+
+
+</details>
