@@ -89,6 +89,18 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [CodeAlmanac](https://github.com/AlmanacCode/codealmanac)
+CodeAlmanac is a self-updating repo wiki for AI coding agents. It tracks project conversations, decisions, and implementation context locally inside the repository.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/AlmanacCode/codealmanac)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
@@ -219,5 +231,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
