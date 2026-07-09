@@ -170,6 +170,17 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Melaya](https://melaya.org)
+Melaya is an agentic platform with a 9-language SDK suite (TypeScript, Python, Rust, Go, Java, Kotlin, C#/.NET, Ruby, PHP) wrapping one unified REST and WebSocket API. The platform provides agentic-runtime primitives — agent creation, 1,200+ scoped tool dispatch, monitoring (full replay and audit trail), and deployment — plus a Rust execution engine for sub-microsecond dispatch. Bring any of 20+ AI providers (Claude, GPT, Gemini, Mistral, DeepSeek, Ollama, LM Studio, ...) per agent. Native MCP client support. Includes a 7-persona Trading Crew with HITL approval on every order.
+
+### Links
+- [Website](https://melaya.org)
+- [SDK overview](https://github.com/melaya-labs/melaya)
+- [npm @melaya/sdk](https://www.npmjs.com/package/@melaya/sdk)
+- [PyPI melaya](https://pypi.org/project/melaya/)
+- [crates.io melaya](https://crates.io/crates/melaya)
+- [Public benchmarks](https://melaya.org/benchmarks)
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
