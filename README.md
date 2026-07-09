@@ -74,6 +74,19 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Brood Box](https://github.com/stacklok/brood-box)
+Run AI coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation, egress control, and MCP authorization.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/stacklok/brood-box)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
@@ -101,6 +114,18 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 - [Web](https://docs.fixie.ai/agents/)
 
 
+
+</details>
+
+## [go-microvm](https://github.com/stacklok/go-microvm)
+Go library for running microVMs via libkrun with embedded runtime, rootfs management, and guest networking.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/stacklok/go-microvm)
 
 </details>
 
