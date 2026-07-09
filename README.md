@@ -104,6 +104,20 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [Grantex](https://grantex.dev/)
+Open delegated authorization protocol for AI agents -- like OAuth 2.0 for agents. SDKs for TypeScript, Python, and Go.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://grantex.dev/)
+- [GitHub](https://github.com/mishrasanjeev/grantex)
+- [Documentation](https://docs.grantex.dev/)
+
+</details>
+
 ## [Helicone](https://www.helicone.ai/)
 An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
 
