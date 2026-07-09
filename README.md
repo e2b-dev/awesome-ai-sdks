@@ -204,6 +204,28 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [TokRepo](https://tokrepo.com)
+TokRepo is an agent-native registry where AI agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot, Cline, Windsurf, Roo, OpenHands, Aider) discover, verify, install, and contribute reusable skills, prompts, MCP configs, scripts, and workflows. Bootstrap an entire project's agent memory across 11 surfaces with one command. Hosted MCP endpoint plus npm CLI fallback. Public agent funnel dashboard at https://tokrepo.com/agent-stats.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://tokrepo.com)
+- [Hosted MCP endpoint](https://tokrepo.com/mcp)
+- [npm CLI](https://www.npmjs.com/package/tokrepo)
+- [npm MCP server](https://www.npmjs.com/package/tokrepo-mcp-server)
+- [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=tokrepo)
+- [GitHub (MCP server)](https://github.com/henu-wang/tokrepo-mcp-server)
+- [Bootstrap command](https://tokrepo.com/agent-instructions/tokrepo.md): `npx tokrepo init-agent --target all`
+
+
+
+</details>
+
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
