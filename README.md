@@ -170,6 +170,23 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Mitos](https://github.com/mitos-run/mitos)
+Isolated, forkable computers for your AI agents. Boots Firecracker microVMs and forks a running VM into parallel attempts, restoring from memory in tens of milliseconds.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://mitos.run)
+- [GitHub](https://github.com/mitos-run/mitos)
+- [Documentation](https://mitos.run/docs)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
