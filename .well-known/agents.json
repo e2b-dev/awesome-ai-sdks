@@ -1,0 +1,111 @@
+{
+  "schema": "agentlookup-v1",
+  "registry": "https://agentlookup.dev",
+  "agents": [
+    {
+      "name": "E2B",
+      "endpoint": "https://www.e2b.dev/",
+      "description": "E2b is an operating system for AI agents, that is, a set of tools, APIs, and cloud environments for  agents.",
+      "capabilities": [
+        "cloud-infrastructure"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AgentOps",
+      "endpoint": "https://www.agentops.ai/",
+      "description": "AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.",
+      "capabilities": [
+        "monitoring"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Chidori",
+      "endpoint": "https://github.com/ThousandBirdsInc/chidori",
+      "description": "Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Helicone",
+      "endpoint": "https://www.helicone.ai/",
+      "description": "An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Langchain",
+      "endpoint": "https://www.langchain.com/",
+      "description": "LangChain is a framework designed to simplify the creation of applications using large language models.",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Langfuse",
+      "endpoint": "https://langfuse.com/",
+      "description": "Langfuse is an open-source analytics for LLM apps. The analytics is currently in a closed alph",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LangSmith",
+      "endpoint": "https://smith.langchain.com/",
+      "description": "A unified platform for debugging, testing, evaluating, and monitoring LLM applications. LangSmith is now in closed beta.",
+      "capabilities": [
+        "monitoring",
+        "test-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "SID",
+      "endpoint": "https://www.sid.ai/",
+      "description": "SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Steamship",
+      "endpoint": "https://www.steamship.com/",
+      "description": "Steamship is a platform that allows to build, scale, and monitor AI agents with serverless cloud hosting, vector search, webhooks, callbacks, and more.",
+      "capabilities": [
+        "web-search",
+        "cloud-infrastructure",
+        "monitoring"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Vercel AI SDK",
+      "endpoint": "https://sdk.vercel.ai/docs",
+      "description": "An open source library for building AI-powered user interfaces.",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    }
+  ]
+}
