@@ -89,6 +89,19 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [ConnectOnion](https://github.com/openonion/connectonion)
+Simple, elegant open-source Python framework for production-ready AI agents. 2-line agent creation, functions as tools, 12 lifecycle hooks, plugin system, and multi-agent networking with trust verification.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/openonion/connectonion)
+- [Documentation](https://docs.connectonion.com)
+- [PyPI](https://pypi.org/project/connectonion/)
+- [Discord](https://discord.gg/4xfD9k8AUF)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
