@@ -220,4 +220,17 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [SynthCode Pro](https://github.com/abhayjnayakk/synthcode-pro)
+
+A production-grade neurosymbolic agent framework with 8 verification gates. Catches AI agent hallucinations before they reach users. Includes model fallback chains, semantic caching, and OpenTelemetry observability.
+
+<details>
+
+### Links
+- [Web](https://synthcode-landing.vercel.app)
+- [GitHub](https://github.com/abhayjnayakk/synthcode-pro)
+- [npm](https://www.npmjs.com/package/@avasis-ai/synthcode-pro)
+- [Get Pro ($149)](https://whop.com/checkout/plan_KspZxhIoW87gd)
+
+</details>
 
