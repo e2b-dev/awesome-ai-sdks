@@ -187,6 +187,22 @@ SID is a YC S23 company that makes data infrastructure for AI easy by letting AI
 
 </details>
 
+## [ShipPage](https://shippage.ai)
+Zero-config HTML publishing for AI agents. One HTTP POST turns any HTML or Markdown into a public URL at shippage.ai/p/{slug}. Auto-registers on first call — no account, no API keys to configure.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://shippage.ai)
+- [GitHub](https://github.com/jieshu666/ShipPage-Skill)
+- [npm (MCP server)](https://www.npmjs.com/package/shippage-mcp)
+- [Blog](https://shippage.ai/blog)
+
+</details>
+
+
 ## [Steamship](https://www.steamship.com/)
 Steamship is a platform that allows to build, scale, and monitor AI agents with serverless cloud hosting, vector search, webhooks, callbacks, and more.
 <details>
