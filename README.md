@@ -170,6 +170,26 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [ORCH](https://github.com/oxgeneral/ORCH)
+CLI orchestrator for AI agent teams. Coordinates Claude Code, OpenAI Codex, Cursor, and shell scripts as a parallel task queue with a validated state machine.
+
+<details>
+
+### Description
+
+- **Multi-agent dispatch** — run Claude, Codex, Cursor, and shell scripts in parallel from one CLI
+- **State machine** — tasks flow through `todo → in_progress → review → done` with automatic retries and stall detection
+- **Autonomous mode** — set a Goal and ORCH auto-generates tasks for idle agents
+- **Inter-agent messaging** — agents share context mid-run via built-in message bus
+- **File-only storage** — `.orchestry/` directory with YAML + JSONL, no database required
+- **Typed adapter interface** — plug in any AI provider via `IAgentAdapter`
+
+### Links
+- [GitHub](https://github.com/oxgeneral/ORCH)
+- [npm](https://www.npmjs.com/package/@oxgeneral/orch)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
