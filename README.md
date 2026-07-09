@@ -104,6 +104,23 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [Flow Weaver](https://github.com/synergenius-fw/flow-weaver)
+Build agent workflows as plain TypeScript. No JSON, no YAML, just .ts files you can review and diff.
+
+<details>
+
+### Description
+- Add one annotation to a TypeScript function and it becomes a workflow node. The compiler validates connections, ports, and types, then generates standalone code with no runtime dependency
+- Works with Claude Code, Copilot, Codex, Cursor, and any AI editor
+- Deploy to Inngest, Lambda, Vercel, Cloudflare, GitHub Actions, or GitLab CI
+- Web-based visual editor included. Edit visually or in code, both stay in sync
+
+### Links
+- [GitHub](https://github.com/synergenius-fw/flow-weaver)
+- [Web](https://flowweaver.ai)
+
+</details>
+
 ## [Helicone](https://www.helicone.ai/)
 An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
 
