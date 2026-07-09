@@ -89,6 +89,22 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [DeliverIQ MCP](https://github.com/Davison-Francis/min8t-sdks)
+DeliverIQ MCP is an open-source (MIT) Model Context Protocol server that gives AI agents (Claude Desktop, Cursor, etc.) 12 composable email-deliverability tools. The verification pipeline runs 21 checks across 5 stages — format (RFC 5322 + Sift3 typo detection), domain & provider (164k+ disposable domains, 130+ role prefixes, alias normalization), mailbox (MX resolution, SMTP handshake with catch-all probe), reputation (50 DNSBL zones, RDAP domain age, HIBP breach, 15 DKIM selectors, SPF/DKIM/DMARC/MTA-STS/BIMI/TLS-RPT score), and scoring (spam-trap heuristics on 13 weighted signals, composite domain trust, deliverability classification: Safe/Risky/Invalid/Unknown). Distributed on npm as `@deliveriq/mcp`. Listed on Anthropic's official MCP Registry and Glama.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://min8t.com/deliveriq)
+- [GitHub](https://github.com/Davison-Francis/min8t-sdks)
+- [npm](https://www.npmjs.com/package/@deliveriq/mcp)
+- [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=deliveriq)
+- [Glama](https://glama.ai/mcp/servers/Davison-Francis/min8t-sdks)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
