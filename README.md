@@ -122,6 +122,22 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [Hindsight](https://hindsight.vectorize.io/)
+Hindsight is state-of-the-art long-term memory for AI agents by Vectorize. It is open source (MIT-licensed) and can run fully self-hosted. Hindsight integrates with popular agent frameworks including LangChain, CrewAI, LlamaIndex, Vercel AI SDK, and more.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://hindsight.vectorize.io/)
+- [GitHub](https://github.com/vectorize-io/hindsight)
+- [Integrations](https://hindsight.vectorize.io/integrations)
+
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
