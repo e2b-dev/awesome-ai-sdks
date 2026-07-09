@@ -170,6 +170,23 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+
+## [Oh My Hermes](https://github.com/rlaope/oh-my-hermes)
+Oh My Hermes is a workflow skill pack for Hermes Agent that adds research, planning, coding handoff, review, QA, documentation, and long-running loop workflows.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/rlaope/oh-my-hermes)
+- [Docs](https://rlaope.github.io/oh-my-hermes/)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
