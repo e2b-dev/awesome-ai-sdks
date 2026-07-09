@@ -220,4 +220,29 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [Everything Fact-Checked](https://github.com/Nlai741533/EFC-Plugin)
+
+A fact-checking toolkit for AI-generated research reports. CLI, Claude Code plugin, and GitHub Action that catches hallucinated numbers, fabricated data, and exaggerated claims before they reach your reader.
+
+<details>
+
+### Links
+- [GitHub (Plugin)](https://github.com/Nlai741533/EFC-Plugin)
+- [GitHub (Standalone Skill)](https://github.com/Nlai741533/EFC-standalone)
+- [PyPI](https://pypi.org/project/everything-fact-checked/)
+
+</details>
+
+
+## [EFC (Everything Fact-Checked)](https://github.com/Nlai741533/EFC-Plugin)
+EFC is a fact-checking tool for AI-generated research reports. It catches 5 systematic failure modes (unit errors, fabricated interpolation, source conflation, stale data, attribution laundering) through an agent-agnostic SKILL.md, CLI (`efc`), and GitHub Action. Includes source-content verification that fetches cited URLs and checks whether claimed figures actually appear in the source text.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/Nlai741533/EFC-Plugin)
+- [Standalone Skill (one file, any agent)](https://github.com/Nlai741533/EFC-standalone)
+
+</details>
+
 
