@@ -221,3 +221,23 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+
+## [AI Models Catalog](https://github.com/i-need-token/ai-models)
+AI Models Catalog is a structured, open-source database of 4,587+ AI models across 95 providers with pricing, context windows, modalities, and capabilities. Essential for agent builders who need to choose the right model for tool calling, reasoning, vision, and more.
+
+<details>
+
+### Why it's useful for agent builders
+- **Model selection for agents**: Filter models by tool calling, reasoning, structured output, and other agent-critical capabilities
+- **Pricing comparison**: Calculate costs across providers to optimize agent economics
+- **Interactive catalog**: Search, filter, and compare models at [i-need-token.github.io/ai-models](https://i-need-token.github.io/ai-models/)
+- **First-party data**: All data sourced from provider APIs, not third-party aggregators
+- **Free & open-weight models**: Find models you can run locally for private agent deployments
+
+### Links
+- [GitHub](https://github.com/i-need-token/ai-models)
+- [Interactive Catalog](https://i-need-token.github.io/ai-models/)
+- [npm package](https://www.npmjs.com/package/ai-models)
+- [Best AI Models for Agents](https://i-need-token.github.io/ai-models/best-ai-models-for-agents.html)
+
+</details>
