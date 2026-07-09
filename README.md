@@ -74,6 +74,26 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Agent Stack](https://github.com/MukundaKatta/agent-stack)
+A reliability stack for tool-using AI agents — five small, focused npm libraries that fix the boring problems every long-running agent eventually hits. Pure JavaScript, zero runtime dependencies, BYO LLM. Each library solves a single concrete failure mode (token overflow, unauthorized network calls, tool-call drift, bad arg validation, schema violations).
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Landing page](https://mukundakatta.github.io/agent-stack/)
+- [agentfit](https://github.com/MukundaKatta/agentfit) — token-aware message truncation
+- [agentguard](https://github.com/MukundaKatta/agentguard) — network egress firewall
+- [agentsnap](https://github.com/MukundaKatta/agentsnap) — snapshot tests for tool-call traces
+- [agentvet](https://github.com/MukundaKatta/agentvet) — validate LLM tool args before execution
+- [agentcast](https://github.com/MukundaKatta/agentcast) — structured output with retry
+- [Writeup on DEV.to](https://dev.to/mukundakatta/i-built-5-tiny-libraries-to-stop-my-ai-agents-from-misbehaving-in-production-3oni)
+
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
