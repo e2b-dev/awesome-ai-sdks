@@ -204,6 +204,29 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [Polaxis](https://github.com/nishant6118/Polaxis-SDK-MCP)
+
+Runtime security firewall for AI agents — intercepts every tool call before execution.
+
+<details>
+
+### Description
+
+- **7-layer AI agent firewall**: regex scan (L1–L5) → LLM semantic eval (L6) → policy engine (L7)
+- Blocks prompt injection (99.0%), PII exfiltration (98.9%), credential leaks (100%), memory poisoning (98.9%), and authority impersonation (100%)
+- Sub-millisecond latency on clean traffic; LLM eval only triggers on suspicious inputs
+- Benchmarked: **99.4% avg detection rate**, **0% false-block rate** across 5,650 clean samples
+- Python SDK with `@firewall.protect` decorator + MCP server for any MCP-compatible agent
+
+### Links
+- [Web](https://polaxis.io)
+- [GitHub](https://github.com/nishant6118/Polaxis-SDK-MCP)
+- [Docs](https://docs.polaxis.io)
+- [PyPI](https://pypi.org/project/polaxis)
+- [Benchmark](https://polaxis.io/benchmark)
+
+</details>
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
