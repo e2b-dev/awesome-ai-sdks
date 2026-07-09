@@ -122,6 +122,21 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [handsets](https://github.com/elliotgao2/handsets)
+handsets is a high-performance Android control CLI for AI agents and humans. It exposes a verb-led `hs ui` table format (instead of raw XML accessibility dumps) so LLM agents can see and drive the device with one-line commands. No root, no APK; a single jar runs over `adb forward` at shell UID with millisecond-level wire latency.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/elliotgao2/handsets)
+- [Docs](https://elliotgao2.github.io/handsets/)
+- [PyPI](https://pypi.org/project/handsets/)
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
