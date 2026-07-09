@@ -60,6 +60,24 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [a2a-client-hub](https://github.com/liujuanjuan1984/a2a-client-hub)
+A self-hosted A2A client hub to manage, invoke, and operate multiple A2A agents across web and mobile with unified session history and governance.
+
+<details>
+### Links
+- [GitHub](https://github.com/liujuanjuan1984/a2a-client-hub)
+</details>
+
+## [Agent2Agent (A2A) Protocol](https://google.github.io/A2A/)
+An open protocol enabling communication and interoperability between opaque agentic applications across diverse frameworks.
+
+<details>
+### Links
+- [Web](https://google.github.io/A2A/)
+- [GitHub](https://github.com/a2aproject/A2A)
+- [Specification](https://google.github.io/A2A/specification/)
+</details>
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
@@ -87,6 +105,22 @@ It is currently in alpha, and is not yet ready for production use.
 - [GitHub](https://github.com/ThousandBirdsInc/chidori)
 - [Discord](https://discord.com/invite/CJwKsPSgew)
 
+</details>
+
+## [codex-a2a](https://github.com/liujuanjuan1984/codex-a2a)
+Full A2A Protocol implementation for Codex CLI, providing a stateful, production-oriented agent service with standardized transport, auth, and session continuity.
+
+<details>
+### Links
+- [GitHub](https://github.com/liujuanjuan1984/codex-a2a)
+</details>
+
+## [opencode-a2a](https://github.com/Intelligent-Internet/opencode-a2a)
+Full A2A Protocol implementation for OpenCode, providing a stateful A2A service with production-friendly deployment, auth, session continuity, and explicit runtime boundaries.
+
+<details>
+### Links
+- [GitHub](https://github.com/Intelligent-Internet/opencode-a2a)
 </details>
 
 ## [Fixie]()
@@ -168,6 +202,14 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 
 
+</details>
+
+## [opencode-a2a](https://github.com/Intelligent-Internet/opencode-a2a)
+Turn OpenCode into a stateful A2A service with production-friendly deployment, auth, session continuity, and explicit runtime boundaries.
+
+<details>
+### Links
+- [GitHub](https://github.com/Intelligent-Internet/opencode-a2a)
 </details>
 
 ## [SID](https://www.sid.ai/)
