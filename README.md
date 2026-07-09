@@ -60,6 +60,22 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [AgentGate](https://agentgate.sh)
+Open-source platform to deploy AI agents in one command and monetize them via Stripe. Implements MCP, A2A, and UCP. Self-hostable (AGPL-3.0), Python and TypeScript SDKs.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://agentgate.sh)
+- [GitHub](https://github.com/agentgatesh/agentgate)
+- [Documentation](https://agentgate.sh/guide)
+- [Pricing](https://agentgate.sh/pricing)
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
