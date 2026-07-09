@@ -60,6 +60,22 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+
+## [AgentField](https://agentfield.ai)
+AgentField is an open-source control plane for building and orchestrating autonomous AI agents, with SDKs for Python, TypeScript, and Go.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://agentfield.ai)
+- [GitHub](https://github.com/Agent-Field/agentfield)
+- [Documentation](https://agentfield.ai/docs)
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
