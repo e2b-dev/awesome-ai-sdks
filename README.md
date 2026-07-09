@@ -104,6 +104,29 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [Graflow](https://github.com/GraflowAI/graflow)
+A Python-based agent orchestration framework with a workflow-first, defined-by-run approach focused on simplicity and developer experience.
+
+<details>
+
+### Description
+- **Pythonic DSL**: Define workflows with intuitive operators (`>>` for sequential, `|` for parallel) — no `add_node`/`add_edge` boilerplate.
+- **DAG × State Machine hybrid**: Static DAG skeleton with runtime dynamic transitions (`next_task()`, `next_iteration()`) for cycles and conditional branching that pure DAGs cannot express.
+- **Pluggable agents**: works with frameworks like PydanticAI, Google ADK, or other ReAct-style agents, wrapping them as self-contained workflow tasks.
+- **Production-ready**: User-controlled checkpoints, Human-in-the-Loop with timeout, parallel group error policies (BestEffort, AtLeastN, Critical), and Redis-based distributed execution.
+- **Full observability**: OpenTelemetry + LangFuse integration for distributed tracing across workers.
+- Provider-independent LLM integration via LiteLLM — supports OpenAI, Anthropic, Google, AWS Bedrock, and more.
+
+### Links
+- [Documentation](https://graflow.ai/)
+- [GitHub](https://github.com/GraflowAI/graflow)
+- [PyPI](https://pypi.org/project/graflow/)
+- [Examples](https://github.com/GraflowAI/graflow/tree/main/examples)
+- [Hands-on Colab](https://colab.research.google.com/github/GraflowAI/graflow-examples/blob/main/notebooks/hands_on_guide.ipynb)
+- [X](https://twitter.com/GraflowAI)
+
+</details>
+
 ## [Helicone](https://www.helicone.ai/)
 An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
 
