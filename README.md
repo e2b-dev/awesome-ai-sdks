@@ -74,6 +74,19 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Agent Todo](https://todo.formatho.com)
+Agent Todo is an API-first task management system built specifically for AI agents. It gives agents persistent memory for tasks across sessions with priority queues, status lifecycle management, and agent identity tracking.
+
+<details>
+
+### Links
+- [Web](https://todo.formatho.com)
+- [GitHub](https://github.com/formatho/agent-orchestrator)
+- [API Docs](https://todo.formatho.com/docs)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
