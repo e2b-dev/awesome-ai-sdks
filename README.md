@@ -170,6 +170,20 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+
+## [Muninn](https://github.com/Phillipneho/muninn)
+Muninn is a persistent memory layer for AI agents. It provides SQLite local storage (free), cloud sync (Supabase + Gemini), and semantic search across episodic, semantic, and procedural memories. 8x faster than RAG.
+
+<details>
+
+### Links
+- [Web](https://muninn.au/)
+- [GitHub](https://github.com/Phillipneho/muninn)
+- [Docs](https://muninn.au/docs)
+- [npm](https://www.npmjs.com/package/muninn-core)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
