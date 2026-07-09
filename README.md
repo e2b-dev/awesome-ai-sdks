@@ -60,6 +60,12 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [claw-army/claude-node](https://github.com/claw-army/claude-node)
+Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
+
+### Links
+- [GitHub](https://github.com/claw-army/claude-node)
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
