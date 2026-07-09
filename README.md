@@ -170,6 +170,25 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Mastra](https://mastra.ai/)
+Mastra is an all-in-one framework for building AI-powered applications and agents with Typescript.
+
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://mastra.ai/)
+- [Github](https://github.com/mastra-ai/)
+- [Twitter](https://x.com/@mastra)
+- [Discord](https://discord.gg/BTYqqHKUrf)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
