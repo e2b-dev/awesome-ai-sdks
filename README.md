@@ -74,6 +74,19 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Axocoatl](https://github.com/axocoatl/axocoatl)
+Axocoatl is an open-source agentic runtime in Rust. Define agents as supervised actors and they survive crashes — a crashed agent restarts from its last checkpoint instead of losing the run. Coordination runs through a stigmergic event lattice with no central orchestrator; it persists 4-tier memory with local embeddings (candle / all-MiniLM), runs fully local against Ollama (or OpenAI/Anthropic/Mistral/Gemini/OpenRouter), and speaks MCP as both client and server. Apache-2.0.
+
+<details>
+
+### Links
+- [Web](https://axocoatl.ai)
+- [Docs](https://docs.axocoatl.ai)
+- [GitHub](https://github.com/axocoatl/axocoatl)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
