@@ -220,4 +220,20 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [trpc-agent-go](https://github.com/trpc-group/trpc-agent-go)
+
+trpc-agent-go is a Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://trpc-group.github.io/trpc-agent-go/)
+- [GitHub](https://github.com/trpc-group/trpc-agent-go)
+- [pkg.go.dev](https://pkg.go.dev/trpc.group/trpc-go/trpc-agent-go)
+
+
+</details>
 
