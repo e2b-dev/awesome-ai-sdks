@@ -73,6 +73,19 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 
 </details>
 
+## [CommonGround Kernel](https://github.com/Intelligent-Internet/CommonGround)
+CommonGround Kernel is a PostgreSQL-backed agent work ledger and shared work substrate for human-agent and multi-agent systems, preserving durable public work records, handoff facts, causal lineage, claim fencing, and pull-first recovery across runtimes.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/Intelligent-Internet/CommonGround)
+
+
+</details>
+
 
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
@@ -219,5 +232,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
