@@ -170,6 +170,24 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Mengram](https://mengram.io/)
+
+Mengram is a multilingual long-term memory layer for AI agents. Hosted REST API, MCP server, and Python/JS SDKs provide semantic, episodic, and procedural memory. Search and ask work natively in 23 languages via Cohere multilingual embeddings.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://mengram.io/)
+- [Github](https://github.com/alibaizhanov/mengram)
+- [Docs](https://docs.mengram.io/)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
