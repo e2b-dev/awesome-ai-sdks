@@ -170,6 +170,26 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [RePERS](https://github.com/coolsocket/repers)
+The operating layer for multi-agent repository work — parallel lanes that don't collide, JSON evidence handed off between agents, transferable release packs another repo can re-verify.
+<details>
+
+### Description
+- Not an agent runtime — a contract layer above any runtime (Claude / Codex / Gemini / LangGraph / CrewAI / OpenHands). You provide the LLM; RePERS provides the coordination.
+- Five stages: Research (preflight, capability registry as shared memory) → Plan (DAG with `target_files` isolation) → Execute (parallel dispatch with collision guards) → Review (JSON evidence join) → Ship (transferable release pack another repo can re-verify without trusting the sender).
+- Ships a deterministic per-task router that picks the right slice of the pipeline so the harness only fires when the work shape matches it. No LLM call, sub-100 ms, offline.
+- Stdlib-only Python runtime, no extra deps. JSON-in / JSON-out contracts at every stage so different vendor agents can hand off without trust.
+
+### Links
+- [GitHub](https://github.com/coolsocket/repers)
+- [Philosophy](https://github.com/coolsocket/repers/blob/main/PHILOSOPHY.md)
+- [Agent first-contact playbook](https://github.com/coolsocket/repers/blob/main/AGENTS.md)
+- [End-to-end walkthrough](https://github.com/coolsocket/repers/blob/main/docs/e2e-walkthrough.md)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
