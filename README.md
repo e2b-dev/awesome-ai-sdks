@@ -169,6 +169,24 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 
 </details>
+## [OpenSymbolicAI](https://github.com/OpenSymbolicAI/core-py)
+
+A Python runtime for building reliable LLM agents as structured software — with typed primitives, explicit decompositions, and unit-testable workflows. Achieves 97.9% pass rate on the TravelPlanner benchmark with 3x fewer tokens than LangChain.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://www.opensymbolicai.com)
+- [GitHub](https://github.com/OpenSymbolicAI/core-py)
+- [Docs](https://opensymbolicai.github.io/core-py/)
+- [Benchmark](https://www.opensymbolicai.com/blog/travelplanner-benchmark)
+
+
+</details>
+
 
 ## [SID](https://www.sid.ai/)
 
