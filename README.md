@@ -59,6 +59,21 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 
 </details>
 
+## [AI Native Dev / vibe-skills](https://skill.ferryman.app/)
+Open Agent Skills bundle for repo-native AI coding workflows.
+
+<details>
+
+<!-- ### Description -->
+
+AI Native Dev publishes portable Agent Skills for project instructions, specs, reviews, plans, prototypes, validation evidence, handoffs, and commit preparation.
+
+### Links
+- [Web](https://skill.ferryman.app/)
+- [Registry](https://skill.ferryman.app/.well-known/agent-skills/index.json)
+
+</details>
+
 
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
@@ -220,4 +235,4 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
-
+-
