@@ -60,6 +60,25 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [Azeth](https://azeth.ai/)
+Trust infrastructure for the machine economy — MCP server giving AI agents non-custodial smart accounts, x402 payments, on-chain reputation, and service discovery.
+
+<details>
+
+### Description
+- Non-custodial ERC-4337 smart accounts with guardian-enforced spending limits and token whitelists
+- x402 HTTP-native payments for machine-to-machine commerce (USDC on Base)
+- On-chain reputation registry — multidimensional scoring (uptime, response time, success rate)
+- Service discovery via ERC-8004 trust registry — find and route to best-performing services
+- MCP-first distribution — 8 tools for any AI agent framework
+
+### Links
+- [Web](https://azeth.ai/)
+- [GitHub](https://github.com/azeth-protocol/mcp-server)
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
