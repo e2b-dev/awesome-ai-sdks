@@ -104,6 +104,22 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [Hector](https://github.com/kadirpekel/hector)
+Hector is a A2A native, declarative AI agent platform written in Go that lets you build powerful agents in pure YAML.
+
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/Helicone/helicone)
+
+
+
+</details>
+
 ## [Helicone](https://www.helicone.ai/)
 An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
 
