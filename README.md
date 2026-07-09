@@ -89,6 +89,22 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [EmblemAI](https://emblemvault.ai)
+
+Open-source AI agent wallet SDK for crypto operations. 200+ tools covering swaps, conditional orders, DeFi, NFTs, and cross-chain bridges across Solana, Ethereum, Base, BSC, Polygon, Hedera, and Bitcoin. Integrates via npm CLI or A2A protocol. x402 payment rails.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://emblemvault.ai)
+- [GitHub](https://github.com/EmblemCompany/EmblemAi-AgentWallet)
+- [NPM](https://www.npmjs.com/package/@emblemvault/agentwallet)
+- [Twitter](https://x.com/EmblemAI_)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
