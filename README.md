@@ -170,6 +170,22 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [py_ralph_frame](https://github.com/rxdt/py_ralph_frame)
+A lightweight spec-driven loop harness for Claude Code, Codex, Gemini CLI, and other agent CLIs. It runs fresh-context agent loops against repo specs, commits each iteration, and gates output with lint, type, security, and test checks.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/rxdt/py_ralph_frame)
+- [Agents](https://github.com/rxdt/py_ralph_frame/agents?author=rxdt)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
