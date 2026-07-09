@@ -170,6 +170,17 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Nexus](https://nexus.keylightdigital.dev/)
+Nexus is a simple, affordable agent observability platform — the Plausible of AI agents. Drop in the TypeScript SDK, see your traces, get alerts when agents fail. Hosted on Cloudflare Workers. Open-source.
+
+<details>
+
+### Links
+- [Web](https://nexus.keylightdigital.dev/)
+- [GitHub](https://github.com/scobb/nexus)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
