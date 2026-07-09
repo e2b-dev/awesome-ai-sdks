@@ -89,6 +89,20 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [errlore](https://errlore.com)
+errlore is a failure-memory layer for AI agents: every resolved error becomes a lesson that gets injected into the next similar prompt, so the agent stops repeating fixed mistakes. It also tracks per-model KNOWN ISSUES and reinforces the lessons that actually help. Embedded and file-based (JSONL + file locks), offline, no server, no API keys, MIT.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://errlore.com)
+- [GitHub](https://github.com/Ma4etaSS/errlore)
+- [PyPI](https://pypi.org/project/errlore/)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
