@@ -221,3 +221,23 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+
+## [Agent Registry](https://github.com/Brooks1003/base-agent-registry)
+On-chain identity, capability declaration, staking, and reputation standard for autonomous AI agents. Deployed on Base mainnet. First registered agent: Panini (Agent #1). ERC #1757.
+
+<details>
+
+### Description
+- **On-chain identity**: Agents receive a sequential uint256 ID with creator accountability anchor
+- **Capability tags**: Standardized declaration of agent capabilities
+- **Economic staking**: Stake ETH ($50-$500) to earn trust; slashing for malicious behavior
+- **Non-linear reputation**: Halved per offense with permanent on-chain marks
+- **Graduation system**: Trusted agents graduate to stake-free operation
+- **ERC standard**: Proposed as ERC #1757 in ethereum/ERCs
+
+### Links
+- [GitHub](https://github.com/Brooks1003/base-agent-registry)
+- [ERC Proposal #1757](https://github.com/ethereum/ERCs/pull/1757)
+- [Deployed on Base](https://basescan.org/address/0x4a156AE79D0e217CBBa6C3da8ba292bfC77a2Ad2)
+
+</details>
