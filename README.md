@@ -170,6 +170,20 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [OneRingAI](https://oneringai.io)
+  OneRingAI is a single TypeScript library for building multi-vendor AI agents. Born from 2+ years of enterprise production use, it features a connector-first architecture with built-in
+  OAuth (43 vendor templates), per-tool circuit breakers, plugin-based context management with token budgeting, native MCP support, and multi-modal capabilities (image, video, TTS, STT) —
+  all in one package with 20 dependencies.
+
+  <details>
+
+  ### Links
+  - [Web](https://oneringai.io)
+  - [GitHub](https://github.com/Integrail/oneringai)
+  - [npm](https://www.npmjs.com/package/@everworker/oneringai)
+
+  </details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
@@ -186,6 +200,7 @@ SID is a YC S23 company that makes data infrastructure for AI easy by letting AI
 
 
 </details>
+
 
 ## [Steamship](https://www.steamship.com/)
 Steamship is a platform that allows to build, scale, and monitor AI agents with serverless cloud hosting, vector search, webhooks, callbacks, and more.
