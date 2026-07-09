@@ -200,7 +200,16 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 - [Twitter](https://twitter.com/GetSteamship)
 - [Discord](https://discord.com/invite/dR5fHvxSNg)
 
+## [Threadline](https://threadline.to)
+Threadline is a persistent context layer for AI agents — two lines of code give your agent memory that's user-owned, scoped by permission, and portable across models and frameworks. Includes an open context schema specification with 7 typed scopes.
 
+<details>
+
+### Links
+- [Web](https://threadline.to)
+- [GitHub](https://github.com/vidursharma202-del/context-schema)
+- [npm](https://www.npmjs.com/package/threadline-sdk)
+- [Docs](https://threadline.to/docs)
 
 </details>
 
