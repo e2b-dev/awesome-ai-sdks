@@ -122,6 +122,18 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [Kakunin](https://kakunin.ai)
+X.509 cryptographic identity + behavioral monitoring for AI agents. Issues certificates via AWS KMS, scores behavioral events for risk, and generates MiCA & EU AI Act compliance reports via API.
+
+### Category
+Compliance, Security, Monitoring
+
+### Links
+- [Website](https://kakunin.ai)
+- [Docs](https://kakunin.ai/docs)
+- [Python SDK samples](https://github.com/nqzai/kakunin-samples)
+- [OpenAPI spec](https://kakunin.ai/api/v1/openapi.json)
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
