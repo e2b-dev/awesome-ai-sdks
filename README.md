@@ -220,4 +220,10 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [Springwell-Keel](https://github.com/stevenjones-bot/springwell-keel)
+Open-source agentic workflow orchestration framework for faith-based benevolence ministries. Three coordinated lanes — intake/sensing, service catalog matching, and care routing — powered by a single Keel Engine. Postgres as system of record, Docker-sandboxed agents. Phase 0, Apache 2.0.
 
+<details>
+### Links
+- [GitHub](https://github.com/stevenjones-bot/springwell-keel)
+</details>
