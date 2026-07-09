@@ -167,6 +167,18 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 - [Web](https://smith.langchain.com/)
 
 
+</details>
+
+## [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor)
+Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/flik2002/openclaw-monitor)
+- [Screenshot](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
 
 </details>
 
@@ -182,7 +194,6 @@ SID is a YC S23 company that makes data infrastructure for AI easy by letting AI
 ### Links
 - [Web](https://www.sid.ai/)
 - [Twitter](https://twitter.com/try_sid)
-
 
 
 </details>
@@ -219,5 +230,3 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
-
