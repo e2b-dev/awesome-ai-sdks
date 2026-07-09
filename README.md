@@ -170,6 +170,18 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [OpenAcme](https://openacme.pages.dev)
+
+Local-first AI workforce platform — named agents with roles, personas, tools, memory, and per-agent MCP servers that self-organize through task delegation. Any agent can assign work to another; the scheduler wakes coworkers when dependencies clear. Supports Anthropic, OpenAI, Google, OpenRouter, and Ollama.
+
+<details>
+
+### Links
+- [Web](https://openacme.pages.dev)
+- [GitHub](https://github.com/sandydasari/openacme)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
