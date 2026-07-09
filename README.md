@@ -187,6 +187,22 @@ SID is a YC S23 company that makes data infrastructure for AI easy by letting AI
 
 </details>
 
+## [Skillpack Forge](https://github.com/guorunjie/skillpack-forge)
+Skillpack Forge is a zero-dependency CLI for portable AI coding-agent context. It scans a repo, creates one `skillpack.yaml`, and compiles it into AGENTS.md, CLAUDE.md, Claude/Codex Skills, Cursor rules, GitHub Copilot instructions, MCP resources, and MCPB bundles.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/guorunjie/skillpack-forge)
+- [npm](https://www.npmjs.com/package/skillpack-forge)
+
+
+
+</details>
+
 ## [Steamship](https://www.steamship.com/)
 Steamship is a platform that allows to build, scale, and monitor AI agents with serverless cloud hosting, vector search, webhooks, callbacks, and more.
 <details>
@@ -219,5 +235,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
