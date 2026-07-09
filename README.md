@@ -104,6 +104,24 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [Haldir](https://haldir.xyz/)
+The guardian layer for AI agents. Scoped sessions with spend limits (Gate), AES-encrypted secrets (Vault), hash-chained audit trail (Watch), and policy enforcement proxy (Proxy). Native SDKs for LangChain, CrewAI, and Vercel AI SDK — 10 lines to add governance to any agent.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://haldir.xyz/)
+- [GitHub](https://github.com/ExposureGuard/haldir)
+- [PyPI](https://pypi.org/project/haldir/)
+- [Docs](https://haldir.xyz/docs)
+
+
+
+</details>
+
 ## [Helicone](https://www.helicone.ai/)
 An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
 
