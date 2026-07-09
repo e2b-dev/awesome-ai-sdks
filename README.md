@@ -221,3 +221,21 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+## [Webclaw](https://github.com/0xMassi/webclaw)
+Web content extraction toolkit for AI agents. Rust CLI and MCP server that gives LLMs clean markdown from any URL, with TLS fingerprinting to bypass bot detection without a headless browser.
+
+<details>
+
+### Description
+- 10 MCP tools for Claude, Cursor, Windsurf, and other AI coding assistants
+- TLS fingerprinting bypasses anti-bot protections without headless browsers
+- Pure extraction engine (webclaw-core) has zero network deps, WASM-compatible
+- Outputs LLM-optimized markdown, JSON, or plain text
+- 67% fewer tokens than raw HTML
+
+### Links
+- [GitHub](https://github.com/0xMassi/webclaw)
+
+</details>
+
+
