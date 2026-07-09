@@ -122,6 +122,19 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [HOL Standards SDK](https://github.com/hashgraph-online/standards-sdk)
+TypeScript SDK for building AI agents on the Hedera network. Provides agent discovery and registration via the Registry Broker.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/hashgraph-online/standards-sdk)
+- [NPM](https://www.npmjs.com/package/@hashgraphonline/standards-sdk)
+- [Documentation](https://hol.org/docs/libraries/standards-sdk/overview/)
+- [Website](https://hol.org/)
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
