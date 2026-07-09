@@ -74,6 +74,19 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Agent Gateway](https://agent-gateway-kappa.vercel.app)
+A unified API layer providing 34+ services for AI agents (memory, scheduling, wallets, code execution, DeFi) under one Bearer token with credit-based billing. Features machine-readable discovery via agent.json and llms.txt.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://agent-gateway-kappa.vercel.app)
+- [GitHub](https://github.com/OzorOwn/agent-gateway)
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
