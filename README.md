@@ -154,6 +154,22 @@ Langfuse is an open-source analytics for LLM apps. The analytics is currently in
 
 </details>
 
+## [Opik](https://github.com/comet-ml/opik)
+Opik is an open-source platform for LLM observability, evaluations, and prompt optimization.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://www.comet.com/docs/opik/)
+- [GitHub](https://github.com/comet-ml/opik)
+
+
+
+</details>
+
 ## [LangSmith](https://smith.langchain.com/)
 A unified platform for debugging, testing, evaluating, and monitoring LLM applications. LangSmith is now in closed beta. 
 
@@ -219,5 +235,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
