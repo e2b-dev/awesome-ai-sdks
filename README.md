@@ -122,6 +122,23 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [Human Pages](https://humanpages.ai/)
+An MCP server that gives AI agents access to real-world people who listed themselves to be hired by agents. 31 tools including search by skill/location/equipment, job offers, in-job messaging, and streaming payments.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://humanpages.ai/)
+- [GitHub](https://github.com/human-pages-ai/humanpages)
+- [npm](https://www.npmjs.com/package/humanpages)
+
+
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
