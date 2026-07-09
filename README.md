@@ -73,6 +73,20 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 
 </details>
 
+## [BrowserTrace](https://github.com/aaronlab/browsertrace)
+BrowserTrace is a local-first trace viewer for AI browser agents. It records screenshots, URLs, actions, model input/output, status, and errors, then exports redacted standalone HTML traces for debugging failed browser-agent runs.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://aaronlab.github.io/browsertrace/)
+- [GitHub](https://github.com/aaronlab/browsertrace)
+
+
+</details>
+
 
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
@@ -219,5 +233,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
