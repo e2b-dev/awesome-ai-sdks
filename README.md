@@ -221,3 +221,14 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+
+## [PA·co Framework](https://github.com/PenguinAlleyApps/paco-framework)
+
+Markdown-first, zero-code multi-agent operations system for Claude Code. Build autonomous AI agent teams (3-16 agents) using only markdown files for configuration, dispatch, and coordination.
+
+<details><summary>Details</summary>
+
+### Links
+- [GitHub](https://github.com/PenguinAlleyApps/paco-framework)
+
+</details>
