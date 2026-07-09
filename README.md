@@ -221,3 +221,18 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+## [Zoom Search](https://github.com/goofrey/zoom-search)
+
+Search SDK for AI agents with query rewriting, domain zoom-in, sourced answers, and MCP/LangGraph integration.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/goofrey/zoom-search)
+- [PyPI](https://pypi.org/project/zoom-search/)
+
+
+</details>
