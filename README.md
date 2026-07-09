@@ -74,6 +74,19 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [BrowserClaw](https://github.com/idan-rubin/browserclaw)
+BrowserClaw is an open-source library for AI browser automation using accessibility snapshots and ref targeting, built on Playwright.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://github.com/idan-rubin/browserclaw)
+- [GitHub](https://github.com/idan-rubin/browserclaw)
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
