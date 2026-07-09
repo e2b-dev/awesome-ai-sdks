@@ -170,6 +170,25 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Rendobar](https://rendobar.com/)
+Rendobar is a media-processing API for developers and agents. It exposes FFmpeg, transcode, caption, and watermark jobs as tools an agent can call, with an MCP server and a free tier.
+
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://rendobar.com/)
+- [GitHub](https://github.com/rendobar)
+- [npm SDK](https://www.npmjs.com/package/@rendobar/sdk)
+- [npm MCP](https://www.npmjs.com/package/@rendobar/mcp)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
