@@ -74,6 +74,22 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Atla](https://www.atla-ai.com/)
+Atla automatically detects recurring errors in your AI agents. It surfaces these across your production traffic and test runs so you can ship the improvements that matter most. 
+*Works with agents built with all major frameworks and models.*
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://www.atla-ai.com/?utm_source=e2b&utm_medium=github)
+- [GitHub](https://github.com/atla-ai/atla-insights-sdk)
+- [Discord](https://discord.com/invite/qFCMgkGwUK)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
