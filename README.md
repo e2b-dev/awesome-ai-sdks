@@ -89,6 +89,21 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [Clawhalla](https://www.clawhalla.net/)
+Clawhalla is a checkpoint & restore SDK for AI agents. It persists agent state (memory, config, skills) to Arweave permanently. Agents pay per-upload via x402 (Solana) — no API keys, no accounts, no human in the loop. Restore any agent's state by agentId using Ghost Protocol.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://www.clawhalla.net/)
+- [npm](https://www.npmjs.com/package/clawhalla)
+- [GitHub](https://github.com/divydovy/clawhalla)
+- [API Docs](https://api.clawhalla.net/docs.html)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
