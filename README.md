@@ -221,3 +221,12 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+
+## [IPLoop / ProxyClaw](https://iploop.io)
+Residential proxy SDK for AI agents. Route requests through 2M+ real device IPs across 195+ countries with built-in anti-detection (TLS fingerprinting + Chrome headers). 66 site-specific presets for structured data extraction.
+
+### Links
+- [Website](https://iploop.io)
+- [GitHub](https://github.com/Iploop/proxyclaw)
+- [Python SDK (PyPI)](https://pypi.org/project/iploop-sdk/)
+- [Node.js SDK (npm)](https://www.npmjs.com/package/iploop)
