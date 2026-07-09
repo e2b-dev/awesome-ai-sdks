@@ -221,3 +221,7 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+
+
+## Tools
+- [Arch Tools](https://archtools.dev) - 58 production API tools for AI agents with x402 USDC payments on 15+ chains. Web scraping, AI generation, crypto, OCR, MCP compatible. Patent-pending agent auth. ([GitHub](https://github.com/Deesmo/Arch-AI-Tools))
