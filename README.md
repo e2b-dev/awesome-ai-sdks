@@ -221,3 +221,23 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+
+
+## [AgentsMesh](https://agentsmesh.ai)
+
+AgentsMesh is an open-source AI Agent Workforce Platform for deploying and managing AI coding agents at scale. Provision remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation per task, coordinate multi-agent collaboration via channels and pod bindings, and manage work through a built-in Kanban. Each AgentPod exposes its own MCP server so external clients (Claude Code, Cursor) can drive agents through ticket/pod/channel/binding tools. Self-hostable with BYOK. Supports Claude Code, Codex CLI, Gemini CLI, Aider, and OpenCode.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://agentsmesh.ai)
+- [Docs](https://agentsmesh.ai/docs)
+- [GitHub](https://github.com/AgentsMesh/AgentsMesh)
+- [Demo Video](https://youtu.be/VaXImaly3dM)
+- [Discord](https://discord.gg/3RcX7VBbH9)
+
+
+</details>
