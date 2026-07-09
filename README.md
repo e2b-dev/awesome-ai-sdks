@@ -168,6 +168,22 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 
 
+
+## [LangGraph Patterns MCP](https://github.com/Rajathbharadwaj/langgraph-patterns-mcp)
+An MCP server that provides production LangGraph patterns, code snippets, and best practices directly to AI coding assistants like Claude Desktop and Cursor.
+
+<details>
+
+### Features
+- 6 production-ready patterns (ReAct, human-in-loop, multi-agent, tool calling, streaming, error handling)
+- Quick code snippets for common operations
+- Resources and best practices
+
+### Links
+- [GitHub](https://github.com/Rajathbharadwaj/langgraph-patterns-mcp)
+- [npm](https://www.npmjs.com/package/langgraph-patterns-mcp)
+
+</details>
 </details>
 
 ## [SID](https://www.sid.ai/)
