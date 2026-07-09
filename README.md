@@ -74,6 +74,18 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+
+## [BudgetForge](https://llmbudget.maxiaworld.app)
+Budget enforcement layer for LLM and multi-agent pipelines — hard per-project spending limits, real-time token tracking, multi-provider cost control (OpenAI, Anthropic, Mistral, Groq). Blocks requests when budget is exceeded. Python SDK and LangChain integration.
+
+<details>
+
+### Links
+- [Web](https://llmbudget.maxiaworld.app)
+- [Python SDK](https://pypi.org/project/budgetforge/)
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
