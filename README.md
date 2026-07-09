@@ -1,4 +1,4 @@
-
+﻿
 <h1 align="center">
 	:gift: Awesome SDKs For AI Agents
 	<p align="center">
@@ -122,6 +122,21 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [tokio-prompt-orchestrator](https://github.com/Mattbusel/tokio-prompt-orchestrator)
+
+### Category
+Infrastructure / Orchestration
+
+### Description
+Production Rust SDK for LLM pipeline orchestration. Multi-stage async pipeline (RAG -> Assemble -> Infer -> Post-process -> Stream) with:
+- Circuit breaker, deduplication, retry, rate limiting, backpressure
+- 67% inference cost collapse via dedup in production
+- Self-improving autonomous control loop (PID + anomaly detection)
+- MCP server for Claude Desktop/Code integration
+- Ran 24 simultaneous Claude Code agents on a single GPU
+
+### Links
+- [GitHub](https://github.com/Mattbusel/tokio-prompt-orchestrator)
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
