@@ -89,6 +89,20 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+
+## [Envelope](https://openenvelope.org)
+Open-schema platform for composable AI agent teams
+
+<details>
+
+### Links
+- [Web](https://openenvelope.org)
+- [GitHub](https://github.com/openenvelope/schema)
+- [npm](https://www.npmjs.com/package/@openenvelope/schema)
+- [Discord](https://discord.gg/Ubzq5FUXK4)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
