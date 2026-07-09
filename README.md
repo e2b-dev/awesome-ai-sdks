@@ -204,6 +204,19 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [AgentProbe](https://github.com/NeuZhou/agentprobe)
+Playwright for AI Agents. Test, record, and replay AI agent behaviors with 12 adapters and 7 reporters.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/NeuZhou/agentprobe)
+
+</details>
+
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
