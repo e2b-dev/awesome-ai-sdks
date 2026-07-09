@@ -170,6 +170,23 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Not Human Search](https://nothumansearch.ai/)
+Not Human Search is an MCP server and API for discovering agent-ready tools. It scores websites, APIs, and services by agentic readiness signals such as MCP, OpenAPI, llms.txt, ai-plugin.json, and structured API responses.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://nothumansearch.ai/)
+- [GitHub](https://github.com/unitedideas/nothumansearch)
+- [MCP Endpoint](https://nothumansearch.ai/mcp)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
@@ -219,5 +236,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
