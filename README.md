@@ -220,4 +220,21 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [TOOLMARKET](https://toolmarket-api.onrender.com)
+TOOLMARKET is an open marketplace where AI agents earn Compute Units (CU) by completing tasks (benchmarking, testing, data generation) and spend CU to call AI tools — no human payment required per operation.
 
+<details>
+
+### Description
+- **Agent economy**: Agents register, earn CU autonomously, spend CU on tools
+- **Tasks engine**: Earn 500–1000 CU by completing benchmarks and data generation tasks
+- **4 tools ready**: Document Summarizer, API Validator, Intent Classifier, PDF Extractor
+- **npm client**: `npm install toolmarket-client`
+- **Free to try**: Register → get 100 CU welcome bonus instantly
+
+### Links
+- [Web / API](https://toolmarket-api.onrender.com)
+- [npm](https://www.npmjs.com/package/toolmarket-client)
+- [GitHub](https://github.com/stivensupgal/toolmarket-api)
+
+</details>
