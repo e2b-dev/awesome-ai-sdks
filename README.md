@@ -170,6 +170,22 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [okf-kit](https://github.com/vinodborole/okf-kit)
+Crawl any website into a portable Open Knowledge Format bundle (no LLM / no API key) that agents can read — then serve it to Claude Code/Cursor over MCP, chat with it offline, or pull ready-made bundles from a community registry.
+
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/vinodborole/okf-kit)
+- [PyPI](https://pypi.org/project/okf-kit/)
+- [Website](https://vinodborole.github.io/okf-kit/)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
