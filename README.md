@@ -187,6 +187,18 @@ SID is a YC S23 company that makes data infrastructure for AI easy by letting AI
 
 </details>
 
+## [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit)
+
+The governance and cognitive architecture layer for autonomous AI agents. Six zero-dependency Python modules: runtime security membrane, epistemic claim classification, self-audit health checks, agent discovery via challenge-response, 12-module cognitive architecture, and collective cognition protocol. `pip install git+https://github.com/OrchardHarmonics/orchard-kit.git`
+
+<details>
+
+### Links
+- [Web](https://orchardharmonics.com)
+- [GitHub](https://github.com/OrchardHarmonics/orchard-kit)
+
+</details>
+
 ## [Steamship](https://www.steamship.com/)
 Steamship is a platform that allows to build, scale, and monitor AI agents with serverless cloud hosting, vector search, webhooks, callbacks, and more.
 <details>
