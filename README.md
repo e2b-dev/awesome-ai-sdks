@@ -74,6 +74,23 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [BlindOracle](https://craigmbrown.com/blindoracle/)
+Open-core trust + payment SDK for agent-to-agent commerce. ERC-8004 passports, x402 micropayments, Fedimint ecash settlement, ProofDB (15 proof kinds including ProofOfDelegation kind 30014), MASSAT security audit framework (OWASP ASI01-10). Used in production on a 50+ agent fleet with live treasury settlement on Base. Apache 2.0 license.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://craigmbrown.com/blindoracle/)
+- [GitHub — Marketplace Client SDK](https://github.com/craigmbrown/blindoracle-marketplace-client)
+- [GitHub — MASSAT Framework](https://github.com/craigmbrown/massat-framework)
+- [Docs — How It Works](https://craigmbrown.com/blindoracle/how-it-works.html)
+- [API Reference (15 services)](https://craigmbrown.com/blindoracle/api/)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
