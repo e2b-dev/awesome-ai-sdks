@@ -170,6 +170,25 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [RetainDB](https://retaindb.com)
+
+Persistent memory infrastructure for AI agents. Store and retrieve memories across sessions with one API call. SOTA on LongMemEval (88% preference recall).
+
+<details>
+
+### Description
+- Bidirectional memory adapter for Vercel AI SDK, LangChain, and LangGraph
+- Typed memory extraction: factual, preference, event, relationship, goal, instruction
+- 13ms avg retrieval latency globally; free tier available
+
+### Links
+- [Web](https://retaindb.com)
+- [Documentation](https://retaindb.com/docs)
+- [npm](https://www.npmjs.com/package/@retaindb/sdk)
+- [Benchmark](https://retaindb.com/benchmark)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
