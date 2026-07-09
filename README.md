@@ -170,6 +170,23 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [LightAgent](https://github.com/wanxingai/LightAgent)
+A lightweight open-source Python framework for building AI agents with tool calling, memory, streaming, MCP integration, skills, structured results, and multi-agent collaboration.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/wanxingai/LightAgent)
+- [PyPI](https://pypi.org/project/lightagent/)
+- [Documentation](https://sufe-aiflm-lab.github.io/LightAgent/)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
@@ -219,5 +236,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
