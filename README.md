@@ -204,6 +204,24 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [TealTiger](https://github.com/agentguard-ai/tealtiger)
+
+TealTiger is an open-source governance SDK for AI agents. It provides deterministic policy enforcement, cost controls, cryptographic evidence (Merkle + RFC 3161), and OWASP Agentic Top 10 coverage — all at runtime with no infrastructure required. 12 LLM providers, TypeScript + Python.
+
+<details>
+
+|||
+|---|---|
+|**Created by**|[agentguard-ai](https://github.com/agentguard-ai)|
+|**Website**|https://github.com/agentguard-ai/tealtiger|
+|**GitHub**|https://github.com/agentguard-ai/tealtiger|
+|**Category**|Security, Governance, Monitoring|
+|**Language**|TypeScript, Python|
+|**License**|Apache 2.0|
+
+</details>
+
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
