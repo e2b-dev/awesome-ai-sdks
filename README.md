@@ -216,6 +216,7 @@ An open source library for building AI-powered user interfaces.
 ### Links
 - [Web](https://sdk.vercel.ai/docs)
 - [GitHub](https://github.com/vercel-labs/ai)
+- [SkillFlow](https://github.com/rafsilva85/skillflow-mcp-server) - Open marketplace for AI agent skills. Discover 500+ MCP servers and automation tools, compare capabilities, and deploy to your AI stack. Free and open source.
 
 
 </details>
