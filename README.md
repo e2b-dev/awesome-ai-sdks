@@ -122,6 +122,21 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [IteraTools](https://iteratools.com/)
+Pay-per-use API toolkit for AI agents: image generation, web scraping, browser automation, TTS, OCR, sentiment analysis, DNS lookup, summarization, and 30+ more tools — MCP-compatible, no signup required.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://iteratools.com/)
+- [Docs](https://iteratools.com/docs)
+- [GitHub](https://github.com/fredpsantos33/mcp-iteratools)
+- [API](https://api.iteratools.com)
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
