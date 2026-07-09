@@ -122,6 +122,19 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [Hermes Agent Chinese Pack](https://github.com/fresh-claw/hermes-zh-cn)
+Chinese localization and one-command setup pack for Hermes Agent, covering UI text, Feishu and Telegram gateway prompts, pairing approval copy, and home-channel reminders.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/fresh-claw/hermes-zh-cn)
+- [Website](https://useai.live/hermes/)
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
@@ -219,5 +232,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
