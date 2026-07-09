@@ -34,6 +34,28 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
 Check out also our database of [AI agents](https://github.com/e2b-dev/awesome-ai-agents).
 
+## [agentrial](https://github.com/alepot55/agentrial)
+agentrial is the pytest for AI agents: run N trials, get confidence intervals, catch regressions before production.
+
+<details>
+
+<!-- ### Description -->
+
+AI agents pass benchmarks but fail in production. Why? Single-run evaluations hide variance. agentrial runs your agent N times, computes Wilson confidence intervals, and uses Fisher exact tests to detect regressions in CI/CD. pip install agentrial, write a YAML, done.
+
+Unlike DeepEval/Promptfoo (LLM-first, agent bolted on), agentrial is agent-native: trajectory evaluation, step-level failure attribution, multi-agent coordination metrics, and real API cost tracking. Framework-agnostic via adapters for LangGraph, CrewAI, AutoGen, Pydantic AI, OpenAI Agents, smolagents.
+
+</details>
+
+
+## [Chidori](https://github.com/ThousandBirdsInc/chidori)
+Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
+It is currently in alpha, and is not yet ready for production use.
+
+<details>
+
+<!-- ### Description -->
+
 
 ## [E2B](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-sdks)
 E2b is an operating system for AI agents, that is, a set of tools, APIs, and cloud environments for  agents.
