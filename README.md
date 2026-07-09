@@ -170,6 +170,22 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Nodepod](https://github.com/ScelarOrg/Nodepod)
+
+Nodepod is a browser-native Node.js runtime that lets AI agents execute real Node.js code entirely in the browser. It provides a sandboxed environment with an in-memory filesystem, npm package installation, shell interpreter, and full polyfills for Node.js built-ins — enabling safe code execution without server infrastructure.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/ScelarOrg/Nodepod)
+- [npm](https://www.npmjs.com/package/@scelar/nodepod)
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
