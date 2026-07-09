@@ -220,4 +220,27 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [MOSS](https://mosscomputing.com)
+
+MOSS (Message-Origin Signing System) provides cryptographic signing for AI agent outputs. Every action is signed with ML-DSA-44 post-quantum signatures, creating tamper-proof audit trails.
+
+<details>
+
+### Description
+- **Cryptographic signatures**: ML-DSA-44 post-quantum signatures for every agent output
+- **Offline verification**: Verify signatures without API calls
+- **Framework integrations**: LangChain, LangGraph, CrewAI, AutoGen
+- **Multi-language SDKs**: Python, TypeScript, Rust, Java, C#/.NET
+- **Enterprise features**: Policy engine, approval workflows, rogue agent detection
+
+### Links
+- [Web](https://mosscomputing.com)
+- [PyPI](https://pypi.org/project/moss-sdk/)
+  - [moss-sdk (Python)](https://pypi.org/project/moss-sdk/)
+  - [moss-langchain](https://pypi.org/project/moss-langchain/)
+  - [moss-crewai](https://pypi.org/project/moss-crewai/)
+  - [moss-autogen](https://pypi.org/project/moss-autogen/)
+
+</details>
+
 
