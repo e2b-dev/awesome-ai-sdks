@@ -170,6 +170,22 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [PGSandbox MCP](https://github.com/LVTD-LLC/pgsandbox-mcp)
+
+PGSandbox MCP is a local-first MCP server for giving coding agents disposable PostgreSQL databases. It helps agent builders test migrations, reproduce database bugs, inspect schemas, and seed demo states without exposing long-lived admin credentials.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/LVTD-LLC/pgsandbox-mcp)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
@@ -219,5 +235,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
