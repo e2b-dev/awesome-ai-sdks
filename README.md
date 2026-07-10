@@ -73,6 +73,18 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 
 </details>
 
+## [Agent Automation Kit](https://github.com/yystudio-cyber/agent-automation-kit)
+Agent Automation Kit packages repeatable local tasks into config, preflight checks, locks, prompts, output contracts, and run logs for local-file-capable AI agents.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/yystudio-cyber/agent-automation-kit)
+
+</details>
+
 
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
