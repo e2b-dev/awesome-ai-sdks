@@ -104,6 +104,21 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [forge-agent-gate](https://github.com/forgeorbital/forge-agent-gate)
+Local, deterministic authorization gate and verifiable proof trail for AI agents that take consequential actions (payments, refunds, approvals, procurement, trading); checks each action against a signed mandate before it runs, npm package + MCP server, no LLM in the decision path.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/forgeorbital/forge-agent-gate)
+- [npm](https://www.npmjs.com/package/forge-agent-gate)
+- [Web](https://forgeorbital.com/agent-gate)
+
+
+</details>
+
 ## [Helicone](https://www.helicone.ai/)
 An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
 
