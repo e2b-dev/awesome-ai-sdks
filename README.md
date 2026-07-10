@@ -170,6 +170,25 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Payfetch](https://forum-labs.com/payfetch)
+A non-custodial paying-fetch client for AI agents that pay APIs over HTTP 402 (x402). The operator sets hard per-call/per-day/per-host spend caps, an approval threshold, and an append-only receipt for every attempt; the agent can't raise its own limits. Ships as a library, CLI, and MCP server, with Coinbase AgentKit and Vercel AI SDK adapters.
+
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://forum-labs.com/payfetch)
+- [GitHub](https://github.com/forum-labs/payfetch)
+- [npm](https://www.npmjs.com/package/@forum-labs/payfetch)
+
+
+
+</details>
+
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
