@@ -170,6 +170,19 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [loop.js](https://github.com/loop-js/loop.js)
+loop.js is a thin, open-source TypeScript runtime for autonomous agent loops. You state a Goal; the engine drives Rounds — an Execute agent works with fresh context, then a separate, read-only Verify agent judges the result against the bar — until the goal settles. State lives on disk, so a loop survives crashes and schedules; budget/round guards and cron installation (crontab, launchd, Task Scheduler, Modal) are built in.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://loop-js.mintlify.site/)
+- [GitHub](https://github.com/loop-js/loop.js)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
