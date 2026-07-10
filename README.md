@@ -122,6 +122,22 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [AI Router](https://ai-router.dev/)
+AI Router is an OpenAI-compatible ChatGPT API relay for developers and agent workflows. It provides user API keys, usage and token/cost visibility, daily/weekly plans, and a staged `20U` new-user onboarding credit (`5U` on signup, `15U` unlocked after top-up).
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://ai-router.dev/)
+- [GitHub Examples](https://github.com/airouter-dev/ai-router-openai-compatible-examples)
+
+
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
@@ -219,5 +235,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
