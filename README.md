@@ -170,6 +170,23 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Relm](https://relmcrm.com)
+Hosted, API-first CRM for LLMs and AI agents. Persistent memory of contacts, companies, deals and notes, exposed over a native MCP server, a native A2A endpoint (JSON-RPC 2.0), and a REST API.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://relmcrm.com)
+- [Docs](https://relmcrm.com/docs)
+- [MCP server](https://api.relmcrm.com/mcp)
+- [A2A endpoint](https://api.relmcrm.com/a2a)
+- [Agent card](https://relmcrm.com/.well-known/agent-card.json)
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
