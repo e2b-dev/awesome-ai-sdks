@@ -122,6 +122,18 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [Heym](https://github.com/heymrun/heym)
+Heym is a self-hosted visual platform for building, running, evaluating, and observing AI agent workflows.
+
+<details>
+
+### Links
+- [Web](https://heym.run/)
+- [GitHub](https://github.com/heymrun/heym)
+- [Documentation](https://heym.run/docs)
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
@@ -219,5 +231,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
