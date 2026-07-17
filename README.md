@@ -220,4 +220,23 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [Ceki SDKs](https://github.com/Ceki-me)
+
+Ceki provides Python, JS, LangChain, CrewAI, and n8n SDKs for AI agents to rent and control real residential Chrome browsers — bypass captchas, handle login flows, automate JS-heavy sites. Pay per minute ($0.01/min), real IPs.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/Ceki-me)
+- [Python SDK](https://github.com/Ceki-me/python-sdk)
+- [JS SDK](https://github.com/Ceki-me/js-sdk)
+- [MCP Server](https://github.com/Ceki-me/mcp-server)
+- [n8n Nodes](https://github.com/Ceki-me/n8n-nodes-ceki)
+- [Web](https://browser.ceki.me)
+
+</details>
+
 
