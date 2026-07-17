@@ -89,6 +89,21 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [DesignOS](https://github.com/ardamoustafa1/DesignOS)
+
+DesignOS is a markdown-native design intelligence layer for AI coding agents. It gives agents design modules, industry playbooks, project memory, reviewer agents, validators, and an eval protocol for UI generation and review.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/ardamoustafa1/DesignOS)
+- [Website](https://ardamoustafa1.github.io/DesignOS/website/)
+- [Eval protocol](https://github.com/ardamoustafa1/DesignOS/tree/main/evals)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
@@ -219,5 +234,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
