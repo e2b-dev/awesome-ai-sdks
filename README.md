@@ -170,6 +170,23 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [OutcomeLoop](https://github.com/tinyopsstudio/outcomeloop)
+OutcomeLoop is an open-source outcome-verified watchdog for long-running Codex agents. It keeps one agent session running until an external verifier passes, isolates agent and verifier execution, and signs successful evidence receipts.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Live demo](https://tinyopsstudio.github.io/outcomeloop/)
+- [GitHub](https://github.com/tinyopsstudio/outcomeloop)
+- [npm](https://www.npmjs.com/package/@tinyopsstudio/outcomeloop)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
@@ -219,5 +236,3 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
-
