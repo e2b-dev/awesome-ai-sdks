@@ -89,6 +89,20 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [Distil](https://github.com/dshakes/distil)
+Distil compresses an LLM agent's context and statistically verifies the agent's decisions don't change. Compression is reversible (every digest recovers its exact original bytes) and gated by a non-inferiority test; it runs as a zero-dependency local proxy in front of Anthropic, OpenAI, or Gemini, with per-session token/cost accounting calibrated against real billed usage.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Docs](https://dshakes.github.io/distil/getting-started.html)
+- [GitHub](https://github.com/dshakes/distil)
+- [PyPI](https://pypi.org/project/distil-llm/)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
