@@ -170,7 +170,7 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
-## [OutcomeLoop](https://github.com/tinyopsstudio/outcomeloop)
+## [OutcomeLoop](https://github.com/tinyopsstudio/outcomeloop-build-week)
 OutcomeLoop is an open-source outcome-verified watchdog for long-running Codex agents. It keeps one agent session running until an external verifier passes, isolates agent and verifier execution, and signs successful evidence receipts.
 
 <details>
@@ -179,8 +179,8 @@ OutcomeLoop is an open-source outcome-verified watchdog for long-running Codex a
 
 
 ### Links
-- [Live demo](https://tinyopsstudio.github.io/outcomeloop/)
-- [GitHub](https://github.com/tinyopsstudio/outcomeloop)
+- [Live demo](https://tinyopsstudio.github.io/outcomeloop-build-week/)
+- [GitHub](https://github.com/tinyopsstudio/outcomeloop-build-week)
 - [npm](https://www.npmjs.com/package/@tinyopsstudio/outcomeloop)
 
 
