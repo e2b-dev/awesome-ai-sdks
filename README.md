@@ -170,6 +170,18 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [mac-yolo-safeguards](https://github.com/IgorGanapolsky/mac-yolo-safeguards)
+OS-level safeguards for autonomous agent loops — runaway-kill, timeouts, and resource limits so coding agents (Claude Code, Cursor, Codex) running in unattended "YOLO" mode can't burn tokens or freeze the machine.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/IgorGanapolsky/mac-yolo-safeguards)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
@@ -201,6 +213,18 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 - [Discord](https://discord.com/invite/dR5fHvxSNg)
 
 
+
+</details>
+
+## [ThumbGate](https://github.com/IgorGanapolsky/ThumbGate)
+Pre-action governance for AI agents — derives prevention rules from repeated failures, flags risky tool calls before they run, hard-blocks detected secret leaks, and gates protected actions behind human approval. MCP-native, works with any agent harness.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/IgorGanapolsky/ThumbGate)
 
 </details>
 
