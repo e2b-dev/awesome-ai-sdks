@@ -170,6 +170,24 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Publora](https://publora.com)
+Social media publishing API and MCP server for AI agents. Schedule and publish content across 10 platforms (LinkedIn, X, Instagram, Threads, TikTok, YouTube, Facebook, Bluesky, Mastodon, Telegram) through a single REST API or a remote MCP server — no local install needed.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://publora.com)
+- [Docs](https://docs.publora.com)
+- [MCP Server](https://mcp.publora.com)
+- [GitHub](https://github.com/publora/mcp-server)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
