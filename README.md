@@ -74,6 +74,19 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [AgentCron](https://github.com/shkyyy18/cc-autopilot)
+Cron + watchdog for unattended AI coding agents: runs Codex, Gemini CLI, or any custom command on schedule; detects exit-0-but-empty silent failures, enforces timeouts with process-tree cleanup, and exposes JSON health output. Zero runtime dependencies, local-only.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/shkyyy18/cc-autopilot)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
