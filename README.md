@@ -170,6 +170,21 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Reelier](https://github.com/seldonframe/reelier)
+Record an agent's tool-call workflow once, replay it deterministically at 0 tokens, and diff runs to catch drift — CI and snapshot tests for MCP tool-call workflows.
+
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://www.reelier.com)
+- [GitHub](https://github.com/seldonframe/reelier)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
