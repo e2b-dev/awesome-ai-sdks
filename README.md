@@ -74,6 +74,23 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Caspian](https://github.com/TryCaspian/caspian-sdk)
+Caspian is an open-source SDK (Python and TypeScript, Apache-2.0) that gives an AI agent a single messaging identity across Slack, Discord, Telegram, Instagram, email, and X. One connect call per channel, one `on_message` handler for all of them, with threading, webhook verification, and platform quirks handled.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/TryCaspian/caspian-sdk)
+- [Web](https://trycaspianai.com)
+- [PyPI](https://pypi.org/project/caspian-sdk/)
+- [npm](https://www.npmjs.com/package/caspian-sdk)
+
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
