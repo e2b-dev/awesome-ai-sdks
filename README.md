@@ -74,6 +74,21 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Chainflip Broker as a Service](https://chainflip-broker.io)
+Hosted MCP server that gives AI agents and assistants native cross-chain cryptocurrency swaps via the Chainflip protocol: quotes, simple or DCA swap execution, and swap status tracking, no API key required.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://chainflip-broker.io)
+- [GitHub](https://github.com/CumpsD/broker-as-a-service)
+- [Docs](https://docs.chainflip-broker.io/resources/ai-documentation/)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
