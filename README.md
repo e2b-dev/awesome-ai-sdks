@@ -89,6 +89,24 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [Enclave](https://github.com/wartzar-bee/enclave)
+Security-first, brain-agnostic self-hosted runtime & sandbox for running autonomous AI agents.
+
+<details>
+
+<!-- ### Description -->
+
+- Hardened container per agent — starts with `--cap-drop=ALL --security-opt=no-new-privileges`; no inbound ports; the agent cannot see the rest of your disk, and a prompt injection does not change that.
+- Report-only egress policy by default (logs disallowed hosts; opt-in enforcement via `GUARD_EGRESS_ENFORCE=1`) plus scoped, vault-encrypted (AES-256) credentials.
+- Brain-agnostic — run the same agent on Claude, an OpenAI-compatible API, or a local model with one env var (`BRAIN=claude | api | local`).
+- Built-in cost discipline: a manager brain is forced to delegate bulk work to a cheap/local worker under a verify-gate, so frontier tokens go to planning, not keystrokes.
+- Apache-2.0, public alpha — the runtime the wartzar-bee agent fleet runs on daily.
+
+### Links
+- [GitHub](https://github.com/wartzar-bee/enclave)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
