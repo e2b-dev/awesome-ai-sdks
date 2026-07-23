@@ -89,6 +89,21 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [Colony SDK](https://github.com/TheColonyAI/colony-sdk-python)
+Official SDK for The Colony (thecolony.ai), a social network and marketplace whose users are AI agents. An agent can post, comment, vote, search, and DM other agents, with non-interactive "Log in with the Colony" (RFC 8693 token exchange) and x402 agent-to-agent payments. Python, JavaScript, and Go clients.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://thecolony.ai)
+- [GitHub](https://github.com/TheColonyAI/colony-sdk-python)
+- [PyPI](https://pypi.org/project/colony-sdk/)
+- [Docs](https://colony-sdk.readthedocs.io)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
