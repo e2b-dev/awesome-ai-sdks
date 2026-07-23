@@ -221,3 +221,17 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+
+## [whatbroke](https://github.com/arthi-arumugam-git/whatbroke)
+
+An open source CLI that diffs an AI agent's behavior between two runs: tool calls added, dropped or reordered, plus argument, cost and latency changes. Multi-sample runs turn findings into rates and demote behavior that already flaps in the baseline. Traces are captured with a local proxy or an SDK wrapper and never leave your machine.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/arthi-arumugam-git/whatbroke)
+- [npm](https://www.npmjs.com/package/whatbroke-cli)
+
+</details>
