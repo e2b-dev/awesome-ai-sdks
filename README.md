@@ -122,6 +122,18 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [Humanity4AI](https://github.com/humanity4ai/project_human)
+MCP server with 9 rule-based humanity skills for AI agents — WCAG 2.2 accessibility auditing, cognitive accessibility, neurodiversity design, crisis support, cultural context checking, de-escalation, empathetic reframe, depression-sensitive content rewriting, and age-inclusive design. Deterministic execution (no LLM calls), 9 languages, MIT license. `@humanity4ai/mcp-servers`.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/humanity4ai/project_human)
+- [npm](https://www.npmjs.com/package/@humanity4ai/mcp-servers)
+- [Website](https://humanity4ai.github.io/project_human/)
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
