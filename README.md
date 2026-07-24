@@ -89,6 +89,22 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [Cohesivity](https://cohesivity.ai)
+Cohesivity provides headless backend and services purpose built for AI agents, with agentic signup and one managed API for databases, hosting, storage, realtime, workers, email, inference, and third-party APIs.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://cohesivity.ai)
+- [Docs](https://cohesivity.ai/docs)
+- [GitHub](https://github.com/cohesivity-org/cohesivity-skill)
+- [npm](https://www.npmjs.com/package/@cohesivity/init)
+- [LinkedIn](https://www.linkedin.com/company/cohesivity/)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
