@@ -170,6 +170,23 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [OpenAgentFlow](https://github.com/OpenAgentFlow/openagentflow)
+OpenAgentFlow is an open-source specification language (`.oaf`) and zero-dependency compiler for defining portable multi-agent workflows. It compiles clean, declarative text specifications directly into self-contained LangGraph Python applications.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/OpenAgentFlow/openagentflow)
+- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=OpenAgentFlow.openagentflow-support)
+- [Starter Template](https://github.com/OpenAgentFlow/openagentflow-starter)
+- [npm](https://www.npmjs.com/package/openagentflow)
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
