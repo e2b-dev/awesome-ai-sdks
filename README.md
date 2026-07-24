@@ -74,6 +74,19 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Breakerbox](https://github.com/Amitcoh1/agentbreaker)
+Hierarchical dollar-budget circuit breaker for LangGraph agents — wrap a compiled app in `guard()` and it trips runaway spend at a hop boundary (pause/resume or kill), then writes a cost receipt. In-process, MIT.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/Amitcoh1/agentbreaker)
+- [PyPI](https://pypi.org/project/breakerbox/)
+
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
