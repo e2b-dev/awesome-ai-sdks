@@ -170,6 +170,24 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Nudge](https://github.com/NekomyaDev/nudge)
+
+Nudge is a typed, replayable, budget-aware programming language for LLM agents. The compiler is written in Rust (zero dependencies) and compiles to Python & TypeScript.
+
+<details>
+
+<!-- ### Description -->
+- Typed LLM calls — output schema is a language type, proven at compile time
+- Deterministic replay — every run emits a trace; every trace replays as a test at zero token cost
+- Budget contracts — per-call and per-run USD ceilings enforced by compiler + runtime
+- MCP tools, A2A agent-card export, LSP language server, and OpenTelemetry span export built in
+
+### Links
+- [GitHub](https://github.com/NekomyaDev/nudge)
+- [VS Code extension](https://marketplace.visualstudio.com/items?itemName=Nekomya.nudge-lang)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
