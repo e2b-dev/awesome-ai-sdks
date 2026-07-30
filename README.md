@@ -170,6 +170,22 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [rote](https://github.com/trevhud/rote)
+An open source CLI that compiles a proven agent skill into a typed, deterministic pipeline. Fixed logic becomes reviewable Python or TypeScript with per-step tests, while judgment steps stay as typed LLM-judge signatures. Emits DBOS, Temporal, Cloudflare Workflows, Inngest, or plain Python/TS.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://roteskills.com)
+- [GitHub](https://github.com/trevhud/rote)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
