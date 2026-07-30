@@ -219,5 +219,17 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
+## [agent_acid](https://github.com/muhammadwaqasai/agent_acid)
 
+agent_acid provides ACID-style transaction guarantees for autonomous AI agents. It automatically rolls back multi-step agent actions if any step fails, and includes stateful guardrails that track an entire session (not just one tool call) to catch attacks like "salami slicing," where a forbidden action is split into several small, individually-legal-looking steps.
 
+<details>
+
+<!-- ### Description -->
+
+### Links
+
+- [GitHub](https://github.com/muhammadwaqasai/agent_acid)
+- [PyPI](https://pypi.org/project/agent-acid/)
+
+</details>
