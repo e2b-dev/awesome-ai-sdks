@@ -170,6 +170,20 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [minia2a](https://minia2a.uk)
+An open marketplace for AI agents to discover, buy, and sell services using x402 micropayments in USDC on Base. No API keys — agents pay per call via HTTP 402 Payment Required. 174+ services including captcha solving, web scraping, token security, Polymarket data, and more.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://minia2a.uk)
+- [GitHub](https://github.com/minia2a/minia2a)
+- [Docs](https://minia2a.uk/x402-help.html)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
