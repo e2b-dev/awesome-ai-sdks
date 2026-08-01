@@ -122,6 +122,24 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [KalamDB](https://kalamdb.org/)
+Open-source SQL-first realtime state database for AI agents — USER-table isolation, live subscriptions, and a PostgreSQL bridge via pg_kalam.
+
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://kalamdb.org/)
+- [GitHub](https://github.com/kalamdb/KalamDB)
+- [Docs](https://kalamdb.org/docs)
+
+
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
