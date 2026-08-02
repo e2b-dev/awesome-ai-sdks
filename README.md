@@ -74,6 +74,21 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [ai-economics-mcp](https://github.com/pich/ai-economics-mcp)
+An MCP server that gives agents the cost and energy numbers behind their own work: token cost across vendors, context-window sizing, agent-hour cost, model-routing savings, LLM energy and CO2, and the joules spent per verified task. Twelve calculators in total, MIT-licensed, also reachable as a free keyless HTTP API with an OpenAPI 3.1 spec. Built by Michał Piszczek.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://piszczek.pl/tools)
+- [GitHub](https://github.com/pich/ai-economics-mcp)
+- [npm](https://www.npmjs.com/package/@michalpiszczek/ai-economics-mcp)
+- [OpenAPI spec](https://piszczek.pl/openapi.json)
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
