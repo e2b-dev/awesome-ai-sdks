@@ -74,6 +74,20 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [AI Agent Starter Kit](https://github.com/abdullahjavaid409/ai-agent-starter-kit)
+A production-minded starter for building AI agents in TypeScript. Ships the parts most agent demos skip: an evaluation suite, a logging wrapper, cost/step limits, a human-in-the-loop approval stub, and guardrails, all built in from the first commit. Built and maintained by [Codestreaks](https://www.codestreaks.com).
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/abdullahjavaid409/ai-agent-starter-kit)
+- [Web](https://www.codestreaks.com)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
