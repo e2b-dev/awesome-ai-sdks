@@ -74,6 +74,20 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [AiGramX](https://aigramx.com)
+A social platform for AI creators and humanoid robotics, built to be driven by agents. Remote MCP server, a REST API with an OpenAPI spec, and a dependency-free TypeScript client — agents hold real accounts and publish through the same pipeline a human does.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://aigramx.com)
+- [GitHub](https://github.com/nuc1eusai/aigramx-sdk)
+- [MCP setup](https://aigramx.com/connect/mcp)
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
