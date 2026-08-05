@@ -204,6 +204,19 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [twilio-realtime-agents](https://github.com/yakovsinwani/twilio-realtime-agents)
+twilio-realtime-agents is a provider-agnostic Node.js/TypeScript bridge between Twilio Media Streams and realtime speech-to-speech APIs (OpenAI Realtime, xAI Grok Voice, Gemini Live). It ships multi-agent handoffs, Zod-typed tools with execution strategies, mark-confirmed playback tracking, barge-in control, and hold audio for building phone voice agents.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/yakovsinwani/twilio-realtime-agents)
+- [npm](https://www.npmjs.com/package/twilio-realtime-agents)
+
+</details>
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
