@@ -74,6 +74,20 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [agent-preflight](https://github.com/arthursilas-ai/agent-preflight)
+Deterministic pre-deployment checks for AI agent systems. Point it at a YAML description of your agent and it returns a pass or block verdict, checking tenancy isolation, credential exposure, prompt-injection gating, tool contracts, agent bounds, evaluation coverage, and silent scheduled-job failures. No model calls, same input always gives the same answer.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/arthursilas-ai/agent-preflight)
+- [Website](https://agent-preflight-arthur.vercel.app)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
