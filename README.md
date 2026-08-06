@@ -104,6 +104,17 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [Groundtruth](https://github.com/ShreyaKulkarni-projects/groundtruth)
+
+A verification layer that fact-checks an AI coding agent's claimed completion against real test runs, build checks, and diff analysis in an isolated sandbox.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/ShreyaKulkarni-projects/groundtruth)
+
+</details>
+
 ## [Helicone](https://www.helicone.ai/)
 An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
 
