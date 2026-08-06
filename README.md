@@ -221,3 +221,4 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+- AI Payment API (https://github.com/tzymyng-arch/ai-payment-api) - External API for autonomous AI agents, enabling automated actions, workflows, and paid operations via a simple HTTP/OpenAPI interface.
