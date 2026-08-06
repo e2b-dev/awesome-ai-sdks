@@ -74,6 +74,20 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [AIActGuard](https://github.com/NavikkumarModi/AIActGuard)
+AIActGuard is drop-in EU AI Act compliance middleware for agentic AI — audit trails, risk classification, and human-approval gates as a decorator/callback around an existing agent (LangChain, CrewAI, Claude Agent SDK, LangGraph, AutoGen, OpenAI Agents SDK), not a new orchestrator.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/NavikkumarModi/AIActGuard)
+- [PyPI](https://pypi.org/project/aiactguard/)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
