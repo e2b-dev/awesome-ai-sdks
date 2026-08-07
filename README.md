@@ -170,6 +170,22 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [OpenWorkProof](https://github.com/dengyier/OpenWorkProof)
+
+Open protocol for AI agent work contracts and verifiable execution. Ed25519-signed authorization, causal evidence chains, and offline verification for multi-agent systems.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/dengyier/OpenWorkProof)
+- [PyPI](https://pypi.org/project/openworkproof/)
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
