@@ -220,4 +220,20 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [Wavelet](https://git.sr.ht/~ninjapanzer/wavelet)
+
+Wavelet is a coordination substrate for multi-agent sessions, built on Google Wave's wave/wavelet/blip data model. Agents share a forkable, replayable conversation store rather than calling each other directly, so every assertion keeps its author and history. It ships as a single zero-dependency Go binary that speaks MCP over stdio, and includes deterministic delivery rules that digest unaddressed traffic to keep each agent's context on what concerns it.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Source](https://git.sr.ht/~ninjapanzer/wavelet)
+- [Web](https://developmeh.com/projects/wavelet/)
+
+
+</details>
+
 
