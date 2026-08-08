@@ -89,6 +89,20 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [Codecast](https://codecast.sh)
+Codecast records, monitors, and steers coding agent sessions (Claude Code, Codex, Cursor, Gemini): a local daemon syncs every session to a team dashboard with live steering, search across past sessions, agent memory, and line-level attribution.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://codecast.sh)
+- [GitHub](https://github.com/codecast-sh/codecast)
+- [Docs](https://codecast.sh/documentation)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
