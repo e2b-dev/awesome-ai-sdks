@@ -89,6 +89,19 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [Declarative Agents](https://github.com/Nokia-Bell-Labs/declarative-agents)
+Declarative Agents is a profile-driven runtime from Nokia Bell Labs for building tool-augmented LLM agents. An agent is a YAML profile — tools, states, transitions, signals, budgets — interpreted by a single Go runtime, so changing a workflow means editing configuration rather than code. Ships with a white paper, *Design Patterns for Declarative Agents*.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/Nokia-Bell-Labs/declarative-agents)
+- [White paper source](https://github.com/Nokia-Bell-Labs/declarative-agents/tree/main/design-patterns)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
