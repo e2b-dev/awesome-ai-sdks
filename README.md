@@ -60,6 +60,18 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [Abaqus Agent Skills](https://github.com/1348109517/abaqus-agent-skills)
+Abaqus Agent Skills is an Apache-2.0 collection of 17 reusable domain workflow skills and a dependency-free static contract audit demo for AI agents working with Abaqus and finite-element automation.
+
+<details>
+
+### Links
+- [Documentation](https://github.com/1348109517/abaqus-agent-skills#readme)
+- [GitHub](https://github.com/1348109517/abaqus-agent-skills)
+- [v0.3.0 demo release](https://github.com/1348109517/abaqus-agent-skills/releases/tag/v0.3.0)
+
+</details>
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
