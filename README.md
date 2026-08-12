@@ -170,6 +170,20 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Lobu](https://github.com/lobu-ai/lobu)
+Lobu includes open-source TypeScript client and connector SDKs for giving AI agents shared company context and governed access to company tools.
+
+<details>
+
+### Links
+- [Web](https://lobu.ai/)
+- [GitHub](https://github.com/lobu-ai/lobu)
+  - [Client SDK](https://github.com/lobu-ai/lobu/tree/main/packages/client)
+  - [Connector SDK](https://github.com/lobu-ai/lobu/tree/main/packages/connector-sdk)
+- [MCP](https://lobu.ai/mcp)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
