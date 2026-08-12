@@ -170,6 +170,21 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [OpenProgram](https://openprogram.io/)
+OpenProgram is an open-source framework for self-programming AI agents. Agents create, run, and refine their own workflows while the runtime manages models, tools, memory, context, permissions, and multi-agent collaboration.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://openprogram.io/)
+- [GitHub](https://github.com/Fzkuji/OpenProgram)
+- [Documentation](https://openprogram.io/docs/)
+- [Paper](https://arxiv.org/abs/2606.15874)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
@@ -219,5 +234,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
