@@ -122,6 +122,16 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [HermesGate](https://github.com/hermes-labs-ai/hermes-gate)
+HermesGate is a local Python CLI for receipt-bound completion checks in coding-agent repositories. It records exact-content test and review results, and never pushes, publishes, or authorizes work.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/hermes-labs-ai/hermes-gate)
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
@@ -219,5 +229,3 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
-
