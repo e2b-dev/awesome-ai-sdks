@@ -74,6 +74,22 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Atomic Agent](https://atomicagent.io)
+Atomic Agent is a local-first CLI and TUI agentic coding assistant that runs open-weight models entirely on your machine through a llama.cpp fork, with no account or API key required. It ships 56 built-in tools (browser, filesystem, git, memory, vision), supports MCP, and has a five-layer local memory system. The TUI is built on React and ink, and it runs on macOS, Linux, and Windows.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://atomicagent.io)
+- [GitHub](https://github.com/AtomicBot-ai/atomic-agent)
+- [Docs](https://atomicagent.io/docs)
+- [Twitter](https://x.com/atomicagent_io)
+- [Discord](https://discord.gg/Us7qXtDGw)
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
