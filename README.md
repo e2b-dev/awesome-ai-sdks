@@ -204,6 +204,20 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [Tulip](https://github.com/tuliplabs-ai/sdk-python)
+
+Tulip is an open-source Python agent framework where control lives in the runtime rather than the prompt. A deterministic router picks the execution shape from a typed goal frame, typed grounding checks claims against evidence before they ship, and an admission gate clears every consequential tool call against a policy — allowing it, holding it for a human, or denying it — with each decision written to a hash-chained audit trail. It can also wrap tools in an existing LangChain, CrewAI, LlamaIndex or OpenAI Agents SDK app without rebuilding them. Apache-2.0.
+
+<details>
+
+### Links
+- [Docs](https://tulipagents.ai)
+- [GitHub](https://github.com/tuliplabs-ai/sdk-python)
+- [PyPI](https://pypi.org/project/tulip-agents/)
+- [Research](https://tulipagents.ai/research/)
+
+</details>
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
