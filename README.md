@@ -170,6 +170,20 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Lians](https://github.com/Lians-ai/Lians)
+Lians is an open-source, local-first memory layer for AI agents. It gives agents durable memory across chats, sessions, tools, and models through MCP and Python or TypeScript SDKs.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Documentation](https://www.lians.ai/docs)
+- [GitHub](https://github.com/Lians-ai/Lians)
+- [Five-minute MCP setup](https://lians-memory.hashnode.dev/give-any-ai-agent-persistent-memory-locally)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
