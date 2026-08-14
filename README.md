@@ -89,6 +89,19 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [Curie](https://github.com/curie-eng/curie)
+Curie is an open-source, self-hostable delivery platform for agents built with Claude Code. It turns a Claude Code plugin bundle into a versioned application: the same bundle runs as a single container for a fast local loop, the full platform (queue, worker, sandbox) via Docker Compose, or that same platform on Kubernetes. A git push is the deploy, every push becomes an immutable version, and merging to prod promotes that exact version instead of rebuilding.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/curie-eng/curie)
+- [Discord](https://discord.gg/kXdR8YgAp)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
