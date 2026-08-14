@@ -20,6 +20,8 @@ The list is done according to our best knowledge, although definitely not compre
 Discussion and feedback appreciated! :heart:
 
 ## Have anything to add?
+
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT.
 You have something to add or improve about our list? Do it via pull request.
 
 ## Who's behind this?
