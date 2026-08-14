@@ -89,6 +89,19 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [ClawMetry](https://github.com/vivekchand/clawmetry)
+ClawMetry is a self-hosted dashboard for coding agents. It reads the session logs runtimes such as OpenClaw, Claude Code, Codex, Cursor and Aider already write locally, so there is no SDK to add and nothing sits in the request path. It shows sessions, tool calls, token counts and cost per session and per model.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://clawmetry.com)
+- [GitHub](https://github.com/vivekchand/clawmetry)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
