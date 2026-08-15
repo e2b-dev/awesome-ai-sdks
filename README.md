@@ -187,6 +187,25 @@ SID is a YC S23 company that makes data infrastructure for AI easy by letting AI
 
 </details>
 
+## [SandBase Harness](https://github.com/sandbaseai/sandbase-harness)
+
+An open-source, model-agnostic managed agent runtime with sandboxed sessions, MCP tools, audit, replay, and a local console.
+
+<details>
+
+### Description
+- Runs persistent agents and resumable sessions through a CMA-compatible API
+- Supports local process, Docker, Kubernetes, and worker-backed sandboxes
+- Includes MCP toolsets, permission policies, artifacts, streamed runs, and cancellation
+- Ships a TypeScript SDK and a DeepSeek Harness MCP stdio bridge
+
+### Links
+- [GitHub](https://github.com/sandbaseai/sandbase-harness)
+- [DeepSeek Harness integration](https://github.com/sandbaseai/sandbase-harness/tree/main/examples/deepseek-harness)
+- [DeepSeek V4 guide](https://github.com/sandbaseai/sandbase-harness/blob/main/docs/deepseek-v4.md)
+
+</details>
+
 ## [Steamship](https://www.steamship.com/)
 Steamship is a platform that allows to build, scale, and monitor AI agents with serverless cloud hosting, vector search, webhooks, callbacks, and more.
 <details>
@@ -219,5 +238,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
