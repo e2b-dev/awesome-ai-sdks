@@ -89,6 +89,18 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [DSH Studio](https://github.com/Moresyl/dsh-studio)
+DSH Studio is an open-source desktop shell for installing, supervising, and hosting DeepSeek Harness locally. It provides one-click setup, runtime health checks, logs, and process controls, with packaged releases for Windows, macOS, and Linux.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/Moresyl/dsh-studio)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
