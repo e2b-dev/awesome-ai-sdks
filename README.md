@@ -89,6 +89,18 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [Double Gate](https://github.com/luohechentim/east-west-gate)
+
+Double Gate is an open-source Python CLI and library for evidence-aware review of AI and agent outputs. It combines convergence-aware review panels, bounded verification of reviewer-cited artifacts, deterministic delivery gates, and repair/re-review workflows. Its zero-dependency offline panel is explicitly labeled as a simulation rather than independent assurance.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/luohechentim/east-west-gate)
+- [Release](https://github.com/luohechentim/east-west-gate/releases/tag/v0.3.1)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
@@ -219,5 +231,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
