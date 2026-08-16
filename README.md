@@ -206,6 +206,17 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
+## [ViBo](https://wwwvibo.com)
+
+### Description
+Persistent encrypted memory (L1/L2/L3) for AI agents: semantic search, web-search savings (up to 96%), thread memory, living document archive, and a privacy layer that masks secrets before they reach any LLM. Works as a skill or Python API.
+
+### Links
+- [Web](https://wwwvibo.com)
+- [GitHub](https://github.com/vnbochkarev-netizen/ViBo-memory)
+- [ClawHub](https://clawhub.ai/vnbochkarev-netizen/skills/vibo-memory)
+
+
 An open source library for building AI-powered user interfaces.
 
 <details>
