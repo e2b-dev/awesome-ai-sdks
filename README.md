@@ -221,3 +221,17 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+## [ViBo](https://wwwvibo.com)
+Persistent encrypted memory (L1/L2/L3) for AI agents: semantic search, web-search token savings (up to 96%), thread memory, living document archive, and a privacy layer that masks secrets before they reach any LLM. Works as a skill or Python API.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://wwwvibo.com)
+- [GitHub](https://github.com/vnbochkarev-netizen/ViBo-memory)
+- [ClawHub](https://clawhub.ai/vnbochkarev-netizen/skills/vibo-memory)
+
+</details>
+
