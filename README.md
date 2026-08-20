@@ -74,6 +74,18 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [bermuda](https://github.com/bon5co/bermuda)
+Bermuda is an orchestration harness that sits beneath Claude Code on the herdr terminal multiplexer. It schedules agent jobs on a cron, runs declared multi-step flows whose steps an agent cannot skip, and gives agents a shared thread/claim/forum/memory layer.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/bon5co/bermuda)
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
