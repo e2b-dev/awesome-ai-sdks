@@ -170,6 +170,25 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Magic Hour](https://magichour.ai/)
+AI video and image generation API with official Python (`magic_hour`) and TypeScript (`magic-hour`) SDKs. One API key gives access to video models (Sora 2, Veo 3.1, Kling 3.0, Seedance, WAN 2.2), image models (GPT-image, Nano Banana Pro, Seedream, Flux), face swap, lip sync and voice generation. Free tier: 400 credits on signup plus 100/day, no card required.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://magichour.ai/)
+- [Docs](https://docs.magichour.ai/)
+- [GitHub](https://github.com/magichourhq)
+- [PyPI](https://pypi.org/project/magic_hour/)
+- [npm](https://www.npmjs.com/package/magic-hour)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
