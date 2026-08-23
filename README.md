@@ -170,6 +170,20 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [piighost](https://github.com/Athroniaeth/piighost)
+Anonymizes PII before it reaches the LLM: values become placeholders and the real ones are restored in the reply, so the provider only sees placeholders. Works with LangChain, Pydantic AI, LlamaIndex, or as an OpenAI-compatible proxy.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/Athroniaeth/piighost)
+- [Docs](https://athroniaeth.github.io/piighost/)
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
