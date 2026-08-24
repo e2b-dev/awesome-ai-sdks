@@ -89,6 +89,18 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [dsh-mobile](https://github.com/Wike-CHI/dsh-mobile)
+dsh-mobile is a mobile device capability plugin for DeepSeek Harness agents. It lets an agent observe a phone screen as a structured accessibility tree (no screenshots, no vision model, zero image tokens) and act through five safe tools — observe, open app, tap, type (draft only), back — with a tiered execution policy that hard-blocks externally consequential actions.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/Wike-CHI/dsh-mobile)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
