@@ -60,6 +60,21 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [AgentAuditKit](https://github.com/sattyamjjain/agent-audit-kit)
+The "npm audit" for AI agents — a deterministic, fully-offline static security scanner for MCP-connected agent pipelines. Flags missing auth, tool poisoning, rug pulls, trust-boundary violations, supply-chain risks, and tainted data flows; 225 rules mapped to the OWASP Agentic Top 10 & MCP Top 10, SARIF output for the GitHub Security tab, GitHub Action + pre-commit hook. Zero cloud, no telemetry, MIT.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/sattyamjjain/agent-audit-kit)
+- [PyPI](https://pypi.org/project/agent-audit-kit/)
+- [MCP Security Index](https://sattyamjjain.github.io/agent-audit-kit/)
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
