@@ -74,6 +74,19 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Avalon](https://github.com/Evanciel/avalon)
+Avalon is a harness that moves pass/fail judgment outside the agent: work is declared as a graph with numeric-only gates, and deterministic CLI tools (never calling an LLM) do the judging — validation, lossless compilation, a tamper-evident measurement ledger, and enforced checks that must prove they can fail. Zero dependencies, MIT.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/Evanciel/avalon)
+- [npm](https://www.npmjs.com/package/avalon-skill)
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
