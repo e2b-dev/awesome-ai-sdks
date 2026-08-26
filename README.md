@@ -220,4 +220,16 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [Agent SDK for Go](https://docs.agenticenv.ai)
+
+Framework for building stateful AI agents in Go.
+
+<details>
+
+### Links
+- [Web](https://docs.agenticenv.ai)
+- [GitHub](https://github.com/agenticenv/agent-sdk-go)
+
+</details>
+
 
