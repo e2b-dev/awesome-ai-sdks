@@ -204,6 +204,19 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [Tracefold](https://github.com/TraceFold/tracefold)
+Tracefold is a verified transformation calculus and undo engine in Rust for AI agent tool executions and filesystem mutations.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/TraceFold/tracefold)
+- [Docs](https://github.com/TraceFold/tracefold/blob/main/docs/TRACEFOLD_TR.md)
+
+</details>
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
