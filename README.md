@@ -170,6 +170,24 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [OMEM](https://github.com/troybrandonc-bit/Omem)
+Self-hosted belief-revision memory for AI agents. Tracks what is believed, when and why, surfaces contradictions instead of overwriting, and replays its whole state from an append-only log. Zero dependencies, MCP server included.
+
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/troybrandonc-bit/Omem)
+- [PyPI](https://pypi.org/project/omem-infrastructure/)
+- [Docs](https://infrastructure.omem-cloud.com)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
