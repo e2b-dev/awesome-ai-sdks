@@ -206,15 +206,15 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 ## [UIZZE](https://uizze.com)
 
-UIZZE is an anti-UI-slop system for coding agents. Its free `anti-ui-slop` Skill and deterministic `check_ui_slop` preview help agents review rendered HTML and CSS for inert controls, missing states, token drift, and generic UI patterns. Full UIZZE adds live search across 800,000+ real web and iOS screens, design contracts, audits, and rendered critique.
+UIZZE is a UI reference service for coding agents. Its free `anti-ui-slop` Skill provides product-specific design direction, required states, and a hard finish gate. The optional authenticated MCP retrieves focused references and design materials from 800,000+ real web and iOS screens.
 
 <details>
 
 ### Links
 - [Web](https://uizze.com)
 - [GitHub](https://github.com/uizze/uizze)
-- [Free anti-UI-slop Skill](https://uizze.com/ai-ui-slop)
-- [Free MCP preview](https://uizze.com/mcp/preview)
+- [Free Agent Skills](https://uizze.com/.well-known/agent-skills/index.json)
+- [MCP setup](https://uizze.com/docs)
 
 </details>
 
@@ -233,4 +233,3 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
