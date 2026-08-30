@@ -170,6 +170,22 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [SandBase Harness](https://github.com/sandbaseai/sandbase-harness)
+Local-first runtime for building and operating auditable AI agent sessions.
+
+<details>
+
+### Description
+
+SandBase Harness provides persistent sessions, sandboxed tools, memory, credentials, audit logs, replay, and an MCP bridge for local or self-hosted agent workflows.
+
+### Links
+- [GitHub](https://github.com/sandbaseai/sandbase-harness)
+- [Documentation](https://github.com/sandbaseai/sandbase-harness/tree/main/docs)
+- [MCP Registry](https://registry.modelcontextprotocol.io/?q=io.github.sandbaseai%2Fsandbase-harness)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
@@ -219,5 +235,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
