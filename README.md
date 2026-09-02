@@ -89,6 +89,19 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [Failproof](https://befailproof.ai)
+Failproof provides agentic live tracing for your agents to find failure modes and then prevent them with policies.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://befailproof.ai)
+- [GitHub](https://github.com/FailproofAI/failproofai)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
