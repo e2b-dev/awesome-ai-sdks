@@ -19,6 +19,8 @@ Welcome to our list of [AI agents](https://github.com/e2b-dev/awesome-ai-agents)
 The list is done according to our best knowledge, although definitely not comprehensive.
 Discussion and feedback appreciated! :heart:
 
+* [Gorgona](https://github.com/adrianpeticila/gorgona) - Zero-dependency Python guardrail engine enforcing credential protection, cross-brand isolation, and DFS cycle detection for autonomous AI agents.
+
 ## Have anything to add?
 You have something to add or improve about our list? Do it via pull request.
 
