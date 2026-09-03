@@ -60,6 +60,23 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [1Claw](https://1claw.xyz)
+1Claw is secret management for AI agents: an HSM-backed vault, a Shroud TEE proxy for LLM traffic, and short-lived, policy-scoped tokens so agents can call APIs and sign transactions without ever holding raw credentials. SDKs for TypeScript, Python, and Go, plus an MCP server and framework integrations.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://1claw.xyz)
+- [GitHub](https://github.com/1clawAI)
+- [Docs](https://docs.1claw.xyz)
+- [npm](https://www.npmjs.com/package/@1claw/sdk)
+
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
