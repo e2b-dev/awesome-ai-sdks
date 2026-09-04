@@ -59,6 +59,18 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 
 </details>
 
+## [AIWG](https://aiwg.io/)
+AIWG is an open-source framework for deploying reusable agents, skills, context, rules, and governed workflows into the native project paths used by multiple AI coding platforms.
+
+<details>
+
+### Links
+- [Web](https://aiwg.io/)
+- [GitHub](https://github.com/jmagly/aiwg)
+- [Docs](https://docs.aiwg.io/)
+
+</details>
+
 
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
@@ -219,5 +231,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
