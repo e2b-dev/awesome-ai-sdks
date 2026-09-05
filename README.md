@@ -220,4 +220,15 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [agent-qa](https://github.com/vostride/agent-qa)
+agent-qa is a self-improving QA agent for natural-language web and mobile tests. It gives coding agents persistent execution memory plus MCP and Agent Skills workflows for test authoring, execution, evidence-based triage, and debug fixes.
+
+<details>
+
+### Links
+- [Documentation](https://vostride.com/docs/agent-qa)
+- [GitHub](https://github.com/vostride/agent-qa)
+- [npm](https://www.npmjs.com/package/agent-qa)
+
+</details>
 
