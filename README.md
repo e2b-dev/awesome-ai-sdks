@@ -204,6 +204,21 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [TeaQL Agent Kit](https://github.com/teaql/teaql-agent-kit)
+
+A model-mediated harness for reliable agentic software development. It gives
+coding agents a model-first workflow with evaluation, generated workspaces,
+progressive API discovery, executable conformance checks, and retained
+evidence across seven language-native runtimes.
+
+<details>
+
+### Links
+- [Documentation](https://github.com/teaql/teaql-agent-kit#readme)
+- [GitHub](https://github.com/teaql/teaql-agent-kit)
+
+</details>
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
@@ -219,5 +234,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
