@@ -89,6 +89,20 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [ClineFlow](https://github.com/hassanvfx/clineflow)
+
+ClineFlow is Git-native project memory for coding agents, preserving decisions, verification, and handoffs across sessions.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://www.clineflow.com/)
+- [GitHub](https://github.com/hassanvfx/clineflow)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
@@ -219,5 +233,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
