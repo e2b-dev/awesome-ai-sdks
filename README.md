@@ -187,6 +187,24 @@ SID is a YC S23 company that makes data infrastructure for AI easy by letting AI
 
 </details>
 
+## [Speak AI](https://speakai.co)
+
+Speak AI is an AI-native sales acceleration platform. Calls, meetings, and role plays are scored against your own methodology and turned into coaching notes, CRM updates, and action, with a public API and MCP server for agent integrations.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://speakai.co)
+- [GitHub](https://github.com/speakai/speakai-mcp)
+- [Docs](https://docs.speakai.co)
+
+
+
+</details>
+
 ## [Steamship](https://www.steamship.com/)
 Steamship is a platform that allows to build, scale, and monitor AI agents with serverless cloud hosting, vector search, webhooks, callbacks, and more.
 <details>
