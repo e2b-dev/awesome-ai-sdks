@@ -60,6 +60,19 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [AgentDescent](https://github.com/Birfy/agentdescent)
+AgentDescent is a framework for self-evolving agents: it wraps a training loop around a versioned library of skills, prompts and harness modules. N workers propose diffs in parallel, and an asynchronous aggregator resolves conflicts, fuses complementary diffs and accepts merges on a Beta posterior over held-out reward. Provider-agnostic (Claude, OpenAI-compatible endpoints, tool-using agents), MIT-licensed, and the core engine has no required dependencies beyond Python 3.9.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/Birfy/agentdescent)
+- [Docs](https://birfy.github.io/agentdescent/)
+- [PyPI](https://pypi.org/project/agentdescent/)
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
