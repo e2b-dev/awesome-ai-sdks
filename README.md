@@ -74,6 +74,18 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [BadStream](https://github.com/katrinalaszlo/badstream)
+BadStream is an MIT-licensed fixture generator for testing streaming AI interfaces. It provides a browser playground, local CLI, and importable Response API with reproducible connection failures, truncated answers, stalls, and incomplete tool arguments. Supports OpenAI Chat Completions and AI SDK UI streams without model calls or runtime dependencies.
+
+<details>
+
+### Links
+- [Web](https://katrinalaszlo.github.io/badstream/)
+- [GitHub](https://github.com/katrinalaszlo/badstream)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
