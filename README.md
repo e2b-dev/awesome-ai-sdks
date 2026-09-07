@@ -74,6 +74,23 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Atomic Mail](https://atomicmail.ai)
+Email infrastructure for AI agents. An agent gets its own inbox in ~30s via proof-of-work — no signup or API key — then sends and receives over JMAP. Ships an MCP server and an agent-skill package.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://atomicmail.ai)
+- [GitHub](https://github.com/Atomic-Mail/atomic-mail-agentic)
+
+
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
