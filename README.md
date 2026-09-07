@@ -60,6 +60,19 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [AgentLeak](https://github.com/yagobski/agentleak)
+AgentLeak is a Python SDK and CLI for checking privacy leakage across agent traces, including tool calls, inter-agent messages, shared memory, and logs. It produces redacted reports and supports CI gates and a local MCP server.
+
+<details>
+
+### Links
+- [Web and documentation](https://www.agentleak.org/)
+- [GitHub](https://github.com/yagobski/agentleak)
+- [Python package](https://pypi.org/project/agentleak/)
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
