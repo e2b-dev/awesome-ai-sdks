@@ -73,6 +73,21 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 
 </details>
 
+## [CBK](https://cbk.ai/)
+CBK is an AI backend for building and running agents, with an agent builder, model gateway, knowledge retrieval, and tool integrations. The platform can run on your own infrastructure.
+
+<details>
+
+### Links
+- [Web](https://cbk.ai/)
+- [GitHub](https://github.com/chatbotkit/platform)
+- [Documentation](https://github.com/chatbotkit/platform/tree/main/docs)
+
+</details>
+
+
+
+
 
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
