@@ -170,6 +170,22 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Runback](https://runback.dev/)
+Runback captures every agent run and makes it re-executable — replay any step against the exact context the model saw, gate releases in CI, and export a signed record an auditor can verify independently.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://runback.dev/)
+- [GitHub](https://github.com/letsRunback/runback-community)
+- [Docs](https://runback.dev/docs)
+
+
+</details>
+
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
