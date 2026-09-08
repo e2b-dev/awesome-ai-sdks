@@ -155,6 +155,19 @@ Langfuse is an open-source analytics for LLM apps. The analytics is currently in
 </details>
 
 ## [LangSmith](https://smith.langchain.com/)
+
+## [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)
+OrcaReplay records a coding-agent run below the harness — no SDK, exporter or plugin — and keeps the verbatim request and response bytes, so the same run re-executes later with the network off. From any checkpoint a run can be forked onto a different model, with a `verify` command's exit code as the verdict. Apache-2.0, ships an MCP server so agents can read the traces themselves.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/Continuum-AI-Corp/OrcaReplay)
+- [npm](https://www.npmjs.com/package/orcareplay)
+
+</details>
 A unified platform for debugging, testing, evaluating, and monitoring LLM applications. LangSmith is now in closed beta. 
 
 
