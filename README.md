@@ -170,6 +170,23 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Lumbox](https://lumbox.co)
+Lumbox is email infrastructure for AI agents. Each agent gets its own real inbox, and every inbound email is parsed to JSON with OTP codes, verification links and magic links extracted, so an agent can complete signup and login flows without a human reading the mail.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://lumbox.co)
+- [Docs](https://lumbox.co/docs)
+- [Twitter](https://twitter.com/kumard_3)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
