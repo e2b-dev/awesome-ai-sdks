@@ -89,6 +89,22 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [ContextStream](https://contextstream.io)
+
+Shared project context for Cursor, Claude Code, Codex, and Grok. Hosted MCP at https://mcp.contextstream.io/mcp. Open-source server: https://github.com/contextstream/mcp-server (MIT).
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://contextstream.io)
+- [GitHub](https://github.com/contextstream/mcp-server)
+- [Benchmarks](https://contextstream.io/benchmarks)
+
+</details>
+
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
