@@ -187,6 +187,20 @@ SID is a YC S23 company that makes data infrastructure for AI easy by letting AI
 
 </details>
 
+## [Speakeasy](https://www.speakeasy.com/)
+Speakeasy is an enterprise AI control plane for governing access, policy, and auditability across AI agents, MCP servers, and Skills.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://www.speakeasy.com/)
+
+
+</details>
+
 ## [Steamship](https://www.steamship.com/)
 Steamship is a platform that allows to build, scale, and monitor AI agents with serverless cloud hosting, vector search, webhooks, callbacks, and more.
 <details>
@@ -219,5 +233,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
