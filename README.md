@@ -59,6 +59,19 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 
 </details>
 
+## [Universal Agent Plugins](https://github.com/777genius/universal-agent-plugins)
+
+An open source CLI and SDK for building and managing portable Agent Plugins 1.0 across Codex, Claude Code, Cursor, Gemini CLI, OpenCode, and other compatible agents.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/777genius/universal-agent-plugins)
+- [Documentation](https://777genius.github.io/universal-agent-plugins/)
+- [npm](https://www.npmjs.com/package/universal-agent-plugins)
+
+</details>
+
 
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
@@ -219,5 +232,4 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
 
