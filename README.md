@@ -170,6 +170,22 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Oathra](https://github.com/FORIFOR/oathra)
+Open-source runtime for AI agents that make real phone calls and return verified results. Every field of the outcome is anchored to the callee's own words and completion is decided by code, never by asking the model (0 false completions in 10,000 adversarial simulator runs). Playable AI-vs-AI simulator with no API key; Twilio direct or any SIP trunk via LiveKit; GPT-Live, OpenAI Realtime or STT+LLM+TTS voice engines. Apache-2.0, TypeScript.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://forifor.github.io/oathra/)
+- [GitHub](https://github.com/FORIFOR/oathra)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
