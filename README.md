@@ -220,4 +220,18 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [Zambo](https://zambo.dev)
 
+Open-source AI infrastructure that gives AI agents hands: 120 native MCP tools (code audit, lead research, strategy, onchain scoring, credit discovery, prompt defense) behind one zero-auth HTTPS endpoint. Free 20 calls/tool/day, no account — an execution layer that sits beside the model you already use.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://zambo.dev)
+- [GitHub](https://github.com/zambodotdev/zambo-mcp)
+
+
+</details>
