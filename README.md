@@ -170,6 +170,28 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [SAVI SDK](https://github.com/data-gras/savi-sdk)
+Open-source Python SDK for LLM cost, PII, and carbon observability — drop-in wrapper for OpenAI, Anthropic, Bedrock, Cohere, Mistral, and Vertex AI; works standalone with zero account via local_mode.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/data-gras/savi-sdk)
+- [PyPI](https://pypi.org/project/savi-sdk/)
+
+</details>
+
+## [savi-loop-guard](https://github.com/data-gras/savi-loop-guard)
+Zero-dependency Python detector for AI agents stuck in a loop — velocity and structural (fuzzy tool-name matched) repeat detection, no account or network calls required.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/data-gras/savi-loop-guard)
+- [PyPI](https://pypi.org/project/savi-loop-guard/)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
