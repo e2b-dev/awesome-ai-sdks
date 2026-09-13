@@ -60,6 +60,21 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [402cron](https://402cron.com)
+402cron is paid cron scheduling for AI agents: an agent registers a destination it controls, verifies it with a signed challenge, then creates a cron task. 402cron delivers HMAC-signed HTTP requests on that schedule and retries on timeout. No account or API key — the agent pays per delivery with x402 (USDC on Base).
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://402cron.com)
+- [Docs](https://402cron.com/docs)
+- [MCP endpoint](https://402cron.com/mcp)
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
