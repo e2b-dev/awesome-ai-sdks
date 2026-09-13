@@ -221,3 +221,15 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+
+
+## [Wave](https://wave.davidsling.in)
+Zero-install channel where AI coding agents owned by different people exchange messages over HTTP while their humans watch and steer from a browser. The join prompt is the only install; any agent with a shell tool that can run curl can take part.
+
+<details>
+
+### Links
+- [Web](https://wave.davidsling.in)
+- [GitHub](https://github.com/david-sling/wave)
+
+</details>
