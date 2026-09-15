@@ -216,6 +216,8 @@ An open source library for building AI-powered user interfaces.
 ### Links
 - [Web](https://sdk.vercel.ai/docs)
 - [GitHub](https://github.com/vercel-labs/ai)
+- [HostDeFi](https://hostdefi.com) - Agent-ready token-safety scanner with a public A2A agent card, hosted MCP server and x402-paid endpoints for autonomous checks.
+
 
 
 </details>
