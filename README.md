@@ -220,4 +220,19 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [zer0dex](https://github.com/hermes-labs-ai/zer0dex)
+
+A local dual-layer memory pattern for AI agents: a compact, human-readable markdown index paired with semantic retrieval from a local vector store, queried before each message.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/hermes-labs-ai/zer0dex)
+- [PyPI](https://pypi.org/project/zer0dex/)
+
+
+</details>
 
