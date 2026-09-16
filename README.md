@@ -170,6 +170,26 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Pixeltable](https://github.com/pixeltable/pixeltable)
+
+Pixeltable is a declarative multimodal AI data engine for tables, computed columns, embedding search, agents, and FastAPI services with automatic incremental updates.
+
+<details>
+
+<!-- ### Description -->
+- Declarative multimodal data engine for Python: store tables with images, video, audio, and documents.
+- Automatic incremental updates: computed columns recalculate automatically when new data is inserted.
+- Native vector search and indexing without needing a standalone vector database.
+- Shipped integrations for Agno, CrewAI, LangChain, and Codex / Claude Code plugins.
+
+### Links
+- [Web](https://pixeltable.com)
+- [GitHub](https://github.com/pixeltable/pixeltable)
+- [Documentation](https://docs.pixeltable.com)
+- [Agent Plugin & Skill](https://github.com/pixeltable/pixeltable-skill)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
