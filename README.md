@@ -187,6 +187,19 @@ SID is a YC S23 company that makes data infrastructure for AI easy by letting AI
 
 </details>
 
+## [openai-agents-nano](https://github.com/PANDeveloper001/openai-agents-nano-x402)
+An OpenAI Agents SDK tool that pays x402-priced HTTP endpoints in self-custodied Nano (XNO) instead of a stablecoin: feeless, instant, and settled without an issuer. Two-phase spend gate (a dry-run quote mints a single-use, offer-bound token), capped before signing, with `PAID` reported only on a ledger-confirmed block.
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/PANDeveloper001/openai-agents-nano-x402)
+- [Release v0.1.0](https://github.com/PANDeveloper001/openai-agents-nano-x402/releases/tag/v0.1.0)
+- [Quickstart](https://github.com/PANDeveloper001/openai-agents-nano-x402/blob/main/docs/xno-x402-quickstart.md)
+
+</details>
+
 ## [Steamship](https://www.steamship.com/)
 Steamship is a platform that allows to build, scale, and monitor AI agents with serverless cloud hosting, vector search, webhooks, callbacks, and more.
 <details>
