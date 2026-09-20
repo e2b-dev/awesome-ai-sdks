@@ -170,6 +170,25 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [MarketNow](https://github.com/alicelabs-llc/universal-trust-adapter)
+A free trust layer for AI agents using MCP: credential verification (8 formats incl. JWT, W3C VC, X.509), domain scam-checking, tool fingerprinting against tool-poisoning, and a 68k+ server registry search. Remote endpoint, fail-closed, no API keys.
+
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://www.marketnow.site)
+- [GitHub](https://github.com/alicelabs-llc/universal-trust-adapter)
+- [MCP endpoint](https://www.marketnow.site/api/mcp)
+- [npm](https://www.npmjs.com/package/marketnow-mcp)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
