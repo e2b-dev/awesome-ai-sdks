@@ -122,6 +122,17 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [Hashgraph Online (HOL)](https://hol.org/)
+Universal registry and trust engine for AI agents. Bridges A2A, MCP, Virtuals, ERC-8004, x402, OpenConvAI, and NANDA protocols with official SDKs in TypeScript, Go, and Python.
+
+<details>
+
+### Links
+- [Web](https://hol.org/)
+- [GitHub](https://github.com/hashgraph-online)
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
