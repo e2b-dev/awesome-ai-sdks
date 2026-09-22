@@ -60,6 +60,19 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [Agent-Body](https://github.com/1420079678-ctrl/agent-body)
+An organ-based plugin layer for agent runtimes: plugins declare themselves organs with capabilities, senses, and reflexes; a variable-rate heartbeat pumps operator directives and homeostasis state system-wide; reflex arcs fire with zero model calls; sleep-time consolidation distils real experience into memory cards; and failures run through deterministic attribution plus a re-check loop. Ships an organ SDK, 26 organs and a reproducible token-economy benchmark.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/1420079678-ctrl/agent-body)
+- [Architecture](https://github.com/1420079678-ctrl/agent-body/blob/main/ARCHITECTURE.md)
+
+</details>
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
