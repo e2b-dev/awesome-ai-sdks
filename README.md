@@ -89,6 +89,22 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [FarmDash](https://www.farmdash.one/agents)
+
+FarmDash Agent Hub is zero-custody DeFi infrastructure for AI agents: 84 MCP tools, a versioned OpenAPI surface, and a public repository of open agent skills for protocol intelligence, risk analysis, yield simulation, and explicitly-gated transaction workflows. FarmDash never receives private keys — the customer’s wallet signs and broadcasts.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://www.farmdash.one/agents)
+- [OpenAPI](https://www.farmdash.one/agents/openapi.yaml)
+- [MCP manifest](https://www.farmdash.one/.well-known/mcp.json)
+- [Agent skills](https://github.com/Parmasanandgarlic/farmdash-openclaw-skills)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
