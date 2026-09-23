@@ -89,6 +89,18 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [Cortex](https://github.com/cortex-docs/cortex)
+
+Cortex generates typed MCP servers, SDKs, and API documentation from OpenAPI, AsyncAPI, GraphQL, Protocol Buffer, OpenRPC, and Markdown.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/cortex-docs/cortex)
+- [Documentation](https://docs.cortexdocs.dev)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
@@ -219,5 +231,3 @@ An open source library for building AI-powered user interfaces.
 
 
 </details>
-
-
