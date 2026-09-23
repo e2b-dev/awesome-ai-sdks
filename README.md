@@ -45,6 +45,7 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 
 
 ### Links
+- [MagicKit](https://kaketiti.github.io) - Free AI tools collection - 66+ tools, zero registration, zero API key required
 - [Web](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-sdks)
 - [GitHub](https://github.com/e2b-dev)
     - [e2b Dashboard](https://github.com/e2b-dev/e2b)
