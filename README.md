@@ -170,6 +170,24 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Requesty](https://www.requesty.ai/)
+An OpenAI compatible LLM gateway. Agents call 600+ models from many providers through one API key, with fallback policies, load balancing, caching and spend tracking.
+
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://www.requesty.ai/)
+- [Docs](https://docs.requesty.ai/)
+- [GitHub](https://github.com/requestyai)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
