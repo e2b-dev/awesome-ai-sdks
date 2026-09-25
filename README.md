@@ -60,6 +60,19 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [AgentKit](https://github.com/Yacine-ai-tech/AgentKit)
+A policy-gated Model Context Protocol (MCP) server for business intelligence and data agents, exposing dynamic KPI analytics, anomaly detection, and schema resources across 10 enterprise domains.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/Yacine-ai-tech/AgentKit)
+- [Website](https://agentkit.ysiddo-ai-projects.app)
+- [Glama Listing](https://glama.ai/mcp/servers/Yacine-ai-tech/AgentKit)
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
