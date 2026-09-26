@@ -60,6 +60,23 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [Agentia](https://github.com/retrychx/agentia)
+A zero-runtime-dependency declarative agent framework in TypeScript. Build agents with 4 decorators (`@Tool`, `@Skill`, `@SubAgent`, `@Prompt`), dependency injection, and a built-in dev panel with real-time trace streaming. Every invariant must be registered, mutation-batteried, and tracked in a guard registry.
+
+<details>
+
+### Description
+- **Declarative capabilities** — define agent abilities with 4 decorators; framework handles registration and dispatch
+- **Zero runtime dependencies** — core ships with no npm dependencies, not even `zod` or `reflect-metadata`
+- **Built-in dev panel** — `agentia dev` launches a local inspector with real-time traces, capability narrowing, and run abort
+- **Observable by design** — OpenTelemetry-compatible traces, metrics, and structured events
+- **Guard-driven development** — 50+ registered invariants, each validated with mutation batteries; "tests that always pass" are treated as bugs
+
+### Links
+- [GitHub](https://github.com/retrychx/agentia)
+- [npm](https://www.npmjs.com/package/@migor/agentia)
+</details>
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
