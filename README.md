@@ -220,4 +220,22 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [Whisper](https://whisper.online)
+
+Gives an agent a routable IPv6 address of its own, plus the reverse DNS, RDAP and DANE records that let a third party verify it. Identity checks and the infrastructure graph answer with no API key.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://whisper.online)
+- [Docs](https://whisper.online/docs)
+- [GitHub](https://github.com/whisper-sec/whisper-cli)
+- [MCP server](https://whisper.online/docs/mcp)
+
+
+</details>
+
 
