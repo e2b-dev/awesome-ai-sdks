@@ -74,6 +74,22 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Aident Loadout](https://aident.ai)
+Aident Loadout is a remote MCP capability layer that connects Codex, Claude Code, Cursor, ChatGPT and other MCP clients to 1,000+ apps and 400+ expert-built Skills through one setup, with Vault-protected credentials and full Audit.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://aident.ai)
+- [Docs](https://docs.aident.ai/loadout/overview)
+- [GitHub](https://github.com/Aident-AI/aident-skill)
+- [Remote MCP](https://loadout.aident.ai/mcp)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
