@@ -122,6 +122,21 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [jtoken](https://github.com/HermannSamimi/jtoken)
+jtoken compresses JSON-shaped documents for LLM prompts: fewer tokens, readable line-oriented output, and lossless round-trip. Includes normalization for Elasticsearch hits and MongoDB JSON, a CLI, and token measurement helpers.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://pypi.org/project/jtoken/)
+- [GitHub](https://github.com/HermannSamimi/jtoken)
+
+
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
