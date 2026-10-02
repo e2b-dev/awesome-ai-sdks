@@ -170,6 +170,18 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Muse Skill Hub](https://github.com/wahyunuriman999/Muse-Skill-Hub)
+Open-source, LLM-agnostic capability runtime for AI agents: 97 skills as typed, permission-enforced MCP tools with approval workflows, credential management, and audit trail. Final certification: 23/23 gates PASS (271 tests, 12/12 CI on Ubuntu/Windows/macOS × Python 3.10–3.13).
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/wahyunuriman999/Muse-Skill-Hub)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
