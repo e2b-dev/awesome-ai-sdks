@@ -220,4 +220,14 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [Zeroshot](https://zeroshot.sh)
+An MIT-licensed Rust engine for running coding agents through configurable implementation, independent review, and bounded repair graphs. Uses existing Claude Code, Codex, or GitHub Copilot logins, with reusable profiles, a browser graph editor, and durable run history.
+
+<details>
+
+### Links
+- [Web](https://zeroshot.sh)
+- [GitHub and documentation](https://github.com/the-open-engine/zeroshot)
+
+</details>
 
