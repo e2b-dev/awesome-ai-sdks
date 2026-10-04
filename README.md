@@ -89,6 +89,18 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [devin-evals](https://github.com/Icaro0310/devin-evals)
+Deterministic eval harness for the Devin agent: replays recorded sessions against rubric graders to test and debug agent behavior.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/Icaro0310/devin-evals)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
