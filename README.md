@@ -74,6 +74,25 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [AxonX](https://github.com/FlowLLM-AI/AxonX)
+AxonX is a quantitative research harness for AI agents and researchers, with plugin-based tasks and CLI, HTTP, MCP, and Studio interfaces.
+
+<details>
+
+### Description
+- Submit data processing, factor analysis, model training, prediction, and backtesting tasks through a shared runtime.
+- Inspect task status, logs, saved artifacts, and task lineage through CLI or MCP tools.
+- Extend research implementations through typed plugin Task contracts.
+
+### Links
+- [GitHub](https://github.com/FlowLLM-AI/AxonX)
+- [Documentation](https://flowllm-ai.github.io/AxonX/en/)
+- [MCP integration](https://flowllm-ai.github.io/AxonX/en/agent/mcp-integration)
+- [Development and operations guide](https://flowllm-ai.github.io/AxonX/en/dev_guide)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
