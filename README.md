@@ -89,6 +89,19 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [devin-qa-pack](https://github.com/Icaro0310/devin-qa-pack)
+devin-qa-pack audits AI coding agent sessions offline: it extracts the agent's delivery claims (tests run, commits created, files written, pushes) from the transcript and verifies each against the agent's recorded tool calls, printing PASS / PARTIAL / UNVERIFIED per session. Read-only, no LLM calls, Python CLI; supports Devin session stores plus experimental Aider and Claude Code transcript adapters.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/Icaro0310/devin-qa-pack)
+
+</details>
+
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
