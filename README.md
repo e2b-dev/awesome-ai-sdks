@@ -91,7 +91,7 @@ It is currently in alpha, and is not yet ready for production use.
 
 ## [FiatDock](https://fiatdock.com)
 
-FiatDock gives AI agents pay-per-call tools and an MCP marketplace over the x402 protocol, paid in USDC on Base with no account or API key: web page to clean text ($0.002), email checks ($0.001), token safety ($0.01) and Base chain reads, plus MCP services from other sellers bought with the same wallet (the `fiatdock-mcp` package auto-pays the 402). A call that produces no answer costs nothing. Marketplace calls settle directly from the buyer's wallet to the seller's wallet; the commission is currently waived and FiatDock never holds funds. FiatDock also offers a non-custodial USDC↔bank on/off-ramp. Available via `npx fiatdock-mcp`, a remote Streamable HTTP endpoint at `https://fiatdock.com/mcp`, and a plain REST API.
+FiatDock gives AI agents pay-per-call tools and an MCP marketplace over the x402 protocol, paid in USDC on Base with no account or API key: web page to clean text, email checks, token safety, Base chain reads, DeFi yields, prediction markets and more, from $0.001 per call, plus MCP services from other sellers bought with the same wallet (the `fiatdock-mcp` package auto-pays the 402). A call that produces no answer costs nothing. Marketplace calls settle directly from the buyer's wallet to the seller's wallet; the commission is currently waived and FiatDock never holds funds. FiatDock also offers a non-custodial USDC↔bank on/off-ramp. Available via `npx fiatdock-mcp`, a remote Streamable HTTP endpoint at `https://fiatdock.com/mcp`, and a plain REST API.
 
 <details>
 
