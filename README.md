@@ -104,6 +104,17 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [Golem](https://github.com/abubakarsiddik31/golem)
+A Go framework for building dependable AI agents with typed dependencies (`Agent[Deps, Out]`), zero external dependencies (stdlib only), and native Model Context Protocol (MCP) support.
+
+<details>
+
+### Links
+- [Web](https://abubakarsiddik31.github.io/golem/)
+- [GitHub](https://github.com/abubakarsiddik31/golem)
+
+</details>
+
 ## [Helicone](https://www.helicone.ai/)
 An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
 
