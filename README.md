@@ -74,6 +74,20 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Agent Checkout](https://checkout.ignitionfoundry.com/)
+Agent Checkout is a Stripe payment-link API for AI agents: one API call mints a real Stripe payment link, the agent hands the URL to its human operator, and the operator clicks to pay. The agent never touches card data. Ships with an MCP server and llms.txt. Free tier: 100 links/day.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://checkout.ignitionfoundry.com/)
+- [GitHub](https://github.com/oidsdev/agent-checkout-mcp)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
