@@ -220,4 +220,20 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [OpenAmer](https://github.com/openamer/openamer)
+
+OpenAmer — Windows-native personal agent runtime that controls the real desktop in the background (filesystem, terminal, GUI, and a browser driven through the Chrome DevTools Protocol), keeps persistent memory, runs scheduled jobs, and coordinates peer instances over a local agent-to-agent mesh.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://openamer.github.io/openamer/)
+- [GitHub](https://github.com/openamer/openamer)
+
+
+</details>
+
 
