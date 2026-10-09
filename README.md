@@ -74,6 +74,18 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Agent Verifier](https://github.com/Aurite-ai/agent-verifier)
+Agent Verifier is an open-source skill that checks AI agent code before it ships: hardcoded secrets, unbounded loops and retries, tools referenced in prompts but never defined, and oversized prompts. It detects LangGraph, CrewAI, AutoGen and LangChain projects, adds no telemetry, and works with Claude Code, Cursor and Windsurf.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/Aurite-ai/agent-verifier)
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
