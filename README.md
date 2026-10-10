@@ -60,6 +60,21 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [AgentAddress](https://agentaddress.dev/)
+AgentAddress is a return address for AI agents: one unauthenticated API call provisions a task-scoped resource with a write-only HTTPS inbox, an inbound email identity, and an ordered event queue with cursors, so a later agent run can retrieve callbacks after the original process exits. Free, no account.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://agentaddress.dev)
+- [GitHub](https://github.com/zkarimi22/agentaddress-agents)
+- [MCP server](https://agentaddress.dev/api/mcp)
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
