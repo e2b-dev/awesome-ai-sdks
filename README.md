@@ -89,6 +89,18 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [DHP](https://github.com/SIDDARTHAREDDY8/dhp)
+Durable Handoff Protocol: the durability layer for agent work. When a worker is kill -9'd, OOM-killed, or its spot instance is reclaimed mid-run, DHP hands the work to a standby that resumes from the last checkpoint — zero rework. Content-addressed handoff envelopes, leases + heartbeats, atomic ownership transfer, fencing tokens. Measured: kill → orphan → resume in ~7s. `pip install dhp-protocol`, 8 MCP tools, A2A bridge. MIT.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/SIDDARTHAREDDY8/dhp)
+- [PyPI](https://pypi.org/project/dhp-protocol/)
+
+</details>
+
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
