@@ -170,6 +170,17 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [MicroDot](https://github.com/OldComputerGuy/microDots)
+
+A tiny, self-hosted AI agent with its own browser tab; writes its own tools, spawns sub-agents, one shared Chromium, plain-file state. MIT.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/OldComputerGuy/microDots)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
