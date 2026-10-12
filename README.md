@@ -122,6 +122,21 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [HiveGate](https://github.com/hivegate-ai/hivegate)
+Open-source runtime that serves Agno agents over a REST API, with per-user OAuth tokens and human approval before risky tool calls.
+
+
+<details>
+
+### Links
+- [Web](https://hivegate.dev)
+- [Documentation](https://hivegate.dev/docs/)
+- [GitHub](https://github.com/hivegate-ai/hivegate)
+
+
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
