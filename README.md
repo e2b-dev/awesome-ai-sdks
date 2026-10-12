@@ -170,6 +170,19 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [OpenConnector](https://github.com/oomol-lab/open-connector)
+Open-source connector gateway for AI agents to discover and execute SaaS actions through MCP, HTTP, and OpenAPI, with OAuth/API-key credential management, scoped runtime tokens, and action policies.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/oomol-lab/open-connector)
+- [Quick start](https://github.com/oomol-lab/open-connector/blob/main/docs/quickstart.md)
+- [MCP and runtime API](https://github.com/oomol-lab/open-connector/blob/main/docs/runtime-api.md)
+- [TypeScript SDK](https://github.com/oomol-lab/connector-sdk)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
