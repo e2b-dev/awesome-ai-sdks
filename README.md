@@ -221,3 +221,13 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+## [Agent Barn](https://agentbarn.dev)
+Agent Barn is an open-source (Apache-2.0) control plane for AI agents: teams talk to agents in Slack, Teams, Telegram, Discord or email, agents work across Jira, GitHub, Confluence and more, and every conversation, tool call, log and cost is recorded. It runs agent runtimes like Hermes and OpenClaw on your own Kubernetes cluster, deployed with Helm.
+
+<details>
+
+### Links
+- [Web](https://agentbarn.dev)
+- [GitHub](https://github.com/aai-labs/agent-barn)
+
+</details>
