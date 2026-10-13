@@ -74,6 +74,18 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [Aleph](https://github.com/josuecuguy1307/Aleph)
+An open-source macOS workspace for composing agents with user-selected models, installed coding CLIs, tools and files. The Workshop provides agent composition, while specialized workspaces organize tasks and durable artifacts. API credentials, CLI sign-ins and connector authorizations are configured separately. The current release targets Apple silicon; source-build prerequisites and limitations are documented.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/josuecuguy1307/Aleph)
+- [Getting Started](https://github.com/josuecuguy1307/Aleph/blob/main/docs/GETTING_STARTED.md)
+- [Release](https://github.com/josuecuguy1307/Aleph/releases/tag/v0.1.2)
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
