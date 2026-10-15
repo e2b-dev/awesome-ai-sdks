@@ -196,11 +196,22 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 ### Links
 - [Web](https://www.steamship.com/)
-- [GitHub](https://github.com/steamship-core)
+- [GitHub](https://github.com/steam
 - [Twitter](https://twitter.com/GetSteamship)
 - [Discord](https://discord.com/invite/dR5fHvxSNg)
 
 
+
+</details>
+
+
+## [Terse](https://github.com/bloriner/terse)
+Terse is an AI-native code language for AI coding agents: a dense prefix IR that measures 0.60–1.00× Python tokens, with a tree-walking interpreter, Python transpiler, and an MCP server (evaluate, transpile, token-count, parse, session aliases) that agents can call as tools.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/bloriner/terse)
 
 </details>
 
