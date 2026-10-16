@@ -89,6 +89,9 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [ERIUS PHONE MCP](https://github.com/Protremix/erius-phone-mcp)
+MIT-licensed MCP tools for agents to read and control persistent cloud Android phones, manage apps and retrieve crash logs; cloud service in early access, by invitation.
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
