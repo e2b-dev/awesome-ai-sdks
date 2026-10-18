@@ -139,7 +139,7 @@ LangChain is a framework designed to simplify the creation of applications using
 </details>
 
 ## [Langfuse](https://langfuse.com/)
-Langfuse is an open-source analytics for LLM apps. The analytics is currently in a closed alph
+Langfuse is an open-source analytics for LLM apps.
 
 <details>
 
