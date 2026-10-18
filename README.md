@@ -187,6 +187,25 @@ SID is a YC S23 company that makes data infrastructure for AI easy by letting AI
 
 </details>
 
+## [Soro-Boro](https://github.com/nisaral/Soro-Boro)
+Single-pass System-One conformal tool router and execution boundary for MCP servers and AI agents.
+
+<details>
+
+### Description
+Soro-Boro is an execution boundary and conformal decision runtime for AI agents:
+- Sub-100ms pointer routing (Soro-Kev) over MCP tool catalogs without free-text generation.
+- Conformal prediction sets guaranteeing calibrated coverage and abstention.
+- Rollback journals, idempotency caching, and argument auto-repair to prevent duplicate mutating executions.
+
+### Links
+- [GitHub](https://github.com/nisaral/Soro-Boro)
+- [PyPI](https://pypi.org/project/soro-boro/)
+- [Hugging Face Models](https://huggingface.co/nisaralll/soro-kev-4b)
+- [Demo Space](https://huggingface.co/spaces/nisaralll/soro-kev-router)
+
+</details>
+
 ## [Steamship](https://www.steamship.com/)
 Steamship is a platform that allows to build, scale, and monitor AI agents with serverless cloud hosting, vector search, webhooks, callbacks, and more.
 <details>
