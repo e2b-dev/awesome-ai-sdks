@@ -60,6 +60,19 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [Agent-Casuality](https://github.com/Psionic-labs/Agent-Casuality)
+Agent-Casuality is a causal debugging toolkit for branching multi-agent systems. It captures runs from LangGraph and OpenCode as explicit causal event graphs, slices a failure to the events that caused it, reconstructs verified agent state at any point, and replays counterfactuals to check whether an intervention would change the outcome.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/Psionic-labs/Agent-Casuality)
+- [PyPI](https://pypi.org/project/agent-casuality/)
+
+</details>
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
