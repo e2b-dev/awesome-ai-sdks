@@ -60,6 +60,18 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)
+
+Local macOS CLI and stdio MCP payments with foreground owner approval for signing. Gives agent applications a payment runtime through CLI or local MCP tools; MIT licensed, with network and third-party fees applying.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/nuanu-ai/agent-payment-node)
+- [Installation and MCP setup](https://github.com/nuanu-ai/agent-payment-node#readme)
+
+</details>
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
