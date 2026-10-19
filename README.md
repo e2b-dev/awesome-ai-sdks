@@ -60,6 +60,18 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [Agent Role Contracts (ARC)](https://github.com/suirindo/agent-role-contracts)
+An MIT-licensed Node.js library and CLI for offline validation of declared AI-agent roles, task write scopes, reviewer separation, and handoffs before execution. It checks declaration consistency; runtime permissions are enforced separately.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/suirindo/agent-role-contracts)
+- [npm](https://www.npmjs.com/package/@netsujo/agent-role-contracts/v/1.0.0)
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
