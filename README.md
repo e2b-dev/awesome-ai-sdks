@@ -178,7 +178,7 @@ Free open-source monitoring dashboard for OpenClaw AI agents — token usage, se
 
 ### Links
 - [GitHub](https://github.com/flik2002/openclaw-monitor)
-- [Screenshot](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
+- [Screenshot](https://raw.githubusercontent.com/flik2002/openclaw-monitor/master/Openclaw%20Monitor.jpg)
 
 </details>
 
