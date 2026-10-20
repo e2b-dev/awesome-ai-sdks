@@ -170,6 +170,28 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Runcrate](https://www.runcrate.ai/?utm_source=awesome-sdks-for-ai-agents&utm_medium=directory&utm_campaign=gpu_pricing)
+
+GPU cloud for AI developers and the agents they run: on-demand GPU instances by the hour and 200+ open models behind one OpenAI-compatible API, with a remote MCP server, CLI and Python and TypeScript SDKs so an agent can launch a GPU, run commands on it and shut it down.
+
+<details>
+
+<!-- ### Description -->
+- Remote MCP server (`https://mcp.runcrate.ai/mcp`, OAuth sign-in) with 37 tools for instances, jobs, files, volumes, inference and spend
+- SDKs: `runcrate-sdk` (Python), `@runcrate/sdk` (TypeScript), `@runcrate/ai` (Vercel AI SDK provider)
+- CLI: `brew install aeonmindai/tap/runcrate`
+
+### Links
+- [Web](https://www.runcrate.ai/?utm_source=awesome-sdks-for-ai-agents&utm_medium=directory&utm_campaign=gpu_pricing)
+- [Docs](https://www.runcrate.ai/docs?utm_source=awesome-sdks-for-ai-agents&utm_medium=directory&utm_campaign=gpu_pricing)
+- [GitHub](https://github.com/aeonmindai)
+- [Twitter](https://twitter.com/runcrate)
+- [Discord](https://discord.gg/GSnhnewkKE)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
