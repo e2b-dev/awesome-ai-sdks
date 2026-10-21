@@ -35,6 +35,30 @@ Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
 Check out also our database of [AI agents](https://github.com/e2b-dev/awesome-ai-agents).
 
 
+## [agent-browser-mcp](https://github.com/rustemmustafingovua-byte/agent-browser-mcp)
+A real browser for AI agents — navigation, reading, clicking, typing — with Cloudflare and captcha handling under an explicit budget and domain allowlist. Uses the browser already installed on the machine.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://github.com/rustemmustafingovua-byte/agent-browser-mcp)
+- [GitHub](https://github.com/rustemmustafingovua-byte/agent-browser-mcp)
+</details>
+
+## [agent-cost-guard](https://github.com/rustemmustafingovua-byte/agent-cost-guard)
+A budget in front of any OpenAI-compatible endpoint: daily spend cap, per-request cap and session limits enforced before the call, so an agent cannot burn a credit card by accident.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://github.com/rustemmustafingovua-byte/agent-cost-guard)
+- [GitHub](https://github.com/rustemmustafingovua-byte/agent-cost-guard)
+</details>
+
 ## [E2B](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-sdks)
 E2b is an operating system for AI agents, that is, a set of tools, APIs, and cloud environments for  agents.
 
@@ -104,6 +128,18 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [free-web-mcp](https://github.com/rustemmustafingovua-byte/free-web-mcp)
+Web search and page reading for AI agents with zero API credits — no key, no credit card, no metered calls. Free tier 30 requests/hour, paid tier 0.001 USDC per call over x402. Also live as a public MCP endpoint.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://github.com/rustemmustafingovua-byte/free-web-mcp)
+- [GitHub](https://github.com/rustemmustafingovua-byte/free-web-mcp)
+</details>
+
 ## [Helicone](https://www.helicone.ai/)
 An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
 
@@ -168,6 +204,30 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 
 
+</details>
+
+## [mcp-doctor](https://github.com/rustemmustafingovua-byte/mcp-doctor)
+Health check for MCP servers: probes every configured server, lists its tools, measures latency and classifies the failure as spawn, handshake, timeout, auth or empty instead of dumping a stack trace.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://github.com/rustemmustafingovua-byte/mcp-doctor)
+- [GitHub](https://github.com/rustemmustafingovua-byte/mcp-doctor)
+</details>
+
+## [prompt-injection-guard](https://github.com/rustemmustafingovua-byte/prompt-injection-guard)
+Finds instructions hidden where an agent reads automatically — including policy-swap, delegation, fake-truncated-context and code-completion injections that pass naive keyword filters.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://github.com/rustemmustafingovua-byte/prompt-injection-guard)
+- [GitHub](https://github.com/rustemmustafingovua-byte/prompt-injection-guard)
 </details>
 
 ## [SID](https://www.sid.ai/)
