@@ -170,6 +170,24 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Screwtape.ai](https://screwtape.ai/)
+Judge Agent as a Service. Pass, fail, or retry verdicts on agent output, plus multi-agent consensus and false-consensus risk.
+
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://screwtape.ai/)
+- [Docs](https://screwtape.ai/docs/)
+- [OpenAPI](https://screwtape.ai/openapi.json)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
