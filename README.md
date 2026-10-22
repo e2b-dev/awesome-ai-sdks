@@ -221,3 +221,14 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+## [EasySociable](https://easysociable.com)
+EasySociable is an agent-native AI carousel maker: a skill and MCP server for Claude Code, Cursor and Codex that turns a prompt into branded multi-slide carousels for TikTok, Instagram and LinkedIn.
+
+<details>
+
+### Links
+- [Web](https://easysociable.com)
+- [GitHub](https://github.com/murphywuwu/easysociable-mcp)
+- [npm](https://www.npmjs.com/package/@easysociable/cli)
+
+</details>
