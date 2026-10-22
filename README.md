@@ -104,6 +104,20 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [Hail](https://hail.so)
+Give your AI assistant a phone number and an email inbox. Add inbound and outbound calls, SMS, and email to your app or agent with the `hail-sdk` Python package. Choose a built-in voice or bring your own. Open-source (AGPLv3) or cloud priced on usage.
+
+<details>
+
+### Links
+- [Web](https://hail.so)
+- [Documentation](https://hail.so/docs)
+- [Python package](https://pypi.org/project/hail-sdk/)
+- [GitHub](https://github.com/hail-hq/hail)
+
+</details>
+
+
 ## [Helicone](https://www.helicone.ai/)
 An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
 
