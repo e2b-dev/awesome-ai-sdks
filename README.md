@@ -89,6 +89,17 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [claude-motion](https://github.com/TheOnlyFusionCube/claude-motion)
+Programmatic motion graphics runtime and agent toolkit to direct and render launch-quality 2D/3D motion films, UI walkthroughs, kinetic typography posters, and physics simulations in code with deterministic 60 FPS video export.
+
+<details>
+
+### Links
+- [Web](https://theonlyfusioncube.github.io/claude-motion/)
+- [GitHub](https://github.com/TheOnlyFusionCube/claude-motion)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
