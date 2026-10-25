@@ -221,3 +221,18 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+## [Vicem](https://github.com/RAKKUNN/vicem)
+
+Zero-dependency AI coding agent context baton, 80-90% AST-like code skeletonizer with lossless on-demand MCP rehydration, and cross-platform desktop utility GUI (`vicem gui`) across 12 coding agents (Claude Code, OpenAI Codex CLI, Gemini CLI, Cursor, Windsurf, Antigravity, etc.).
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/RAKKUNN/vicem)
+- [Latest Release (v1.1.0 Desktop GUI)](https://github.com/RAKKUNN/vicem/releases/tag/v1.1.0)
+
+
+</details>
