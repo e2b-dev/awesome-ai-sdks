@@ -204,6 +204,23 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [Tray Helix](https://helix.tray.ai/)
+Build agents where your apps already live. Build in code with your AI assistant and the Helix SDK, then deploy with one command.
+
+<details>
+
+### Description
+- Build agents in code with Claude Code, Codex, or Cursor and the Helix SDK; one command deploys them to Tray's managed runtime
+- Agents reach your systems through managed auth, so no secret ships in the code, and conversations are kept separate per user
+- Tools that write or change data can wait for a person's approval
+- SSO and an audit trail on every app and agent
+
+### Links
+- [Web](https://helix.tray.ai/)
+- [Docs](https://helix.tray.ai/documentation/)
+
+</details>
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
