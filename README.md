@@ -91,7 +91,7 @@ It is currently in alpha, and is not yet ready for production use.
 
 ## [FarmDash](https://www.farmdash.one/agents)
 
-FarmDash Agent Hub is zero-custody DeFi infrastructure for AI agents: 84 MCP tools, a versioned OpenAPI surface, and a public repository of open agent skills for protocol intelligence, risk analysis, yield simulation, and explicitly-gated transaction workflows. FarmDash never receives private keys — the customer’s wallet signs and broadcasts.
+FarmDash provides TypeScript and Python agent SDKs for zero-custody DeFi intelligence and execution control. Its public contract includes 94 MCP tools and 54 primary OpenAPI operations (75 total across four documents). USER_SIGNED is the default; bounded autonomy requires separate scoped authorization. Signing and broadcast stay in the customer wallet or authorized local runtime; FarmDash never receives private keys.
 
 <details>
 
