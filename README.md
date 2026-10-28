@@ -89,6 +89,22 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [FarmDash](https://www.farmdash.one/agents)
+
+FarmDash provides TypeScript and Python agent SDKs for zero-custody DeFi intelligence and execution control. Its public contract includes 94 MCP tools and 54 primary OpenAPI operations (75 total across four documents). USER_SIGNED is the default; bounded autonomy requires separate scoped authorization. Signing and broadcast stay in the customer wallet or authorized local runtime; FarmDash never receives private keys.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://www.farmdash.one/agents)
+- [OpenAPI](https://www.farmdash.one/agents/openapi.yaml)
+- [MCP manifest](https://www.farmdash.one/.well-known/mcp.json)
+- [Agent skills](https://github.com/Parmasanandgarlic/farmdash-openclaw-skills)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
