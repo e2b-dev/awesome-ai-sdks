@@ -122,6 +122,18 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [Hugging Bay](https://huggingbay.xyz/)
+Hugging Bay provides a catalog of open model files, recorded SHA-256 hashes, and license labels. Agents can search the catalog through its hosted MCP server or Python SDK.
+
+<details>
+
+### Links
+- [Web](https://huggingbay.xyz/)
+- [MCP documentation](https://huggingbay.xyz/docs)
+- [Python SDK](https://pypi.org/project/hugging-bay/)
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
