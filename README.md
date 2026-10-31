@@ -104,6 +104,17 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [GoRoute](https://goroute-website.vercel.app/)
+Sub-millisecond AI gateway and multi-account router in Go and Rust SIMD (< 5MB RAM) for autonomous coding agents.
+
+<details>
+
+### Links
+- [Web](https://goroute-website.vercel.app/)
+- [GitHub](https://github.com/ziuus/goroute)
+
+</details>
+
 ## [Helicone](https://www.helicone.ai/)
 An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
 
