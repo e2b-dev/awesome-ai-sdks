@@ -170,6 +170,20 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [ListAIHub SDK](https://listaihub.com/en/developers)
+
+Official Python SDK and Agent Client for the ListAIHub directory API (Token-API, OpenAPI catalog endpoints, and automated submission).
+
+<details>
+
+### Links
+- [Web](https://listaihub.com/en/developers)
+- [Directory](https://listaihub.com/)
+- [GitHub](https://github.com/romangrid/listaihub-client)
+- [OpenAPI Spec](https://listaihub.com/agent/openapi.json)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
