@@ -89,6 +89,24 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [Cloudbrowser](https://cloudbrowser.tv/)
+Persistent, isolated Chrome cloud browsers for AI agents, with CDP access and permission-controlled live view. Cloudbrowser provides browser infrastructure through a REST API; it is currently an invitation-only private preview requiring an invited account or workspace API key.
+
+<details>
+
+### Description
+- Saves browser profiles, including cookies and local storage; supports pause/resume and forking a paused profile.
+- Resume restarts Chrome, and website sessions may expire.
+- The Free plan includes 1 browser-hour per UTC month and 1 concurrent browser. Billing is not enabled; Basic and Pro are pricing previews.
+- A Go CLI is planned, not released.
+
+### Links
+- [Web](https://cloudbrowser.tv/)
+- [Documentation](https://cloudbrowser.tv/docs)
+- [OpenAPI](https://cloudbrowser.tv/openapi.json)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
