@@ -100,6 +100,24 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 ### Links
 - [Web](https://docs.fixie.ai/agents/)
 
+## [Foundry Agent Buyer](https://github.com/foundry-stack/foundry-agent-buyer)
+A zero-config Python client enabling autonomous AI agents to solve RFC HTTP 402 Payment Required challenges and settle instant crypto micropayments (USDC on Base & Avalanche) in 3 lines of code.
+
+<details>
+
+### Category
+Autonomous Agent Tooling, Payments & Commerce
+
+### Key Features
+- Native RFC HTTP 402 challenge-response handling
+- Web3 cryptographic signing & instant USDC settlement
+- Multi-chain support (Base, Avalanche C-Chain, Arbitrum, Ethereum)
+- Replay protection & automated digital payload unlock
+
+### Links
+- [GitHub](https://github.com/foundry-stack/foundry-agent-buyer)
+- [Commercial Infrastructure](https://foundrystack.co.uk)
+
 
 
 </details>
