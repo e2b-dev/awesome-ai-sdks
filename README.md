@@ -220,4 +220,21 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [VideoUpscaler](https://videoupscaler.co/integrations)
+
+Open-source SDKs (Python & TypeScript), CLI, REST API, and remote Model Context Protocol (MCP) server that give AI agents tool-calling capabilities to upscale and restore videos up to 4K 60fps with denoising, stabilization, and frame interpolation.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://videoupscaler.co/integrations)
+- [GitHub](https://github.com/arkyu2077/ai-video-upscaler)
+
+
+</details>
+
+
 
