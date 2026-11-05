@@ -60,6 +60,19 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [agent-voice-bridge](https://github.com/denegra-ai/agent-voice-bridge)
+Open-source FastAPI gateway that lets any AI agent answer WhatsApp messages and voice notes. It takes messages from Meta's WhatsApp Cloud API or Twilio, transcribes voice notes, calls your agent's HTTP endpoint and replies with a voice note or text. Speech via OpenAI, Azure OpenAI, Deepgram or ElevenLabs. Python, Apache 2.0.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/denegra-ai/agent-voice-bridge)
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
