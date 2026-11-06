@@ -89,6 +89,25 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [deja-vu](https://github.com/vshulcz/deja-vu)
+Local cross-agent memory and session search across 43 coding agents with a built-in MCP server
+
+<details>
+
+### Category
+Agent memory, MCP server, Developer tools
+
+### Description
+- Indexes past sessions from 43 AI coding tools (Claude Code, Cursor, Codex, Windsurf, Copilot, Aider, Zed, and more) on the machine into a single local SQLite FTS5 + vector database.
+- Exposes `recall` and `context` via CLI and MCP so any coding agent can search decisions, fixes, and debugging history from every other agent without cloud dependencies.
+- Reproducible LongMemEval-S (88.9% R@5) and LoCoMo (73.7% R@5) retrieval benchmarks with a standalone `-score` harness in `docs/benchmarks/`.
+
+### Links
+- [GitHub](https://github.com/vshulcz/deja-vu)
+- [Benchmarks](https://github.com/vshulcz/deja-vu/tree/main/docs/benchmarks)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
