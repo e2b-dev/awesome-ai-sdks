@@ -60,6 +60,21 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [AgentJIT](https://github.com/eminsk/agentjit)
+AgentJIT is a high-performance Python micro-framework for compiling, validating, and executing structured AI agent workflows and tool dispatching with sub-millisecond overhead and type safety.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/eminsk/agentjit)
+- [PyPI](https://pypi.org/project/agentjit/)
+
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
