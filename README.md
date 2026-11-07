@@ -204,6 +204,20 @@ Steamship is a platform that allows to build, scale, and monitor AI agents with 
 
 </details>
 
+## [Unl](https://github.com/Unlimitless-Inc/Unl)
+Unl, the open-source why agent for your coding agents. Unl keeps project decisions with their reasons, brings relevant decisions into your coding agent's work, and records what changed when you change your mind. Run `npx unlimitless init` in a project. Free under Apache-2.0, with no Unl account required.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://unlimitless.ai)
+- [GitHub](https://github.com/Unlimitless-Inc/Unl)
+- [npm](https://www.npmjs.com/package/unlimitless)
+
+</details>
+
 ## [Vercel AI SDK](https://sdk.vercel.ai/docs)
 
 An open source library for building AI-powered user interfaces.
