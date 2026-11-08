@@ -170,6 +170,22 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Mishmar](https://mishmar.io)
+Mishmar is a risk management layer for trading bots and AI agents: every order is checked against your limits before it reaches the exchange, large orders wait for your approval, and no key can trade alone.
+
+<details>
+
+<!-- ### Description -->
+Python and TypeScript SDKs, a CLI and an MCP server for agents that trade on Hyperliquid and Binance. Open-source client (Apache-2.0).
+
+### Links
+- [Web](https://mishmar.io)
+- [GitHub](https://github.com/mishmar-io/mishmar)
+- [Docs](https://docs.mishmar.io)
+- [Twitter](https://x.com/mishmar_io)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
