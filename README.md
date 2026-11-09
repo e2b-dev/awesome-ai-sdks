@@ -170,6 +170,22 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [pleatkit](https://pleatkit.com)
+Library for putting an editing agent inside a React + Vite app: end users ask for a screen change, the agent rewrites only allow-listed files, and each edit is compiled, checked and kept per user with undo and an admin log.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://pleatkit.com)
+- [GitHub](https://github.com/Kappatich/pleatkit)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
