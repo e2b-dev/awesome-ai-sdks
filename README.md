@@ -170,6 +170,20 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Mobilebox](https://mobilebox.dev)
+Hosted MCP server and REST API for cloud Android phones that AI agents drive: install an APK, read the screen as numbered elements, tap, type and swipe, take screenshots, and park a phone to keep its apps and logins.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://mobilebox.dev)
+- [Docs](https://mobilebox.dev/docs)
+- [GitHub](https://github.com/fifteenA/mobilebox)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
