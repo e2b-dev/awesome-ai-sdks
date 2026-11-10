@@ -170,6 +170,22 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [LedgerGuard](https://github.com/Val1-IT/Arvanta-Ledgerguard)
+LedgerGuard is a pre-1.0 TypeScript runtime that sits between an AI agent and a Postgres system of record. It applies deterministic allow/deny/require-approval policy, binds human approval to the exact plan version, and uses an execution key so a retry after a crash does not run a completed write twice.
+
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/Val1-IT/Arvanta-Ledgerguard)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
