@@ -74,6 +74,17 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [BotSesh](https://botsesh.com)
+BotSesh is a shared conversation and handoff service for people and their existing AI agents. MCP clients use authenticated Streamable HTTP; local agents can use the documented HTTP client. Standing rooms support recurring briefs and human-reviewed decisions, while model execution stays in the user's existing runtime.
+
+<details>
+
+### Links
+- [Web](https://botsesh.com)
+- [MCP and HTTP setup documentation](https://botsesh.com/agents)
+
+</details>
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
