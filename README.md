@@ -170,6 +170,18 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Open Agent Memory](https://github.com/rocke2020/open-agent-memory)
+Self-hosted memory infrastructure for AI agents, with cited recall, conversation-derived memory, document Resources, explicit User Profiles and a source Inspector. Integrates through HTTP, a local stdio MCP server, OpenClaw or DeepSeek Harness; uses PostgreSQL/pgvector and operator-configured models. Apache-2.0.
+
+<details>
+
+### Links
+- [Source and setup](https://github.com/rocke2020/open-agent-memory)
+- [HTTP API](https://github.com/rocke2020/open-agent-memory/blob/main/docs/api.md)
+- [MCP integration](https://github.com/rocke2020/open-agent-memory/tree/main/integrations/mcp)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
