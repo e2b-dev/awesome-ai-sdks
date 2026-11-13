@@ -74,6 +74,19 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [AstralBeam](https://astralbeam.ai/)
+AstralBeam's frontend SDK adds a Cursor-style assistant to web apps, with app tools, custom UI widgets, and file handling. Its agent backend manages conversation history and per-customer usage limits. Use AstralBeam Cloud or self-host the platform.
+
+<details>
+
+### Links
+- [Web](https://astralbeam.ai/)
+- [GitHub](https://github.com/AstralBeamAI/astralbeam)
+- [Docs](https://astralbeam.ai/docs/start/quickstart)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
