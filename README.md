@@ -170,6 +170,19 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [punchtape](https://github.com/neurophant/punchtape)
+An external state machine that supervises AI coding agents: machine-run checks, verified verdicts, signed finishes.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/neurophant/punchtape)
+- [Field study (SSRN preprint)](https://doi.org/10.2139/ssrn.7566638)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
