@@ -60,6 +60,24 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [AeroBrowse](https://github.com/k39139215-gif/aerobrowse)
+A featherweight, dual-engine AI browser engine for autonomous agents that slashes LLM token consumption by 88% with Set-of-Marks action indexing and native FastMCP support.
+
+<details>
+
+### Description
+- **Dual-Engine Architecture**: Tier-1 Turbo mode in Rust (<15MB RAM, sub-100ms) with automatic escalation to Tier-2 CDP Fidelity mode for dynamic SPAs.
+- **88% Token Reduction**: Recursive semantic AST pruning eliminates HTML/CSS/SVG noise while preserving 95%+ of visible text vocabulary.
+- **Set-of-Marks Indexing**: Assigns numeric IDs (`[1]`, `[2]`) to all interactive elements for zero-hallucination agent clicks and form fills.
+- **Drop-in Integrations**: Works out of the box with LangChain, CrewAI, LlamaIndex, Cursor AI, and Claude Desktop.
+
+### Links
+- [GitHub](https://github.com/k39139215-gif/aerobrowse)
+- [PyPI](https://pypi.org/project/aerobrowse)
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
