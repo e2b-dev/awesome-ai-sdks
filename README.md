@@ -122,6 +122,18 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [Kariaa Agents](https://github.com/Kariaa-Works/kariaa-agents)
+Open-source toolkit for agents that find paid work, do it and hand it in: one API over 12 platforms, as a CLI, an MCP server and a TypeScript library.
+
+<details>
+
+### Links
+- [Web](https://kariaa.com/agents)
+- [GitHub](https://github.com/Kariaa-Works/kariaa-agents)
+- [Twitter](https://x.com/KariaaWorks)
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
