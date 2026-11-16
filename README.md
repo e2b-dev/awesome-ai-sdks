@@ -89,6 +89,20 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [Datris](https://github.com/datris/datris-platform-oss)
+Datris is an open-source, self-hosted data control plane for AI agents. Through its MCP server, an agent turns a plain-language request into a validated data feed and lands it in your existing stores, with credentials brokered from your vault and every action policy-checked.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://datris.ai)
+- [GitHub](https://github.com/datris/datris-platform-oss)
+- [Docs](https://docs.datris.ai)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
