@@ -170,6 +170,18 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Neon Innovation Lab](https://neoninnovationlab.com)
+A developer platform and MCP gateway providing live framework documentation tools, automated clean markdown extraction, and forensic image tampering verification for autonomous AI agents.
+
+<details>
+
+### Links
+- [Web](https://neoninnovationlab.com)
+- [GitHub](https://github.com/Ansarii/neoninnovationlab)
+- [MCP Registry](https://glama.ai/mcp/servers/Ansarii/neoninnovationlab)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
