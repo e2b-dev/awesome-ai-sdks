@@ -122,6 +122,25 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [kosa8](https://kosa8.com)
+Commercial sandboxes for AI agents. Each sandbox is a microVM with its own kernel, run on your machine (macOS, Linux, Windows via WSL2) or on kosa8 Cloud, with a host-enforced network allow-list and checkpoint, rewind and fork. SDKs for TypeScript, Python, Go, Ruby and Java, a Docker-compatible API and an MCP server.
+
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://kosa8.com)
+- [Docs](https://docs.kosa8.com)
+- [TypeScript SDK](https://github.com/kosa8ai/kosa8-js)
+- [Python SDK](https://github.com/kosa8ai/kosa8-py)
+
+
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
