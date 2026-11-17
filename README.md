@@ -170,6 +170,20 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [Roopedia MCP](https://roopedia.com/mcp)
+Open-source Model Context Protocol (MCP) server, keyless JSON APIs (`/api/tools`, `/api/stats`), and bilingual security & pricing directory helping AI agents discover audited tools and MCP connectors.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://roopedia.com/mcp)
+- [Open Data Stats](https://roopedia.com/stats)
+- [GitHub](https://github.com/hajejbusiness/roopedia-mcp)
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
