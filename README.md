@@ -60,6 +60,21 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [ACI Architecture Framework](https://team-auralis.github.io/ACI-Architecture-Framework/)
+Tiered memory controller for long-horizon autonomous LLM agents that bounds active context and prevents softmax inundation.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://team-auralis.github.io/ACI-Architecture-Framework/)
+- [GitHub](https://github.com/Team-Auralis/ACI-Architecture-Framework)
+- [Whitepaper](https://team-auralis.github.io/ACI-Architecture-Framework/papers/The_Softmax_Inundation_Theorem.pdf)
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
