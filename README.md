@@ -180,7 +180,7 @@ Hosted MCP server and REST API for cloud Android phones that AI agents drive: in
 ### Links
 - [Web](https://mobilebox.dev)
 - [Docs](https://mobilebox.dev/docs)
-- [GitHub](https://github.com/fifteenA/mobilebox)
+- [GitHub](https://github.com/mobilebox-dev/mobilebox)
 
 </details>
 
