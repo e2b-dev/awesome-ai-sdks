@@ -221,3 +221,15 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+
+
+## [CortexDB](https://cortexdb.ai/?utm_source=awesome-ai-sdks&utm_medium=organic&utm_campaign=G07)
+CortexDB gives AI agents long-term memory so they can store and retrieve context across conversations and workflows.
+
+<details>
+
+### Links
+- [Python SDK](https://pypi.org/project/cortexdbai/)
+- [Documentation](https://cortexdb.ai/docs?utm_source=awesome-ai-sdks&utm_medium=organic&utm_campaign=G07)
+
+</details>
