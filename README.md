@@ -220,4 +220,15 @@ An open source library for building AI-powered user interfaces.
 
 </details>
 
+## [FlashData](https://flashdata.dev)
+Managed Google Search API, YouTube Data & Transcripts API, and batch cloud YouTube Download API with Go SDK, CLI, and Remote/stdio MCP server (`https://data.flashdata.dev/mcp`). Free trial available with no credit card required.
 
+<details>
+
+### Links
+- [Web](https://flashdata.dev)
+- [GitHub MCP Server](https://github.com/flashdatadev/flashdata-mcp)
+- [GitHub Go SDK](https://github.com/flashdatadev/flashdata-go)
+- [Docs](https://flashdata.dev/docs)
+
+</details>
