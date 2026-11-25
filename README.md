@@ -104,6 +104,22 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [Floor-Tested](https://github.com/woodywu-sommelier/hospitality-agent-evals)
+
+Floor-Tested is an open-source scenario suite and GitHub Action for testing hospitality AI agents. It sends fictional guest-service scenarios to an agent endpoint or command and reports automated checks separately from replies that need human review.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/woodywu-sommelier/hospitality-agent-evals)
+- [Web](https://woodywusommelier.com/floor-tested/)
+
+
+
+</details>
+
 ## [Helicone](https://www.helicone.ai/)
 An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
 
