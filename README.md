@@ -104,6 +104,21 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [FMF Tools](https://tools.fmf-x402.workers.dev/?ref=awesome-sdks-for-ai-agents)
+FMF Tools is a catalog of remote MCP servers and pay-per-call APIs that agents can discover and call with no account. tools/list is free; tools/call is pay-per-call via x402 or MPP.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://tools.fmf-x402.workers.dev/?ref=awesome-sdks-for-ai-agents)
+- [Directory MCP](https://tools.fmf-x402.workers.dev/mcp)
+- [GitHub](https://github.com/GeminiGeorge22/fmf-tools)
+
+</details>
+
+
 ## [Helicone](https://www.helicone.ai/)
 An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
 
