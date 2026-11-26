@@ -170,6 +170,23 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+
+## [Scalekit](https://www.scalekit.com/)
+Scalekit gives AI agents auth and tool-calling in third-party apps on behalf of each user — per-user OAuth, a token vault, Virtual MCP, and 1,100+ connectors / 55,000+ tools.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://www.scalekit.com/)
+- [Docs](https://docs.scalekit.com/agentkit/overview/)
+- [GitHub](https://github.com/scalekit-inc)
+- [MCP server](https://github.com/scalekit-inc/scalekit-mcp-server)
+
+</details>
+
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
