@@ -60,6 +60,23 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [AdaptOrch](https://adaptorch.com)
+AdaptOrch is a review layer for AI coding agents. It records what an agent actually ran - inputs, model, tool steps, command outputs, status, skipped checks and artifacts - so a reviewer can verify a claim like "tests pass" against recorded evidence instead of the agent's own summary. Access is over MCP or the REST API; the $0 Starter tier covers 50 admitted runs per month.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [Web](https://adaptorch.com)
+- [MCP docs](https://adaptorch.com/mcp-docs)
+- [Pricing](https://adaptorch.com/#pricing)
+- [GitHub](https://github.com/dmae97/Adaptorch-MCP)
+
+
+</details>
+
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
