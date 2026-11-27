@@ -89,6 +89,20 @@ It is currently in alpha, and is not yet ready for production use.
 
 </details>
 
+## [Dealport](https://github.com/Dealport-HQ/dealport)
+Official TypeScript/JS and Python SDKs, zero-dependency CLI (`npx dealport`), Remote Streamable HTTP MCP server (`https://app.dealport.com/api/mcp`), A2A endpoint, and AI tool adapters (`dealport/tools` for OpenAI, Anthropic, and Vercel AI SDK; `dealport.tools` for LangChain, CrewAI, and Agno) giving AI agents cited Records across 28M+ US private companies, commercial buildings, and verified human owners.
+
+<details>
+
+### Links
+- [Web](https://dealport.com)
+- [Documentation](https://dealport.com/docs)
+- [GitHub](https://github.com/Dealport-HQ/dealport)
+- [npm (`dealport`)](https://www.npmjs.com/package/dealport)
+- [n8n Community Node (`n8n-nodes-dealport`)](https://github.com/Dealport-HQ/n8n-nodes-dealport)
+
+</details>
+
 ## [Fixie]()
 
 Fixie is a platform for conversational AI that enables to build agents in any language. They have their own [agent protocol](https://docs.fixie.ai/agent-protocol/).
