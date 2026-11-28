@@ -170,6 +170,24 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
+## [PACT](https://github.com/Balanov/pact)
+Verifiable trail format for agent-initiated payments: quote, consent, commit, receipt
+
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/Balanov/pact)
+- [Spec](https://github.com/Balanov/pact/blob/main/SPEC.md)
+- [Independent verifier](https://github.com/Balanov/attest)
+
+
+
+</details>
+
 ## [SID](https://www.sid.ai/)
 
 SID is a YC S23 company that makes data infrastructure for AI easy by letting AI devs connect to all of their customer's data with a single button and API.
